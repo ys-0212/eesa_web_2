@@ -1,0 +1,3141 @@
+[
+ {
+  "index": 0,
+  "tag": "header",
+  "cls": "sticky top-0 z-50 transition-all duration-200 bg-rich-black",
+  "rect": {
+   "y": 7909,
+   "h": 72
+  },
+  "text": "PLATFORM\nSOLUTIONS\nRESOURCES\nDOCS\nPRICING\nSIGN IN\nGET DEMO\nGET STARTED",
+  "links": [
+   {
+    "text": "",
+    "href": "https://sentry.io/welcome/",
+    "aria": "Welcome Page"
+   },
+   {
+    "text": "Error Monitoring",
+    "href": "https://sentry.io/product/error-monitoring/",
+    "aria": null
+   },
+   {
+    "text": "Logs",
+    "href": "https://sentry.io/product/logs/",
+    "aria": null
+   },
+   {
+    "text": "Seer NEW",
+    "href": "https://sentry.io/product/seer/",
+    "aria": null
+   },
+   {
+    "text": "Agent",
+    "href": "https://sentry.io/product/seer/agent/",
+    "aria": null
+   },
+   {
+    "text": "Autofix",
+    "href": "https://sentry.io/product/seer/autofix/",
+    "aria": null
+   },
+   {
+    "text": "AI Code Review",
+    "href": "https://sentry.io/product/seer/ai-code-review/",
+    "aria": null
+   },
+   {
+    "text": "Session Replay",
+    "href": "https://sentry.io/product/session-replay/",
+    "aria": null
+   },
+   {
+    "text": "Metrics NEW",
+    "href": "https://sentry.io/product/metrics/",
+    "aria": null
+   },
+   {
+    "text": "Tracing",
+    "href": "https://sentry.io/product/tracing/",
+    "aria": null
+   },
+   {
+    "text": "Agent Tracing",
+    "href": "https://sentry.io/product/tracing/ai-agent/",
+    "aria": null
+   },
+   {
+    "text": "Profiling",
+    "href": "https://sentry.io/product/profiling/",
+    "aria": null
+   },
+   {
+    "text": "Size Analysis",
+    "href": "https://sentry.io/product/size-analysis/",
+    "aria": null
+   },
+   {
+    "text": "Cron Monitoring",
+    "href": "https://sentry.io/product/cron-monitoring/",
+    "aria": null
+   },
+   {
+    "text": "Uptime Monitoring",
+    "href": "https://sentry.io/product/uptime-monitoring/",
+    "aria": null
+   },
+   {
+    "text": "Labs NEW",
+    "href": "https://labs.sentry.dev/",
+    "aria": null
+   },
+   {
+    "text": "Github",
+    "href": "https://sentry.io/integrations/github/",
+    "aria": null
+   },
+   {
+    "text": "Slack",
+    "href": "https://sentry.io/integrations/slack/",
+    "aria": null
+   },
+   {
+    "text": "Sentry CLI",
+    "href": "https://cli.sentry.dev/",
+    "aria": null
+   },
+   {
+    "text": "Sentry MCP",
+    "href": "https://mcp.sentry.dev/",
+    "aria": null
+   },
+   {
+    "text": "All Integrations",
+    "href": "https://sentry.io/integrations/",
+    "aria": null
+   },
+   {
+    "text": "Web / Full Stack Development",
+    "href": "https://sentry.io/for/full-stack/",
+    "aria": null
+   },
+   {
+    "text": "Mobile Crash Reporting",
+    "href": "https://sentry.io/solutions/mobile-developers/",
+    "aria": null
+   },
+   {
+    "text": "Game Crash Reporting",
+    "href": "https://sentry.io/solutions/game-developers/",
+    "aria": null
+   },
+   {
+    "text": "AI Observability",
+    "href": "https://sentry.io/solutions/ai-observability/",
+    "aria": null
+   },
+   {
+    "text": "Application Performance Monitoring",
+    "href": "https://sentry.io/solutions/application-performance-monitoring/",
+    "aria": null
+   },
+   {
+    "text": "Application Observability",
+    "href": "https://sentry.io/solutions/application-observability/",
+    "aria": null
+   },
+   {
+    "text": "Real User Monitoring",
+    "href": "https://sentry.io/solutions/real-user-monitoring-rum/",
+    "aria": null
+   },
+   {
+    "text": "Ecommerce",
+    "href": "https://sentry.io/solutions/ecommerce/",
+    "aria": null
+   },
+   {
+    "text": "OpenTelemetry",
+    "href": "https://sentry.io/solutions/opentelemetry/",
+    "aria": null
+   },
+   {
+    "text": "Enterprise",
+    "href": "https://sentry.io/for/enterprise/",
+    "aria": null
+   },
+   {
+    "text": "Startups",
+    "href": "https://sentry.io/for/startups/",
+    "aria": null
+   },
+   {
+    "text": "All SDKs",
+    "href": "https://sentry.io/platforms/",
+    "aria": null
+   },
+   {
+    "text": "Blog",
+    "href": "https://blog.sentry.io/",
+    "aria": null
+   },
+   {
+    "text": "Changelog",
+    "href": "https://sentry.io/changelog/",
+    "aria": null
+   },
+   {
+    "text": "Sandbox",
+    "href": "https://sandbox.sentry.io/",
+    "aria": null
+   },
+   {
+    "text": "Resources",
+    "href": "https://sentry.io/resources/",
+    "aria": null
+   },
+   {
+    "text": "Syntax",
+    "href": "https://syntax.fm/",
+    "aria": null
+   },
+   {
+    "text": "Customers",
+    "href": "https://sentry.io/customers/",
+    "aria": null
+   },
+   {
+    "text": "Cookbook",
+    "href": "https://sentry.io/cookbook/",
+    "aria": null
+   },
+   {
+    "text": "Contact Us",
+    "href": "https://sentry.io/contact/enterprise/",
+    "aria": null
+   },
+   {
+    "text": "Help Center",
+    "href": "https://help.sentry.io/",
+    "aria": null
+   },
+   {
+    "text": "Status",
+    "href": "https://status.sentry.io/",
+    "aria": null
+   },
+   {
+    "text": "Community",
+    "href": "https://sentry.io/community/",
+    "aria": null
+   },
+   {
+    "text": "Events",
+    "href": "https://sentry.io/events/",
+    "aria": null
+   },
+   {
+    "text": "Merch",
+    "href": "https://sentry.shop/",
+    "aria": null
+   },
+   {
+    "text": "Docs",
+    "href": "https://docs.sentry.io/",
+    "aria": null
+   },
+   {
+    "text": "Pricing",
+    "href": "https://sentry.io/pricing/",
+    "aria": null
+   },
+   {
+    "text": "Sign In",
+    "href": "https://sentry.io/auth/login/",
+    "aria": null
+   },
+   {
+    "text": "Get Demo",
+    "href": "https://sentry.io/demo/",
+    "aria": null
+   },
+   {
+    "text": "Get Started",
+    "href": "https://sentry.io/signup/",
+    "aria": null
+   },
+   {
+    "text": "Error Monitoring",
+    "href": "https://sentry.io/product/error-monitoring/",
+    "aria": null
+   },
+   {
+    "text": "Logs",
+    "href": "https://sentry.io/product/logs/",
+    "aria": null
+   },
+   {
+    "text": "Session Replay",
+    "href": "https://sentry.io/product/session-replay/",
+    "aria": null
+   },
+   {
+    "text": "Metrics NEW",
+    "href": "https://sentry.io/product/metrics/",
+    "aria": null
+   },
+   {
+    "text": "Tracing",
+    "href": "https://sentry.io/product/tracing/",
+    "aria": null
+   },
+   {
+    "text": "Agent Tracing",
+    "href": "https://sentry.io/product/tracing/ai-agent/",
+    "aria": null
+   },
+   {
+    "text": "Profiling",
+    "href": "https://sentry.io/product/profiling/",
+    "aria": null
+   },
+   {
+    "text": "Size Analysis",
+    "href": "https://sentry.io/product/size-analysis/",
+    "aria": null
+   },
+   {
+    "text": "Cron Monitoring",
+    "href": "https://sentry.io/product/cron-monitoring/",
+    "aria": null
+   },
+   {
+    "text": "Uptime Monitoring",
+    "href": "https://sentry.io/product/uptime-monitoring/",
+    "aria": null
+   },
+   {
+    "text": "Labs NEW",
+    "href": "https://labs.sentry.dev/",
+    "aria": null
+   },
+   {
+    "text": "Error Monitoring",
+    "href": "https://sentry.io/product/error-monitoring/",
+    "aria": null
+   },
+   {
+    "text": "Logs",
+    "href": "https://sentry.io/product/logs/",
+    "aria": null
+   },
+   {
+    "text": "Session Replay",
+    "href": "https://sentry.io/product/session-replay/",
+    "aria": null
+   },
+   {
+    "text": "Metrics NEW",
+    "href": "https://sentry.io/product/metrics/",
+    "aria": null
+   },
+   {
+    "text": "Tracing",
+    "href": "https://sentry.io/product/tracing/",
+    "aria": null
+   },
+   {
+    "text": "Agent Tracing",
+    "href": "https://sentry.io/product/tracing/ai-agent/",
+    "aria": null
+   },
+   {
+    "text": "Profiling",
+    "href": "https://sentry.io/product/profiling/",
+    "aria": null
+   },
+   {
+    "text": "Size Analysis",
+    "href": "https://sentry.io/product/size-analysis/",
+    "aria": null
+   },
+   {
+    "text": "Cron Monitoring",
+    "href": "https://sentry.io/product/cron-monitoring/",
+    "aria": null
+   },
+   {
+    "text": "Uptime Monitoring",
+    "href": "https://sentry.io/product/uptime-monitoring/",
+    "aria": null
+   },
+   {
+    "text": "Labs NEW",
+    "href": "https://labs.sentry.dev/",
+    "aria": null
+   },
+   {
+    "text": "Seer NEW",
+    "href": "https://sentry.io/product/seer/",
+    "aria": null
+   },
+   {
+    "text": "Agent",
+    "href": "https://sentry.io/product/seer/agent/",
+    "aria": null
+   },
+   {
+    "text": "Autofix",
+    "href": "https://sentry.io/product/seer/autofix/",
+    "aria": null
+   },
+   {
+    "text": "AI Code Review",
+    "href": "https://sentry.io/product/seer/ai-code-review/",
+    "aria": null
+   },
+   {
+    "text": "Seer NEW",
+    "href": "https://sentry.io/product/seer/",
+    "aria": null
+   },
+   {
+    "text": "Agent",
+    "href": "https://sentry.io/product/seer/agent/",
+    "aria": null
+   },
+   {
+    "text": "Autofix",
+    "href": "https://sentry.io/product/seer/autofix/",
+    "aria": null
+   },
+   {
+    "text": "AI Code Review",
+    "href": "https://sentry.io/product/seer/ai-code-review/",
+    "aria": null
+   },
+   {
+    "text": "Github",
+    "href": "https://sentry.io/integrations/github/",
+    "aria": null
+   },
+   {
+    "text": "Slack",
+    "href": "https://sentry.io/integrations/slack/",
+    "aria": null
+   },
+   {
+    "text": "Sentry CLI",
+    "href": "https://cli.sentry.dev/",
+    "aria": null
+   },
+   {
+    "text": "Sentry MCP",
+    "href": "https://mcp.sentry.dev/",
+    "aria": null
+   },
+   {
+    "text": "All Integrations",
+    "href": "https://sentry.io/integrations/",
+    "aria": null
+   },
+   {
+    "text": "Github",
+    "href": "https://sentry.io/integrations/github/",
+    "aria": null
+   },
+   {
+    "text": "Slack",
+    "href": "https://sentry.io/integrations/slack/",
+    "aria": null
+   },
+   {
+    "text": "Sentry CLI",
+    "href": "https://cli.sentry.dev/",
+    "aria": null
+   },
+   {
+    "text": "Sentry MCP",
+    "href": "https://mcp.sentry.dev/",
+    "aria": null
+   },
+   {
+    "text": "All Integrations",
+    "href": "https://sentry.io/integrations/",
+    "aria": null
+   },
+   {
+    "text": "Web / Full Stack Development",
+    "href": "https://sentry.io/for/full-stack/",
+    "aria": null
+   },
+   {
+    "text": "Mobile Crash Reporting",
+    "href": "https://sentry.io/solutions/mobile-developers/",
+    "aria": null
+   },
+   {
+    "text": "Game Crash Reporting",
+    "href": "https://sentry.io/solutions/game-developers/",
+    "aria": null
+   },
+   {
+    "text": "AI Observability",
+    "href": "https://sentry.io/solutions/ai-observability/",
+    "aria": null
+   },
+   {
+    "text": "Application Performance Monitoring",
+    "href": "https://sentry.io/solutions/application-performance-monitoring/",
+    "aria": null
+   },
+   {
+    "text": "Application Observability",
+    "href": "https://sentry.io/solutions/application-observability/",
+    "aria": null
+   },
+   {
+    "text": "Real User Monitoring",
+    "href": "https://sentry.io/solutions/real-user-monitoring-rum/",
+    "aria": null
+   },
+   {
+    "text": "Ecommerce",
+    "href": "https://sentry.io/solutions/ecommerce/",
+    "aria": null
+   },
+   {
+    "text": "OpenTelemetry",
+    "href": "https://sentry.io/solutions/opentelemetry/",
+    "aria": null
+   },
+   {
+    "text": "Enterprise",
+    "href": "https://sentry.io/for/enterprise/",
+    "aria": null
+   },
+   {
+    "text": "Startups",
+    "href": "https://sentry.io/for/startups/",
+    "aria": null
+   },
+   {
+    "text": "All SDKs",
+    "href": "https://sentry.io/platforms/",
+    "aria": null
+   },
+   {
+    "text": "Blog",
+    "href": "https://blog.sentry.io/",
+    "aria": null
+   },
+   {
+    "text": "Changelog",
+    "href": "https://sentry.io/changelog/",
+    "aria": null
+   },
+   {
+    "text": "Sandbox",
+    "href": "https://sandbox.sentry.io/",
+    "aria": null
+   },
+   {
+    "text": "Resources",
+    "href": "https://sentry.io/resources/",
+    "aria": null
+   },
+   {
+    "text": "Syntax",
+    "href": "https://syntax.fm/",
+    "aria": null
+   },
+   {
+    "text": "Customers",
+    "href": "https://sentry.io/customers/",
+    "aria": null
+   },
+   {
+    "text": "Cookbook",
+    "href": "https://sentry.io/cookbook/",
+    "aria": null
+   },
+   {
+    "text": "Blog",
+    "href": "https://blog.sentry.io/",
+    "aria": null
+   },
+   {
+    "text": "Changelog",
+    "href": "https://sentry.io/changelog/",
+    "aria": null
+   },
+   {
+    "text": "Sandbox",
+    "href": "https://sandbox.sentry.io/",
+    "aria": null
+   },
+   {
+    "text": "Resources",
+    "href": "https://sentry.io/resources/",
+    "aria": null
+   },
+   {
+    "text": "Syntax",
+    "href": "https://syntax.fm/",
+    "aria": null
+   },
+   {
+    "text": "Customers",
+    "href": "https://sentry.io/customers/",
+    "aria": null
+   },
+   {
+    "text": "Cookbook",
+    "href": "https://sentry.io/cookbook/",
+    "aria": null
+   },
+   {
+    "text": "Contact Us",
+    "href": "https://sentry.io/contact/enterprise/",
+    "aria": null
+   },
+   {
+    "text": "Help Center",
+    "href": "https://help.sentry.io/",
+    "aria": null
+   },
+   {
+    "text": "Status",
+    "href": "https://status.sentry.io/",
+    "aria": null
+   },
+   {
+    "text": "Contact Us",
+    "href": "https://sentry.io/contact/enterprise/",
+    "aria": null
+   },
+   {
+    "text": "Help Center",
+    "href": "https://help.sentry.io/",
+    "aria": null
+   },
+   {
+    "text": "Status",
+    "href": "https://status.sentry.io/",
+    "aria": null
+   },
+   {
+    "text": "Community",
+    "href": "https://sentry.io/community/",
+    "aria": null
+   },
+   {
+    "text": "Events",
+    "href": "https://sentry.io/events/",
+    "aria": null
+   },
+   {
+    "text": "Merch",
+    "href": "https://sentry.shop/",
+    "aria": null
+   },
+   {
+    "text": "Community",
+    "href": "https://sentry.io/community/",
+    "aria": null
+   },
+   {
+    "text": "Events",
+    "href": "https://sentry.io/events/",
+    "aria": null
+   },
+   {
+    "text": "Merch",
+    "href": "https://sentry.shop/",
+    "aria": null
+   },
+   {
+    "text": "Automate Your Debugging",
+    "href": "https://sentry.io/resources/automated-debugging/",
+    "aria": null
+   },
+   {
+    "text": "DOCS",
+    "href": "https://docs.sentry.io/",
+    "aria": null
+   },
+   {
+    "text": "PRICING",
+    "href": "https://sentry.io/pricing/",
+    "aria": null
+   },
+   {
+    "text": "SIGN IN",
+    "href": "https://sentry.io/auth/login/",
+    "aria": null
+   },
+   {
+    "text": "GET DEMO",
+    "href": "https://sentry.io/demo/",
+    "aria": null
+   },
+   {
+    "text": "GET STARTED",
+    "href": "https://sentry.io/signup/",
+    "aria": null
+   }
+  ],
+  "controls": [
+   {
+    "tag": "button",
+    "role": null,
+    "text": "Menu",
+    "aria": null,
+    "type": "button",
+    "name": null,
+    "placeholder": null,
+    "selected": null,
+    "expanded": "false"
+   },
+   {
+    "tag": "button",
+    "role": null,
+    "text": "Platform",
+    "aria": null,
+    "type": "button",
+    "name": null,
+    "placeholder": null,
+    "selected": null,
+    "expanded": "false"
+   },
+   {
+    "tag": "button",
+    "role": null,
+    "text": "Products",
+    "aria": null,
+    "type": "button",
+    "name": null,
+    "placeholder": null,
+    "selected": null,
+    "expanded": "false"
+   },
+   {
+    "tag": "button",
+    "role": null,
+    "text": "Seer",
+    "aria": null,
+    "type": "button",
+    "name": null,
+    "placeholder": null,
+    "selected": null,
+    "expanded": "false"
+   },
+   {
+    "tag": "button",
+    "role": null,
+    "text": "Tracing",
+    "aria": null,
+    "type": "button",
+    "name": null,
+    "placeholder": null,
+    "selected": null,
+    "expanded": "false"
+   },
+   {
+    "tag": "button",
+    "role": null,
+    "text": "Integrations",
+    "aria": null,
+    "type": "button",
+    "name": null,
+    "placeholder": null,
+    "selected": null,
+    "expanded": "false"
+   },
+   {
+    "tag": "button",
+    "role": null,
+    "text": "Solutions",
+    "aria": null,
+    "type": "button",
+    "name": null,
+    "placeholder": null,
+    "selected": null,
+    "expanded": "false"
+   },
+   {
+    "tag": "button",
+    "role": null,
+    "text": "Resources",
+    "aria": null,
+    "type": "button",
+    "name": null,
+    "placeholder": null,
+    "selected": null,
+    "expanded": "false"
+   },
+   {
+    "tag": "button",
+    "role": null,
+    "text": "Learn",
+    "aria": null,
+    "type": "button",
+    "name": null,
+    "placeholder": null,
+    "selected": null,
+    "expanded": "false"
+   },
+   {
+    "tag": "button",
+    "role": null,
+    "text": "Support",
+    "aria": null,
+    "type": "button",
+    "name": null,
+    "placeholder": null,
+    "selected": null,
+    "expanded": "false"
+   },
+   {
+    "tag": "button",
+    "role": null,
+    "text": "Hang out with us",
+    "aria": null,
+    "type": "button",
+    "name": null,
+    "placeholder": null,
+    "selected": null,
+    "expanded": "false"
+   },
+   {
+    "tag": "button",
+    "role": null,
+    "text": "PLATFORM",
+    "aria": null,
+    "type": "button",
+    "name": null,
+    "placeholder": null,
+    "selected": null,
+    "expanded": "false"
+   },
+   {
+    "tag": "button",
+    "role": null,
+    "text": "Products",
+    "aria": null,
+    "type": "button",
+    "name": null,
+    "placeholder": null,
+    "selected": null,
+    "expanded": "false"
+   },
+   {
+    "tag": "button",
+    "role": null,
+    "text": "AI Debugging",
+    "aria": null,
+    "type": "button",
+    "name": null,
+    "placeholder": null,
+    "selected": null,
+    "expanded": "false"
+   },
+   {
+    "tag": "button",
+    "role": null,
+    "text": "Integrations",
+    "aria": null,
+    "type": "button",
+    "name": null,
+    "placeholder": null,
+    "selected": null,
+    "expanded": "false"
+   },
+   {
+    "tag": "button",
+    "role": null,
+    "text": "SOLUTIONS",
+    "aria": null,
+    "type": "button",
+    "name": null,
+    "placeholder": null,
+    "selected": null,
+    "expanded": "false"
+   },
+   {
+    "tag": "button",
+    "role": null,
+    "text": "RESOURCES",
+    "aria": null,
+    "type": "button",
+    "name": null,
+    "placeholder": null,
+    "selected": null,
+    "expanded": "false"
+   },
+   {
+    "tag": "button",
+    "role": null,
+    "text": "Learn",
+    "aria": null,
+    "type": "button",
+    "name": null,
+    "placeholder": null,
+    "selected": null,
+    "expanded": "false"
+   },
+   {
+    "tag": "button",
+    "role": null,
+    "text": "Support",
+    "aria": null,
+    "type": "button",
+    "name": null,
+    "placeholder": null,
+    "selected": null,
+    "expanded": "false"
+   },
+   {
+    "tag": "button",
+    "role": null,
+    "text": "Hang out with us",
+    "aria": null,
+    "type": "button",
+    "name": null,
+    "placeholder": null,
+    "selected": null,
+    "expanded": "false"
+   }
+  ],
+  "svgs": [
+   {
+    "w": 145,
+    "h": 32,
+    "cls": "block h-8",
+    "parentCls": "flex items-center flex-shrink-0 mr-auto text-white focus:outline-none focus:fill-pink-500",
+    "file": "analysis/raw/svg/s00-00.svg",
+    "bytes": 1460
+   },
+   {
+    "w": 0,
+    "h": 0,
+    "cls": null,
+    "parentCls": "chevron transition-transform duration-200",
+    "file": "analysis/raw/svg/s00-01.svg",
+    "bytes": 214
+   },
+   {
+    "w": 0,
+    "h": 0,
+    "cls": null,
+    "parentCls": "chevron transition-transform duration-200",
+    "file": "analysis/raw/svg/s00-02.svg",
+    "bytes": 214
+   },
+   {
+    "w": 0,
+    "h": 0,
+    "cls": null,
+    "parentCls": "chevron transition-transform duration-200",
+    "file": "analysis/raw/svg/s00-03.svg",
+    "bytes": 214
+   },
+   {
+    "w": 0,
+    "h": 0,
+    "cls": null,
+    "parentCls": "chevron transition-transform duration-200",
+    "file": "analysis/raw/svg/s00-04.svg",
+    "bytes": 214
+   },
+   {
+    "w": 0,
+    "h": 0,
+    "cls": null,
+    "parentCls": "chevron transition-transform duration-200",
+    "file": "analysis/raw/svg/s00-05.svg",
+    "bytes": 214
+   },
+   {
+    "w": 0,
+    "h": 0,
+    "cls": null,
+    "parentCls": "chevron transition-transform duration-200",
+    "file": "analysis/raw/svg/s00-06.svg",
+    "bytes": 214
+   },
+   {
+    "w": 0,
+    "h": 0,
+    "cls": null,
+    "parentCls": "chevron transition-transform duration-200",
+    "file": "analysis/raw/svg/s00-07.svg",
+    "bytes": 214
+   },
+   {
+    "w": 0,
+    "h": 0,
+    "cls": null,
+    "parentCls": "chevron transition-transform duration-200",
+    "file": "analysis/raw/svg/s00-08.svg",
+    "bytes": 214
+   },
+   {
+    "w": 0,
+    "h": 0,
+    "cls": null,
+    "parentCls": "chevron transition-transform duration-200",
+    "file": "analysis/raw/svg/s00-09.svg",
+    "bytes": 214
+   },
+   {
+    "w": 0,
+    "h": 0,
+    "cls": null,
+    "parentCls": "chevron transition-transform duration-200",
+    "file": "analysis/raw/svg/s00-10.svg",
+    "bytes": 214
+   },
+   {
+    "w": 0,
+    "h": 0,
+    "cls": null,
+    "parentCls": "chevron transition-transform duration-200",
+    "file": "analysis/raw/svg/s00-11.svg",
+    "bytes": 214
+   },
+   {
+    "w": 14,
+    "h": 14,
+    "cls": null,
+    "parentCls": "chevron transition-transform duration-200",
+    "file": "analysis/raw/svg/s00-12.svg",
+    "bytes": 214
+   },
+   {
+    "w": 0,
+    "h": 0,
+    "cls": null,
+    "parentCls": "chevron transition-transform duration-200",
+    "file": "analysis/raw/svg/s00-13.svg",
+    "bytes": 214
+   },
+   {
+    "w": 0,
+    "h": 0,
+    "cls": null,
+    "parentCls": "chevron transition-transform duration-200",
+    "file": "analysis/raw/svg/s00-14.svg",
+    "bytes": 214
+   },
+   {
+    "w": 0,
+    "h": 0,
+    "cls": null,
+    "parentCls": "chevron transition-transform duration-200",
+    "file": "analysis/raw/svg/s00-15.svg",
+    "bytes": 214
+   },
+   {
+    "w": 14,
+    "h": 14,
+    "cls": null,
+    "parentCls": "chevron transition-transform duration-200",
+    "file": "analysis/raw/svg/s00-16.svg",
+    "bytes": 214
+   },
+   {
+    "w": 14,
+    "h": 14,
+    "cls": null,
+    "parentCls": "chevron transition-transform duration-200",
+    "file": "analysis/raw/svg/s00-17.svg",
+    "bytes": 214
+   },
+   {
+    "w": 0,
+    "h": 0,
+    "cls": null,
+    "parentCls": "chevron transition-transform duration-200",
+    "file": "analysis/raw/svg/s00-18.svg",
+    "bytes": 214
+   },
+   {
+    "w": 0,
+    "h": 0,
+    "cls": null,
+    "parentCls": "chevron transition-transform duration-200",
+    "file": "analysis/raw/svg/s00-19.svg",
+    "bytes": 214
+   },
+   {
+    "w": 0,
+    "h": 0,
+    "cls": null,
+    "parentCls": "chevron transition-transform duration-200",
+    "file": "analysis/raw/svg/s00-20.svg",
+    "bytes": 214
+   }
+  ]
+ },
+ {
+  "index": 1,
+  "tag": "section",
+  "cls": "relative overflow-x-clip z-0 pb-4 lg:pb-16  ",
+  "rect": {
+   "y": 72,
+   "h": 1135
+  },
+  "text": "Sentry MCP: fix production issues right from your LLM  ➔\nCode breaks, fix it faster\nApplication monitoring software considered  \"not bad\" by millions of developers.\nGET STARTED\nGET DEMO",
+  "links": [
+   {
+    "text": "Sentry MCP: fix production issues right from your LLM ➔",
+    "href": "https://mcp.sentry.dev",
+    "aria": null
+   },
+   {
+    "text": "GET STARTED",
+    "href": "https://sentry.io/signup/",
+    "aria": null
+   },
+   {
+    "text": "GET DEMO",
+    "href": "https://sentry.io/demo/",
+    "aria": null
+   }
+  ],
+  "controls": [],
+  "svgs": []
+ },
+ {
+  "index": 2,
+  "tag": "section",
+  "cls": "relative overflow-x-clip z-0 pt-12 md:pt-20 lg:pt-32 pb-12 md:pb-20 lg:pb-32  ",
+  "rect": {
+   "y": 1207,
+   "h": 672
+  },
+  "text": "GitHub\nDisney\nAtlassian\nLinear\nVercel\nCloudflare\nSlack\nMetronome\nAutodesk\nMicrosoft\nInstacart\nLyft\nBolt\nMonday\nCursor\nAnthropic\nFactory AI\nSentry\nBaseten\nRunlayer\nConvex\nSupabase",
+  "links": [],
+  "controls": [],
+  "svgs": [
+   {
+    "w": 118,
+    "h": 32,
+    "cls": null,
+    "parentCls": "logo-svg",
+    "file": "analysis/raw/svg/s02-00.svg",
+    "bytes": 2020
+   },
+   {
+    "w": 115,
+    "h": 48,
+    "cls": null,
+    "parentCls": "logo-svg",
+    "file": "analysis/raw/svg/s02-01.svg",
+    "bytes": 3488
+   },
+   {
+    "w": 193,
+    "h": 24,
+    "cls": null,
+    "parentCls": "logo-svg",
+    "file": "analysis/raw/svg/s02-02.svg",
+    "bytes": 1778
+   },
+   {
+    "w": 128,
+    "h": 32,
+    "cls": null,
+    "parentCls": "logo-svg",
+    "file": "analysis/raw/svg/s02-03.svg",
+    "bytes": 4589
+   },
+   {
+    "w": 121,
+    "h": 24,
+    "cls": null,
+    "parentCls": "logo-svg",
+    "file": "analysis/raw/svg/s02-04.svg",
+    "bytes": 3634
+   },
+   {
+    "w": 109,
+    "h": 36,
+    "cls": null,
+    "parentCls": "logo-svg",
+    "file": "analysis/raw/svg/s02-05.svg",
+    "bytes": 1913
+   },
+   {
+    "w": 94,
+    "h": 24,
+    "cls": null,
+    "parentCls": "logo-svg",
+    "file": "analysis/raw/svg/s02-06.svg",
+    "bytes": 2372
+   },
+   {
+    "w": 200,
+    "h": 20,
+    "cls": null,
+    "parentCls": "logo-svg",
+    "file": "analysis/raw/svg/s02-07.svg",
+    "bytes": 3507
+   },
+   {
+    "w": 141,
+    "h": 24,
+    "cls": null,
+    "parentCls": "logo-svg",
+    "file": "analysis/raw/svg/s02-08.svg",
+    "bytes": 1829
+   },
+   {
+    "w": 150,
+    "h": 32,
+    "cls": null,
+    "parentCls": "logo-svg",
+    "file": "analysis/raw/svg/s02-09.svg",
+    "bytes": 3521
+   },
+   {
+    "w": 153,
+    "h": 24,
+    "cls": null,
+    "parentCls": "logo-svg",
+    "file": "analysis/raw/svg/s02-10.svg",
+    "bytes": 4712
+   },
+   {
+    "w": 45,
+    "h": 32,
+    "cls": null,
+    "parentCls": "logo-svg",
+    "label": "lyft",
+    "file": "analysis/raw/svg/s02-11.svg",
+    "bytes": 1641
+   },
+   {
+    "w": 64,
+    "h": 28,
+    "cls": null,
+    "parentCls": "logo-svg",
+    "file": "analysis/raw/svg/s02-12.svg",
+    "bytes": 1877
+   },
+   {
+    "w": 176,
+    "h": 32,
+    "cls": null,
+    "parentCls": "logo-svg",
+    "file": "analysis/raw/svg/s02-13.svg",
+    "bytes": 3284
+   },
+   {
+    "w": 149,
+    "h": 28,
+    "cls": null,
+    "parentCls": "logo-svg",
+    "file": "analysis/raw/svg/s02-14.svg",
+    "bytes": 2035
+   },
+   {
+    "w": 178,
+    "h": 20,
+    "cls": null,
+    "parentCls": "logo-svg",
+    "file": "analysis/raw/svg/s02-15.svg",
+    "bytes": 3731
+   },
+   {
+    "w": 160,
+    "h": 24,
+    "cls": null,
+    "parentCls": "logo-svg",
+    "label": "Factory.ai Logo",
+    "file": "analysis/raw/svg/s02-16.svg",
+    "bytes": 8209
+   },
+   {
+    "w": 108,
+    "h": 32,
+    "cls": null,
+    "parentCls": "logo-svg",
+    "file": "analysis/raw/svg/s02-17.svg",
+    "bytes": 1490
+   },
+   {
+    "w": 123,
+    "h": 32,
+    "cls": null,
+    "parentCls": "logo-svg",
+    "file": "analysis/raw/svg/s02-18.svg",
+    "bytes": 3959
+   },
+   {
+    "w": 126,
+    "h": 32,
+    "cls": null,
+    "parentCls": "logo-svg",
+    "file": "analysis/raw/svg/s02-19.svg",
+    "bytes": 8695
+   },
+   {
+    "w": 151,
+    "h": 24,
+    "cls": null,
+    "parentCls": "logo-svg",
+    "file": "analysis/raw/svg/s02-20.svg",
+    "bytes": 3081
+   },
+   {
+    "w": 144,
+    "h": 28,
+    "cls": null,
+    "parentCls": "logo-svg",
+    "file": "analysis/raw/svg/s02-21.svg",
+    "bytes": 5299
+   },
+   {
+    "w": 118,
+    "h": 32,
+    "cls": null,
+    "parentCls": "logo-svg",
+    "file": "analysis/raw/svg/s02-22.svg",
+    "bytes": 2020
+   },
+   {
+    "w": 115,
+    "h": 48,
+    "cls": null,
+    "parentCls": "logo-svg",
+    "file": "analysis/raw/svg/s02-23.svg",
+    "bytes": 3488
+   },
+   {
+    "w": 193,
+    "h": 24,
+    "cls": null,
+    "parentCls": "logo-svg",
+    "file": "analysis/raw/svg/s02-24.svg",
+    "bytes": 1778
+   },
+   {
+    "w": 128,
+    "h": 32,
+    "cls": null,
+    "parentCls": "logo-svg",
+    "file": "analysis/raw/svg/s02-25.svg",
+    "bytes": 4589
+   },
+   {
+    "w": 121,
+    "h": 24,
+    "cls": null,
+    "parentCls": "logo-svg",
+    "file": "analysis/raw/svg/s02-26.svg",
+    "bytes": 3634
+   },
+   {
+    "w": 109,
+    "h": 36,
+    "cls": null,
+    "parentCls": "logo-svg",
+    "file": "analysis/raw/svg/s02-27.svg",
+    "bytes": 1913
+   },
+   {
+    "w": 94,
+    "h": 24,
+    "cls": null,
+    "parentCls": "logo-svg",
+    "file": "analysis/raw/svg/s02-28.svg",
+    "bytes": 2372
+   },
+   {
+    "w": 200,
+    "h": 20,
+    "cls": null,
+    "parentCls": "logo-svg",
+    "file": "analysis/raw/svg/s02-29.svg",
+    "bytes": 3507
+   },
+   {
+    "w": 141,
+    "h": 24,
+    "cls": null,
+    "parentCls": "logo-svg",
+    "file": "analysis/raw/svg/s02-30.svg",
+    "bytes": 1829
+   },
+   {
+    "w": 150,
+    "h": 32,
+    "cls": null,
+    "parentCls": "logo-svg",
+    "file": "analysis/raw/svg/s02-31.svg",
+    "bytes": 3521
+   },
+   {
+    "w": 153,
+    "h": 24,
+    "cls": null,
+    "parentCls": "logo-svg",
+    "file": "analysis/raw/svg/s02-32.svg",
+    "bytes": 4712
+   },
+   {
+    "w": 45,
+    "h": 32,
+    "cls": null,
+    "parentCls": "logo-svg",
+    "label": "lyft",
+    "file": "analysis/raw/svg/s02-33.svg",
+    "bytes": 1641
+   },
+   {
+    "w": 64,
+    "h": 28,
+    "cls": null,
+    "parentCls": "logo-svg",
+    "file": "analysis/raw/svg/s02-34.svg",
+    "bytes": 1877
+   },
+   {
+    "w": 176,
+    "h": 32,
+    "cls": null,
+    "parentCls": "logo-svg",
+    "file": "analysis/raw/svg/s02-35.svg",
+    "bytes": 3284
+   },
+   {
+    "w": 149,
+    "h": 28,
+    "cls": null,
+    "parentCls": "logo-svg",
+    "file": "analysis/raw/svg/s02-36.svg",
+    "bytes": 2035
+   },
+   {
+    "w": 178,
+    "h": 20,
+    "cls": null,
+    "parentCls": "logo-svg",
+    "file": "analysis/raw/svg/s02-37.svg",
+    "bytes": 3731
+   },
+   {
+    "w": 160,
+    "h": 24,
+    "cls": null,
+    "parentCls": "logo-svg",
+    "label": "Factory.ai Logo",
+    "file": "analysis/raw/svg/s02-38.svg",
+    "bytes": 8209
+   },
+   {
+    "w": 108,
+    "h": 32,
+    "cls": null,
+    "parentCls": "logo-svg",
+    "file": "analysis/raw/svg/s02-39.svg",
+    "bytes": 1490
+   },
+   {
+    "w": 123,
+    "h": 32,
+    "cls": null,
+    "parentCls": "logo-svg",
+    "file": "analysis/raw/svg/s02-40.svg",
+    "bytes": 3959
+   },
+   {
+    "w": 126,
+    "h": 32,
+    "cls": null,
+    "parentCls": "logo-svg",
+    "file": "analysis/raw/svg/s02-41.svg",
+    "bytes": 8695
+   },
+   {
+    "w": 151,
+    "h": 24,
+    "cls": null,
+    "parentCls": "logo-svg",
+    "file": "analysis/raw/svg/s02-42.svg",
+    "bytes": 3081
+   },
+   {
+    "w": 144,
+    "h": 28,
+    "cls": null,
+    "parentCls": "logo-svg",
+    "file": "analysis/raw/svg/s02-43.svg",
+    "bytes": 5299
+   }
+  ]
+ },
+ {
+  "index": 3,
+  "tag": "section",
+  "cls": "relative overflow-x-clip z-0 pb-12 md:pb-20 lg:pb-32  ",
+  "rect": {
+   "y": 1879,
+   "h": 947
+  },
+  "text": "Developer first.\nAlways.\nMonitor in five lines\nDrop in the SDK. No agents to install. No performance surprises.\nAutomatically root-cause any issue\nCatch critical issues before you merge and fix them when they hit prod with Seer, our debugging agent and code reviewer.\nBabysit the bots\nAgent tracing helps you catch unexpected output issues, bad tool calls and visualize the spend and performance across all your agents.\nStay in the flow\nFrom GitHub, Slack, Jira, and Linear to coding agents with Sentry's MCP server, Sentry brings full context to every fix from dev to prod.",
+  "links": [
+   {
+    "text": "SDK",
+    "href": "https://sentry.io/platforms/",
+    "aria": null
+   },
+   {
+    "text": "Seer, our debugging agent and code reviewer",
+    "href": "https://sentry.io/product/seer/",
+    "aria": null
+   },
+   {
+    "text": "Agent tracing",
+    "href": "https://sentry.io/product/tracing/ai-agent/",
+    "aria": null
+   },
+   {
+    "text": "GitHub",
+    "href": "https://sentry.io/integrations/github/",
+    "aria": null
+   },
+   {
+    "text": "Slack",
+    "href": "https://sentry.io/integrations/slack/",
+    "aria": null
+   },
+   {
+    "text": "Jira",
+    "href": "https://sentry.io/integrations/jira/",
+    "aria": null
+   },
+   {
+    "text": "Linear",
+    "href": "https://sentry.io/integrations/linear/",
+    "aria": null
+   },
+   {
+    "text": "Sentry's MCP server",
+    "href": "https://mcp.sentry.dev/",
+    "aria": null
+   },
+   {
+    "text": "SDK",
+    "href": "https://sentry.io/platforms/",
+    "aria": null
+   },
+   {
+    "text": "Seer, our debugging agent and code reviewer",
+    "href": "https://sentry.io/product/seer/",
+    "aria": null
+   },
+   {
+    "text": "Agent tracing",
+    "href": "https://sentry.io/product/tracing/ai-agent/",
+    "aria": null
+   },
+   {
+    "text": "GitHub",
+    "href": "https://sentry.io/integrations/github/",
+    "aria": null
+   },
+   {
+    "text": "Slack",
+    "href": "https://sentry.io/integrations/slack/",
+    "aria": null
+   },
+   {
+    "text": "Jira",
+    "href": "https://sentry.io/integrations/jira/",
+    "aria": null
+   },
+   {
+    "text": "Linear",
+    "href": "https://sentry.io/integrations/linear/",
+    "aria": null
+   },
+   {
+    "text": "Sentry's MCP server",
+    "href": "https://mcp.sentry.dev/",
+    "aria": null
+   }
+  ],
+  "controls": [
+   {
+    "tag": "button",
+    "role": null,
+    "text": "Previous",
+    "aria": "Previous",
+    "type": null,
+    "name": null,
+    "placeholder": null,
+    "selected": null,
+    "expanded": null
+   },
+   {
+    "tag": "button",
+    "role": null,
+    "text": "Next",
+    "aria": "Next",
+    "type": null,
+    "name": null,
+    "placeholder": null,
+    "selected": null,
+    "expanded": null
+   }
+  ],
+  "svgs": [
+   {
+    "w": 0,
+    "h": 0,
+    "cls": null,
+    "parentCls": "w-12 h-12 flex items-center justify-center bg-[#2d2340] border-2 border-[#433458] rounded-2xl text-c",
+    "file": "analysis/raw/svg/s03-00.svg",
+    "bytes": 271
+   },
+   {
+    "w": 0,
+    "h": 0,
+    "cls": null,
+    "parentCls": "w-12 h-12 flex items-center justify-center bg-[#2d2340] border-2 border-[#433458] rounded-2xl text-c",
+    "file": "analysis/raw/svg/s03-01.svg",
+    "bytes": 271
+   }
+  ]
+ },
+ {
+  "index": 4,
+  "tag": "section",
+  "cls": "relative overflow-x-clip z-0 pb-12 md:pb-20 lg:pb-32  ",
+  "rect": {
+   "y": 2826,
+   "h": 999
+  },
+  "text": "Everything’s\nconnected\nYeah, other tools exist. But errors, logs, replays, spans, profiles, and metrics — all connected by the same trace? That’s kind of our thing.\nGo from Issue → Context → Fix.\nDebug 500's, trace slow requests, replay fetch() failures, and fix the broken code that caused it.\nCatch slow queries, N+1s, and request timeouts before the ‘why is this so slow?’ posts fill up your feed.\nMap every incident to the release, PR, and owner -- automatically.",
+  "links": [
+   {
+    "text": "errors",
+    "href": "https://sentry.io/product/error-monitoring/",
+    "aria": null
+   },
+   {
+    "text": "logs",
+    "href": "https://sentry.io/product/logs/",
+    "aria": null
+   },
+   {
+    "text": "replays",
+    "href": "https://sentry.io/product/session-replay/",
+    "aria": null
+   },
+   {
+    "text": "spans",
+    "href": "https://sentry.io/product/tracing/",
+    "aria": null
+   },
+   {
+    "text": "profiles",
+    "href": "https://sentry.io/product/profiling/",
+    "aria": null
+   },
+   {
+    "text": "metrics",
+    "href": "https://sentry.io/product/metrics/",
+    "aria": null
+   }
+  ],
+  "controls": [
+   {
+    "tag": "button",
+    "role": null,
+    "text": "Debug 500's, trace slow requests, replay fetch() failures, and fix the broken co",
+    "aria": null,
+    "type": null,
+    "name": null,
+    "placeholder": null,
+    "selected": null,
+    "expanded": null
+   },
+   {
+    "tag": "button",
+    "role": null,
+    "text": "Catch slow queries, N+1s, and request timeouts before the ‘why is this so slow?’",
+    "aria": null,
+    "type": null,
+    "name": null,
+    "placeholder": null,
+    "selected": null,
+    "expanded": null
+   },
+   {
+    "tag": "button",
+    "role": null,
+    "text": "Map every incident to the release, PR, and owner -- automatically.",
+    "aria": null,
+    "type": null,
+    "name": null,
+    "placeholder": null,
+    "selected": null,
+    "expanded": null
+   }
+  ],
+  "svgs": []
+ },
+ {
+  "index": 5,
+  "tag": "section",
+  "cls": "w-full p-0 border-0 bg-transparent",
+  "rect": {
+   "y": 2826,
+   "h": 807
+  },
+  "text": "Everything’s\nconnected\nYeah, other tools exist. But errors, logs, replays, spans, profiles, and metrics — all connected by the same trace? That’s kind of our thing.\nGo from Issue → Context → Fix.\nDebug 500's, trace slow requests, replay fetch() failures, and fix the broken code that caused it.\nCatch slow queries, N+1s, and request timeouts before the ‘why is this so slow?’ posts fill up your feed.\nMap every incident to the release, PR, and owner -- automatically.",
+  "links": [
+   {
+    "text": "errors",
+    "href": "https://sentry.io/product/error-monitoring/",
+    "aria": null
+   },
+   {
+    "text": "logs",
+    "href": "https://sentry.io/product/logs/",
+    "aria": null
+   },
+   {
+    "text": "replays",
+    "href": "https://sentry.io/product/session-replay/",
+    "aria": null
+   },
+   {
+    "text": "spans",
+    "href": "https://sentry.io/product/tracing/",
+    "aria": null
+   },
+   {
+    "text": "profiles",
+    "href": "https://sentry.io/product/profiling/",
+    "aria": null
+   },
+   {
+    "text": "metrics",
+    "href": "https://sentry.io/product/metrics/",
+    "aria": null
+   }
+  ],
+  "controls": [
+   {
+    "tag": "button",
+    "role": null,
+    "text": "Debug 500's, trace slow requests, replay fetch() failures, and fix the broken co",
+    "aria": null,
+    "type": null,
+    "name": null,
+    "placeholder": null,
+    "selected": null,
+    "expanded": null
+   },
+   {
+    "tag": "button",
+    "role": null,
+    "text": "Catch slow queries, N+1s, and request timeouts before the ‘why is this so slow?’",
+    "aria": null,
+    "type": null,
+    "name": null,
+    "placeholder": null,
+    "selected": null,
+    "expanded": null
+   },
+   {
+    "tag": "button",
+    "role": null,
+    "text": "Map every incident to the release, PR, and owner -- automatically.",
+    "aria": null,
+    "type": null,
+    "name": null,
+    "placeholder": null,
+    "selected": null,
+    "expanded": null
+   }
+  ],
+  "svgs": []
+ },
+ {
+  "index": 6,
+  "tag": "section",
+  "cls": "relative overflow-x-clip z-0 pb-12 md:pb-20 lg:pb-32  ",
+  "rect": {
+   "y": 3825,
+   "h": 989
+  },
+  "text": "Debugging needs context— \nwith or without AI\nSeer, our AI debugger, uses Sentry context – logs, commits, traces, stack trace - so you can stop guessing and it can fix issues for you. \nAnalyzes every signal to explain why your code failed, not just where.\nFixes what’s broken while you ship what’s next – generating precise, merge-ready patches.\nStops bad code before it starts bad days. Correlating PRs against real error and performance history to catch regressions before they ship.",
+  "links": [
+   {
+    "text": "Seer",
+    "href": "https://sentry.io/product/seer/",
+    "aria": null
+   }
+  ],
+  "controls": [
+   {
+    "tag": "button",
+    "role": null,
+    "text": "Analyzes every signal to explain why your code failed, not just where.",
+    "aria": null,
+    "type": null,
+    "name": null,
+    "placeholder": null,
+    "selected": null,
+    "expanded": null
+   },
+   {
+    "tag": "button",
+    "role": null,
+    "text": "Fixes what’s broken while you ship what’s next – generating precise, merge-ready",
+    "aria": null,
+    "type": null,
+    "name": null,
+    "placeholder": null,
+    "selected": null,
+    "expanded": null
+   },
+   {
+    "tag": "button",
+    "role": null,
+    "text": "Stops bad code before it starts bad days. Correlating PRs against real error and",
+    "aria": null,
+    "type": null,
+    "name": null,
+    "placeholder": null,
+    "selected": null,
+    "expanded": null
+   }
+  ],
+  "svgs": []
+ },
+ {
+  "index": 7,
+  "tag": "section",
+  "cls": "w-full p-0 border-0 bg-transparent",
+  "rect": {
+   "y": 3825,
+   "h": 797
+  },
+  "text": "Debugging needs context— \nwith or without AI\nSeer, our AI debugger, uses Sentry context – logs, commits, traces, stack trace - so you can stop guessing and it can fix issues for you. \nAnalyzes every signal to explain why your code failed, not just where.\nFixes what’s broken while you ship what’s next – generating precise, merge-ready patches.\nStops bad code before it starts bad days. Correlating PRs against real error and performance history to catch regressions before they ship.",
+  "links": [
+   {
+    "text": "Seer",
+    "href": "https://sentry.io/product/seer/",
+    "aria": null
+   }
+  ],
+  "controls": [
+   {
+    "tag": "button",
+    "role": null,
+    "text": "Analyzes every signal to explain why your code failed, not just where.",
+    "aria": null,
+    "type": null,
+    "name": null,
+    "placeholder": null,
+    "selected": null,
+    "expanded": null
+   },
+   {
+    "tag": "button",
+    "role": null,
+    "text": "Fixes what’s broken while you ship what’s next – generating precise, merge-ready",
+    "aria": null,
+    "type": null,
+    "name": null,
+    "placeholder": null,
+    "selected": null,
+    "expanded": null
+   },
+   {
+    "tag": "button",
+    "role": null,
+    "text": "Stops bad code before it starts bad days. Correlating PRs against real error and",
+    "aria": null,
+    "type": null,
+    "name": null,
+    "placeholder": null,
+    "selected": null,
+    "expanded": null
+   }
+  ],
+  "svgs": []
+ },
+ {
+  "index": 8,
+  "tag": "section",
+  "cls": "relative overflow-x-clip z-0 pb-12 md:pb-20 lg:pb-32  ",
+  "rect": {
+   "y": 4814,
+   "h": 655
+  },
+  "text": "Loved by developers\nworldwide\nWe wouldn’t have scaled without Sentry. Most of our incidents are hardware-related—and we debug them all inside Sentry\nNova DasSarma\nSystems Lead, Anthropic\nSentry’s high-quality tooling helps Disney+ maintain high-quality service to its tens of millions of global subscribers.\nAndrew Hay\nDirector at Disney Streaming Services, Disney+\nThe signal we get from Sentry is the most reliable indicator of software issues and is used throughout Instacart because it can be easily configured for each service regardless of the language or framework.\nIgor Dobrovitski\nInfrastructure Software Engineer, Instacart",
+  "links": [],
+  "controls": [],
+  "svgs": []
+ },
+ {
+  "index": 9,
+  "tag": "section",
+  "cls": "relative overflow-x-clip z-0 pb-12 md:pb-20 lg:pb-32  ",
+  "rect": {
+   "y": 5469,
+   "h": 834
+  },
+  "text": "Get started\nin minutes\nFive lines of code. That's it. No complex setup, no performance hits, no waiting around.\nNext.js\nAngular\nAndroid\niOS\nFlutter\nReact Native\n.NET MAUI\nPython\nNode.js\nReact\n.NET\nGo\nSwift\nRuby\nPHP\nLaravel\nASP.NET Core\nSpring Boot\nVue\nSolid\nSvelte\nAstro\nJavaScript\nSee -- it's really just one command.\nBash\nnpx @sentry/wizard@latest -i nextjs\nGet started with just one line of code:\nBash\nnpx @sentry/wizard@latest -i angular\nJust run this command to sign up for and install Sentry.\nBash\nbrew install getsentry/tools/sentry-wizard && sentry-wizard -i android\nSignup and install Sentry with just one line of code:\nBash\nbrew install getsentry/tools/sentry-wizard && sentry-wizard -i ios\nSign-up and install Sentry with just one line of code:\nBash\nnpx @sentry/wizard@latest -i flutter\nInstall Sentry with one line of code:\nBash\nnpx @sentry/wizard@latest -i reactNative\nAdd the Sentry dependency to your .NET MAUI application:\nBash\ndotnet add package Sentry.Maui -v 5.11.1\nGrab the Sentry Python SDK:\nBash\npip install --upgrade sentry-sdk\nConfigure your DSN:\nPython\nimport sentry_sdk\nsentry_sdk.init(\n    \"https://<key>@sentry.io/<project>\",\n    # Set traces_sample_rate to 1.0 to capture 100%\n    # of transactions for Tracing.\n    # We recommend adjusting this value in production.\n    enable_tracing=True,\n    traces_sample_rate=1.0,\n)\nGrab the Sentry Node SDK:\nBash\nnpm install @sentry/node\nConfigure your SDK:\nJavaScript\nconst Sentry = require('@sentry/node');\nSentry.init({ dsn: 'https://<key>@sentry.io/<project>' });\nGrab the Sentry React SDK:\nBash\nnpm install @sentry/react\nWe recommend putting the Sentry initialization code into its own file and including that file as the first import in your application entry point as shown in the example below:\nJSX\nimport { useEffect } from \"react\";\nimport * as Sentry from \"@sentry/react\";\nSentry.init({\n  dsn: \"https://examplePublicKey@o0.ingest.sentry.io/0\",\n  integrations: [\n  ],\n  // Set `tracePropagationTargets` to control for which URLs trace propagation should be enabled\n  tracePropagationTargets: [/^\\//, /^https:\\/\\/yourserver\\.io\\/api/],\n});\nInclude the Sentry initialization file as the first import statement:\nJSX\n// Sentry initialization should be imported first!\nimport \"./instrument\";\nimport App from \"./App\";\nimport { createRoot } from \"react-dom/client\";\nconst container = document.getElementById(“app”);\nconst root = createRoot(container);\nroot.render(<App />);\nInstall the NuGet package to add the Sentry dependency:\nBash\ndotnet add package Sentry\nInitialize the SDK as early as possible, like in the Main method in Program.cs/Program.fs:\nC#\nusing (SentrySdk.Init(o => {\n  // Tells which project in Sentry to send events to:\n  o.Dsn = \"https://<key>@sentry.io/<project>\";\n  // When configuring for the first time, to see what the SDK is doing:\n  o.Debug = true;\n  // Set TracesSampleRate to 1.0 to capture 100% of transactions for Tracing.\n  // We recommend adjusting this value in production.\n  o.TracesSampleRate = 1.0; }))\n{\n  // App code goes here - Disposing will flush events out\n}\nGrab the Sentry Go SDK:\nGo\ngo get \"github.com/getsentry/sentry-go\"\nConfiguration should happen as early as possible in your application's lifecycle:\nGo\npackage main\nimport (\n\t\"log\"\n\t\"time\"\n\t\"github.com/getsentry/sentry-go\"\n)\nfunc main() {\n\terr := sentry.Init(sentry.ClientOptions{\n\t\tDsn: \"https://<key>@sentry.io/<project>\",\n    EnableTracing: true,\n\t\t// Specify a fixed sample rate:\n\t\t// We recommend adjusting this value in production\n\t\tTracesSampleRate: 1.0,\n\t\t// Or provide a custom sample rate:\n\t\tTracesSampler: sentry.TracesSampler(func(ctx sentry.SamplingContext) float64 {\n\t\t\t// As an example, this does not send some\n\t\t\t// transactions to Sentry based on their name.\n\t\t\tif ctx.Span.Name == \"GET /health\" {\n\t\t\t\treturn 0.0\n\t\t\t}\n\t\t\treturn 1.0\n\t\t}),\n\t})\n\tif err != nil {\n\t\tlog.Fatalf(\"sentry.Init: %s\", err)\n\t}\n\t// Flush buffered events before the program terminates.\n\t// Set the timeout to the maximum duration the program can afford to wait.\n\tdefer sentry.Flush(2 * time.Second)\n}\nTo integrate Sentry into your Xcode project, specify it in your Podfile, then run pod install:\nSwift\nplatform :ios, '9.0'\nuse_frameworks! # This is important\ntarget 'YourApp' do\n  pod 'Sentry', :git => 'https://github.com/getsentry/sentry-cocoa.git', :tag => '<VERSION>'\nend\nInitialize the SDK as soon as possible in your application lifecycle, such as in your AppDelegate application:didFinishLaunchingWithOptions method:\nSwift\nimport Sentry // Make sure you import Sentry\nfunc application(_ application: UIApplication,\n    didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {\n    SentrySDK.start { options in\n        options.dsn = \"https://<key>@sentry.io/<project>\"\n        options.debug = true // Enabled debug when first installing is always helpful\n        // Example uniform sample rate: capture 100% of transactions for Tracing\n        options.tracesSampleRate = 1.0\n    }\n    return true\n}\nAdd the sentry-ruby gem to your Gemfile:\nRuby\ngem \"sentry-ruby\"\nConfigure your DSN:\nRuby\nSentry.init do |config|\n  config.dsn = 'https://<key>@sentry.io/<project>'\n  # Set a uniform sample rate between 0.0 and 1.0\n  # We recommend adjusting the value in production:\n  config.traces_sample_rate = 1.0\n  # or control sampling dynamically\n  config.traces_sampler = lambda do |sampling_context|\n    # sampling_context[:transaction_context] contains the information about the transaction\n    # sampling_context[:parent_sampled] contains the transaction's parent's sample decision\n    true # return value can be a boolean or a float between 0.0 and 1.0\n  end\nend\nInstall the sentry/sentry package with Composer:\nBash\ncomposer require sentry/sentry\nTo capture all errors, even the one during the startup of your application, you should initialize the Sentry PHP SDK as soon as possible.\nPHP\n\\Sentry\\init(['dsn' => 'https://<key>@sentry.io/<project>',\n    // Specify a fixed sample rate:\n    'traces_sample_",
+  "links": [
+   {
+    "text": "Sentry Python SDK",
+    "href": "https://github.com/getsentry/sentry-python",
+    "aria": null
+   },
+   {
+    "text": "Sentry Node SDK",
+    "href": "https://github.com/getsentry/sentry-javascript/",
+    "aria": null
+   },
+   {
+    "text": "Sentry React SDK",
+    "href": "https://github.com/getsentry/sentry-javascript/",
+    "aria": null
+   },
+   {
+    "text": "Sentry Go SDK",
+    "href": "https://github.com/getsentry/sentry-go",
+    "aria": null
+   },
+   {
+    "text": "Sentry Java SDK",
+    "href": "https://github.com/getsentry/sentry-java/",
+    "aria": null
+   },
+   {
+    "text": "Sentry Vue SDK",
+    "href": "https://github.com/getsentry/sentry-javascript/",
+    "aria": null
+   },
+   {
+    "text": "Sentry JavaScript SDK",
+    "href": "https://github.com/getsentry/sentry-javascript/",
+    "aria": null
+   }
+  ],
+  "controls": [
+   {
+    "tag": "select",
+    "role": null,
+    "text": "Next.js\nAngular\nAndroid\niOS\nFlutter\nReact Native\n.NET MAUI\nPython\nNode.js\nReact\n",
+    "aria": "Installation Dropdown 23",
+    "type": null,
+    "name": null,
+    "placeholder": null,
+    "selected": null,
+    "expanded": null
+   },
+   {
+    "tag": "button",
+    "role": null,
+    "text": "",
+    "aria": "Copy code",
+    "type": null,
+    "name": null,
+    "placeholder": null,
+    "selected": null,
+    "expanded": null
+   },
+   {
+    "tag": "button",
+    "role": null,
+    "text": "",
+    "aria": "Copy code",
+    "type": null,
+    "name": null,
+    "placeholder": null,
+    "selected": null,
+    "expanded": null
+   },
+   {
+    "tag": "button",
+    "role": null,
+    "text": "",
+    "aria": "Copy code",
+    "type": null,
+    "name": null,
+    "placeholder": null,
+    "selected": null,
+    "expanded": null
+   },
+   {
+    "tag": "button",
+    "role": null,
+    "text": "",
+    "aria": "Copy code",
+    "type": null,
+    "name": null,
+    "placeholder": null,
+    "selected": null,
+    "expanded": null
+   },
+   {
+    "tag": "button",
+    "role": null,
+    "text": "",
+    "aria": "Copy code",
+    "type": null,
+    "name": null,
+    "placeholder": null,
+    "selected": null,
+    "expanded": null
+   },
+   {
+    "tag": "button",
+    "role": null,
+    "text": "",
+    "aria": "Copy code",
+    "type": null,
+    "name": null,
+    "placeholder": null,
+    "selected": null,
+    "expanded": null
+   },
+   {
+    "tag": "button",
+    "role": null,
+    "text": "",
+    "aria": "Copy code",
+    "type": null,
+    "name": null,
+    "placeholder": null,
+    "selected": null,
+    "expanded": null
+   },
+   {
+    "tag": "button",
+    "role": null,
+    "text": "",
+    "aria": "Copy code",
+    "type": null,
+    "name": null,
+    "placeholder": null,
+    "selected": null,
+    "expanded": null
+   },
+   {
+    "tag": "button",
+    "role": null,
+    "text": "",
+    "aria": "Copy code",
+    "type": null,
+    "name": null,
+    "placeholder": null,
+    "selected": null,
+    "expanded": null
+   },
+   {
+    "tag": "button",
+    "role": null,
+    "text": "",
+    "aria": "Copy code",
+    "type": null,
+    "name": null,
+    "placeholder": null,
+    "selected": null,
+    "expanded": null
+   },
+   {
+    "tag": "button",
+    "role": null,
+    "text": "",
+    "aria": "Copy code",
+    "type": null,
+    "name": null,
+    "placeholder": null,
+    "selected": null,
+    "expanded": null
+   },
+   {
+    "tag": "button",
+    "role": null,
+    "text": "",
+    "aria": "Copy code",
+    "type": null,
+    "name": null,
+    "placeholder": null,
+    "selected": null,
+    "expanded": null
+   },
+   {
+    "tag": "button",
+    "role": null,
+    "text": "",
+    "aria": "Copy code",
+    "type": null,
+    "name": null,
+    "placeholder": null,
+    "selected": null,
+    "expanded": null
+   },
+   {
+    "tag": "button",
+    "role": null,
+    "text": "",
+    "aria": "Copy code",
+    "type": null,
+    "name": null,
+    "placeholder": null,
+    "selected": null,
+    "expanded": null
+   },
+   {
+    "tag": "button",
+    "role": null,
+    "text": "",
+    "aria": "Copy code",
+    "type": null,
+    "name": null,
+    "placeholder": null,
+    "selected": null,
+    "expanded": null
+   },
+   {
+    "tag": "button",
+    "role": null,
+    "text": "",
+    "aria": "Copy code",
+    "type": null,
+    "name": null,
+    "placeholder": null,
+    "selected": null,
+    "expanded": null
+   },
+   {
+    "tag": "button",
+    "role": null,
+    "text": "",
+    "aria": "Copy code",
+    "type": null,
+    "name": null,
+    "placeholder": null,
+    "selected": null,
+    "expanded": null
+   },
+   {
+    "tag": "button",
+    "role": null,
+    "text": "",
+    "aria": "Copy code",
+    "type": null,
+    "name": null,
+    "placeholder": null,
+    "selected": null,
+    "expanded": null
+   },
+   {
+    "tag": "button",
+    "role": null,
+    "text": "",
+    "aria": "Copy code",
+    "type": null,
+    "name": null,
+    "placeholder": null,
+    "selected": null,
+    "expanded": null
+   },
+   {
+    "tag": "button",
+    "role": null,
+    "text": "",
+    "aria": "Copy code",
+    "type": null,
+    "name": null,
+    "placeholder": null,
+    "selected": null,
+    "expanded": null
+   },
+   {
+    "tag": "button",
+    "role": null,
+    "text": "",
+    "aria": "Copy code",
+    "type": null,
+    "name": null,
+    "placeholder": null,
+    "selected": null,
+    "expanded": null
+   },
+   {
+    "tag": "button",
+    "role": null,
+    "text": "",
+    "aria": "Copy code",
+    "type": null,
+    "name": null,
+    "placeholder": null,
+    "selected": null,
+    "expanded": null
+   },
+   {
+    "tag": "button",
+    "role": null,
+    "text": "",
+    "aria": "Copy code",
+    "type": null,
+    "name": null,
+    "placeholder": null,
+    "selected": null,
+    "expanded": null
+   },
+   {
+    "tag": "button",
+    "role": null,
+    "text": "",
+    "aria": "Copy code",
+    "type": null,
+    "name": null,
+    "placeholder": null,
+    "selected": null,
+    "expanded": null
+   },
+   {
+    "tag": "button",
+    "role": null,
+    "text": "",
+    "aria": "Copy code",
+    "type": null,
+    "name": null,
+    "placeholder": null,
+    "selected": null,
+    "expanded": null
+   },
+   {
+    "tag": "button",
+    "role": null,
+    "text": "",
+    "aria": "Copy code",
+    "type": null,
+    "name": null,
+    "placeholder": null,
+    "selected": null,
+    "expanded": null
+   },
+   {
+    "tag": "button",
+    "role": null,
+    "text": "",
+    "aria": "Copy code",
+    "type": null,
+    "name": null,
+    "placeholder": null,
+    "selected": null,
+    "expanded": null
+   },
+   {
+    "tag": "button",
+    "role": null,
+    "text": "",
+    "aria": "Copy code",
+    "type": null,
+    "name": null,
+    "placeholder": null,
+    "selected": null,
+    "expanded": null
+   },
+   {
+    "tag": "button",
+    "role": null,
+    "text": "",
+    "aria": "Copy code",
+    "type": null,
+    "name": null,
+    "placeholder": null,
+    "selected": null,
+    "expanded": null
+   },
+   {
+    "tag": "button",
+    "role": null,
+    "text": "",
+    "aria": "Copy code",
+    "type": null,
+    "name": null,
+    "placeholder": null,
+    "selected": null,
+    "expanded": null
+   },
+   {
+    "tag": "button",
+    "role": null,
+    "text": "",
+    "aria": "Copy code",
+    "type": null,
+    "name": null,
+    "placeholder": null,
+    "selected": null,
+    "expanded": null
+   },
+   {
+    "tag": "button",
+    "role": null,
+    "text": "",
+    "aria": "Copy code",
+    "type": null,
+    "name": null,
+    "placeholder": null,
+    "selected": null,
+    "expanded": null
+   },
+   {
+    "tag": "button",
+    "role": null,
+    "text": "",
+    "aria": "Copy code",
+    "type": null,
+    "name": null,
+    "placeholder": null,
+    "selected": null,
+    "expanded": null
+   },
+   {
+    "tag": "button",
+    "role": null,
+    "text": "",
+    "aria": "Copy code",
+    "type": null,
+    "name": null,
+    "placeholder": null,
+    "selected": null,
+    "expanded": null
+   },
+   {
+    "tag": "button",
+    "role": null,
+    "text": "",
+    "aria": "Copy code",
+    "type": null,
+    "name": null,
+    "placeholder": null,
+    "selected": null,
+    "expanded": null
+   },
+   {
+    "tag": "button",
+    "role": null,
+    "text": "",
+    "aria": "Copy code",
+    "type": null,
+    "name": null,
+    "placeholder": null,
+    "selected": null,
+    "expanded": null
+   },
+   {
+    "tag": "button",
+    "role": null,
+    "text": "",
+    "aria": "Copy code",
+    "type": null,
+    "name": null,
+    "placeholder": null,
+    "selected": null,
+    "expanded": null
+   },
+   {
+    "tag": "button",
+    "role": null,
+    "text": "",
+    "aria": "Copy code",
+    "type": null,
+    "name": null,
+    "placeholder": null,
+    "selected": null,
+    "expanded": null
+   },
+   {
+    "tag": "button",
+    "role": null,
+    "text": "",
+    "aria": "Copy code",
+    "type": null,
+    "name": null,
+    "placeholder": null,
+    "selected": null,
+    "expanded": null
+   },
+   {
+    "tag": "button",
+    "role": null,
+    "text": "",
+    "aria": "Copy code",
+    "type": null,
+    "name": null,
+    "placeholder": null,
+    "selected": null,
+    "expanded": null
+   },
+   {
+    "tag": "button",
+    "role": null,
+    "text": "",
+    "aria": "Copy code",
+    "type": null,
+    "name": null,
+    "placeholder": null,
+    "selected": null,
+    "expanded": null
+   }
+  ],
+  "svgs": [
+   {
+    "w": 16,
+    "h": 16,
+    "cls": null,
+    "parentCls": "copyCodeButton",
+    "file": "analysis/raw/svg/s09-00.svg",
+    "bytes": 298
+   },
+   {
+    "w": 16,
+    "h": 16,
+    "cls": null,
+    "parentCls": "copyCodeButton",
+    "file": "analysis/raw/svg/s09-01.svg",
+    "bytes": 298
+   },
+   {
+    "w": 16,
+    "h": 16,
+    "cls": null,
+    "parentCls": "copyCodeButton",
+    "file": "analysis/raw/svg/s09-02.svg",
+    "bytes": 298
+   },
+   {
+    "w": 16,
+    "h": 16,
+    "cls": null,
+    "parentCls": "copyCodeButton",
+    "file": "analysis/raw/svg/s09-03.svg",
+    "bytes": 298
+   },
+   {
+    "w": 16,
+    "h": 16,
+    "cls": null,
+    "parentCls": "copyCodeButton",
+    "file": "analysis/raw/svg/s09-04.svg",
+    "bytes": 298
+   },
+   {
+    "w": 16,
+    "h": 16,
+    "cls": null,
+    "parentCls": "copyCodeButton",
+    "file": "analysis/raw/svg/s09-05.svg",
+    "bytes": 298
+   },
+   {
+    "w": 16,
+    "h": 16,
+    "cls": null,
+    "parentCls": "copyCodeButton",
+    "file": "analysis/raw/svg/s09-06.svg",
+    "bytes": 298
+   },
+   {
+    "w": 16,
+    "h": 16,
+    "cls": null,
+    "parentCls": "copyCodeButton",
+    "file": "analysis/raw/svg/s09-07.svg",
+    "bytes": 298
+   },
+   {
+    "w": 16,
+    "h": 16,
+    "cls": null,
+    "parentCls": "copyCodeButton",
+    "file": "analysis/raw/svg/s09-08.svg",
+    "bytes": 298
+   },
+   {
+    "w": 16,
+    "h": 16,
+    "cls": null,
+    "parentCls": "copyCodeButton",
+    "file": "analysis/raw/svg/s09-09.svg",
+    "bytes": 298
+   },
+   {
+    "w": 16,
+    "h": 16,
+    "cls": null,
+    "parentCls": "copyCodeButton",
+    "file": "analysis/raw/svg/s09-10.svg",
+    "bytes": 298
+   },
+   {
+    "w": 16,
+    "h": 16,
+    "cls": null,
+    "parentCls": "copyCodeButton",
+    "file": "analysis/raw/svg/s09-11.svg",
+    "bytes": 298
+   },
+   {
+    "w": 16,
+    "h": 16,
+    "cls": null,
+    "parentCls": "copyCodeButton",
+    "file": "analysis/raw/svg/s09-12.svg",
+    "bytes": 298
+   },
+   {
+    "w": 16,
+    "h": 16,
+    "cls": null,
+    "parentCls": "copyCodeButton",
+    "file": "analysis/raw/svg/s09-13.svg",
+    "bytes": 298
+   },
+   {
+    "w": 16,
+    "h": 16,
+    "cls": null,
+    "parentCls": "copyCodeButton",
+    "file": "analysis/raw/svg/s09-14.svg",
+    "bytes": 298
+   },
+   {
+    "w": 16,
+    "h": 16,
+    "cls": null,
+    "parentCls": "copyCodeButton",
+    "file": "analysis/raw/svg/s09-15.svg",
+    "bytes": 298
+   },
+   {
+    "w": 16,
+    "h": 16,
+    "cls": null,
+    "parentCls": "copyCodeButton",
+    "file": "analysis/raw/svg/s09-16.svg",
+    "bytes": 298
+   },
+   {
+    "w": 16,
+    "h": 16,
+    "cls": null,
+    "parentCls": "copyCodeButton",
+    "file": "analysis/raw/svg/s09-17.svg",
+    "bytes": 298
+   },
+   {
+    "w": 16,
+    "h": 16,
+    "cls": null,
+    "parentCls": "copyCodeButton",
+    "file": "analysis/raw/svg/s09-18.svg",
+    "bytes": 298
+   },
+   {
+    "w": 16,
+    "h": 16,
+    "cls": null,
+    "parentCls": "copyCodeButton",
+    "file": "analysis/raw/svg/s09-19.svg",
+    "bytes": 298
+   },
+   {
+    "w": 16,
+    "h": 16,
+    "cls": null,
+    "parentCls": "copyCodeButton",
+    "file": "analysis/raw/svg/s09-20.svg",
+    "bytes": 298
+   },
+   {
+    "w": 16,
+    "h": 16,
+    "cls": null,
+    "parentCls": "copyCodeButton",
+    "file": "analysis/raw/svg/s09-21.svg",
+    "bytes": 298
+   },
+   {
+    "w": 16,
+    "h": 16,
+    "cls": null,
+    "parentCls": "copyCodeButton",
+    "file": "analysis/raw/svg/s09-22.svg",
+    "bytes": 298
+   },
+   {
+    "w": 16,
+    "h": 16,
+    "cls": null,
+    "parentCls": "copyCodeButton",
+    "file": "analysis/raw/svg/s09-23.svg",
+    "bytes": 298
+   },
+   {
+    "w": 16,
+    "h": 16,
+    "cls": null,
+    "parentCls": "copyCodeButton",
+    "file": "analysis/raw/svg/s09-24.svg",
+    "bytes": 298
+   },
+   {
+    "w": 16,
+    "h": 16,
+    "cls": null,
+    "parentCls": "copyCodeButton",
+    "file": "analysis/raw/svg/s09-25.svg",
+    "bytes": 298
+   },
+   {
+    "w": 16,
+    "h": 16,
+    "cls": null,
+    "parentCls": "copyCodeButton",
+    "file": "analysis/raw/svg/s09-26.svg",
+    "bytes": 298
+   },
+   {
+    "w": 16,
+    "h": 16,
+    "cls": null,
+    "parentCls": "copyCodeButton",
+    "file": "analysis/raw/svg/s09-27.svg",
+    "bytes": 298
+   },
+   {
+    "w": 16,
+    "h": 16,
+    "cls": null,
+    "parentCls": "copyCodeButton",
+    "file": "analysis/raw/svg/s09-28.svg",
+    "bytes": 298
+   },
+   {
+    "w": 16,
+    "h": 16,
+    "cls": null,
+    "parentCls": "copyCodeButton",
+    "file": "analysis/raw/svg/s09-29.svg",
+    "bytes": 298
+   },
+   {
+    "w": 16,
+    "h": 16,
+    "cls": null,
+    "parentCls": "copyCodeButton",
+    "file": "analysis/raw/svg/s09-30.svg",
+    "bytes": 298
+   },
+   {
+    "w": 16,
+    "h": 16,
+    "cls": null,
+    "parentCls": "copyCodeButton",
+    "file": "analysis/raw/svg/s09-31.svg",
+    "bytes": 298
+   },
+   {
+    "w": 16,
+    "h": 16,
+    "cls": null,
+    "parentCls": "copyCodeButton",
+    "file": "analysis/raw/svg/s09-32.svg",
+    "bytes": 298
+   },
+   {
+    "w": 16,
+    "h": 16,
+    "cls": null,
+    "parentCls": "copyCodeButton",
+    "file": "analysis/raw/svg/s09-33.svg",
+    "bytes": 298
+   },
+   {
+    "w": 16,
+    "h": 16,
+    "cls": null,
+    "parentCls": "copyCodeButton",
+    "file": "analysis/raw/svg/s09-34.svg",
+    "bytes": 298
+   },
+   {
+    "w": 16,
+    "h": 16,
+    "cls": null,
+    "parentCls": "copyCodeButton",
+    "file": "analysis/raw/svg/s09-35.svg",
+    "bytes": 298
+   },
+   {
+    "w": 16,
+    "h": 16,
+    "cls": null,
+    "parentCls": "copyCodeButton",
+    "file": "analysis/raw/svg/s09-36.svg",
+    "bytes": 298
+   },
+   {
+    "w": 16,
+    "h": 16,
+    "cls": null,
+    "parentCls": "copyCodeButton",
+    "file": "analysis/raw/svg/s09-37.svg",
+    "bytes": 298
+   },
+   {
+    "w": 16,
+    "h": 16,
+    "cls": null,
+    "parentCls": "copyCodeButton",
+    "file": "analysis/raw/svg/s09-38.svg",
+    "bytes": 298
+   },
+   {
+    "w": 16,
+    "h": 16,
+    "cls": null,
+    "parentCls": "copyCodeButton",
+    "file": "analysis/raw/svg/s09-39.svg",
+    "bytes": 298
+   },
+   {
+    "w": 16,
+    "h": 16,
+    "cls": null,
+    "parentCls": "copyCodeButton",
+    "file": "analysis/raw/svg/s09-40.svg",
+    "bytes": 298
+   }
+  ]
+ },
+ {
+  "index": 10,
+  "tag": "section",
+  "cls": "relative overflow-x-clip z-0 pb-12 md:pb-20 lg:pb-32  ",
+  "rect": {
+   "y": 6304,
+   "h": 603
+  },
+  "text": "Built to be secure,\nDesigned to not get in your way\nSecurity and compliance aren't just checkboxes—they're built into how we run Sentry. We use industry-standard tech and practices to keep your data safe, and we stay out of your way while doing it.\nCHECK OUT OUR PRIVACY POLICY\nCONTACT US",
+  "links": [
+   {
+    "text": "CHECK OUT OUR PRIVACY POLICY",
+    "href": "https://sentry.io/privacy/",
+    "aria": null
+   },
+   {
+    "text": "CONTACT US",
+    "href": "https://sentry.io/contact/enterprise/",
+    "aria": null
+   }
+  ],
+  "controls": [],
+  "svgs": [
+   {
+    "w": 69,
+    "h": 100,
+    "cls": null,
+    "parentCls": "max-h-[6.25rem] w-auto [&>svg]:max-h-[6.25rem] [&>svg]:w-auto",
+    "file": "analysis/raw/svg/s10-00.svg",
+    "bytes": 16055
+   },
+   {
+    "w": 189,
+    "h": 80,
+    "cls": null,
+    "parentCls": "max-h-[6.25rem] w-auto [&>svg]:max-h-[6.25rem] [&>svg]:w-auto",
+    "file": "analysis/raw/svg/s10-01.svg",
+    "bytes": 29604
+   },
+   {
+    "w": 97,
+    "h": 100,
+    "cls": null,
+    "parentCls": "max-h-[6.25rem] w-auto [&>svg]:max-h-[6.25rem] [&>svg]:w-auto",
+    "file": "analysis/raw/svg/s10-02.svg",
+    "bytes": 25028
+   },
+   {
+    "w": 178,
+    "h": 97,
+    "cls": null,
+    "parentCls": "max-h-[6.25rem] w-auto [&>svg]:max-h-[6.25rem] [&>svg]:w-auto",
+    "file": "analysis/raw/svg/s10-03.svg",
+    "bytes": 15359
+   }
+  ]
+ },
+ {
+  "index": 11,
+  "tag": "section",
+  "cls": "relative overflow-x-clip z-0   ",
+  "rect": {
+   "y": 6907,
+   "h": 461
+  },
+  "text": "Get monthly product updates \nfrom our newsletter\nYOUR EMAIL:\nI want to receive the monthly newsletter and other updates from Sentry. You may unsubscribe at any time.\nBy filling out this form, you agree to our privacy policy. This form is protected by reCAPTCHA and Google's Privacy Policy and Terms of Service apply.\nSIGN UP",
+  "links": [
+   {
+    "text": "privacy policy",
+    "href": "https://sentry.io/privacy/",
+    "aria": null
+   },
+   {
+    "text": "Privacy Policy",
+    "href": "https://policies.google.com/privacy",
+    "aria": null
+   },
+   {
+    "text": "Terms of Service",
+    "href": "https://policies.google.com/terms",
+    "aria": null
+   }
+  ],
+  "controls": [
+   {
+    "tag": "input",
+    "role": null,
+    "text": "1942",
+    "aria": null,
+    "type": "hidden",
+    "name": "formId",
+    "placeholder": null,
+    "selected": null,
+    "expanded": null
+   },
+   {
+    "tag": "input",
+    "role": null,
+    "text": "false",
+    "aria": null,
+    "type": "hidden",
+    "name": "Unsubscribed",
+    "placeholder": null,
+    "selected": null,
+    "expanded": null
+   },
+   {
+    "tag": "input",
+    "role": null,
+    "text": "",
+    "aria": null,
+    "type": "hidden",
+    "name": "reCaptchastandardscoring",
+    "placeholder": null,
+    "selected": null,
+    "expanded": null
+   },
+   {
+    "tag": "input",
+    "role": null,
+    "text": "",
+    "aria": null,
+    "type": "email",
+    "name": "Email",
+    "placeholder": "",
+    "selected": null,
+    "expanded": null
+   },
+   {
+    "tag": "input",
+    "role": null,
+    "text": "yes",
+    "aria": "I want to receive the monthly newsletter and other updates from Sentry. You may unsubscribe at any time.",
+    "type": "checkbox",
+    "name": "sentry_newsletter_consent",
+    "placeholder": null,
+    "selected": null,
+    "expanded": null
+   },
+   {
+    "tag": "button",
+    "role": null,
+    "text": "SIGN UP",
+    "aria": null,
+    "type": "submit",
+    "name": null,
+    "placeholder": null,
+    "selected": null,
+    "expanded": null
+   }
+  ],
+  "svgs": []
+ },
+ {
+  "index": 12,
+  "tag": "section",
+  "cls": "relative overflow-x-clip z-0 pt-12 md:pt-20 lg:pt-32 pb-12 md:pb-20 lg:pb-32 text-white overflow-hidden",
+  "rect": {
+   "y": 7528,
+   "h": 538
+  },
+  "text": "Fix It\nGet started with the only application monitoring platform that empowers developers to fix application problems without compromising on velocity.\nTRY SENTRY FOR FREE\nGET A DEMO",
+  "links": [
+   {
+    "text": "TRY SENTRY FOR FREE",
+    "href": "https://sentry.io/signup/",
+    "aria": null
+   },
+   {
+    "text": "GET A DEMO",
+    "href": "https://sentry.io/demo/",
+    "aria": null
+   }
+  ],
+  "controls": [],
+  "svgs": []
+ },
+ {
+  "index": 13,
+  "tag": "footer",
+  "cls": "relative z-10 bg-rich-black",
+  "rect": {
+   "y": 8066,
+   "h": 743
+  },
+  "text": "Company\nABOUT\nBLOG\nCAREERS\nCONTACT US\nTRUST\nPlatform\nERROR MONITORING\nLOGS\nSEER\nSESSION REPLAY\nMETRICS\nTRACING\nUPTIME MONITORING\nPROFILING\nCRON MONITORING\nINTEGRATIONS\nSolutions\nWEB / FULL STACK DEVELOPMENT\nMOBILE CRASH REPORTING\nGAME CRASH REPORTING\nAI OBSERVABILITY\nAPPLICATION PERFORMANCE MONITORING\nAPPLICATION OBSERVABILITY\nREAL USER MONITORING\nECOMMERCE\nENTERPRISE\nSTARTUPS\nGet Help\nDOCS\nHELP CENTER\nSTATUS\nCOOKBOOK\nDEV RESOURCES\nTERMS\nSECURITY & COMPLIANCE\nPRIVACY\nTwitter Menu Button\nGithub Social Menu Button\nLinkedIn Menu Button\nDiscord Menu Button\n© 2026 • Sentry is a registered Trademark of Functional Software, Inc.",
+  "links": [
+   {
+    "text": "ABOUT",
+    "href": "https://sentry.io/about/",
+    "aria": null
+   },
+   {
+    "text": "BLOG",
+    "href": "https://blog.sentry.io/",
+    "aria": null
+   },
+   {
+    "text": "CAREERS",
+    "href": "https://sentry.io/careers/",
+    "aria": null
+   },
+   {
+    "text": "CONTACT US",
+    "href": "https://sentry.io/contact/enterprise/",
+    "aria": null
+   },
+   {
+    "text": "TRUST",
+    "href": "https://sentry.io/trust/",
+    "aria": null
+   },
+   {
+    "text": "ERROR MONITORING",
+    "href": "https://sentry.io/product/error-monitoring/",
+    "aria": null
+   },
+   {
+    "text": "LOGS",
+    "href": "https://sentry.io/product/logs/",
+    "aria": null
+   },
+   {
+    "text": "SEER",
+    "href": "https://sentry.io/product/seer/",
+    "aria": null
+   },
+   {
+    "text": "SESSION REPLAY",
+    "href": "https://sentry.io/product/session-replay/",
+    "aria": null
+   },
+   {
+    "text": "METRICS",
+    "href": "https://sentry.io/product/metrics/",
+    "aria": null
+   },
+   {
+    "text": "TRACING",
+    "href": "https://sentry.io/product/tracing/",
+    "aria": null
+   },
+   {
+    "text": "UPTIME MONITORING",
+    "href": "https://sentry.io/product/uptime-monitoring/",
+    "aria": null
+   },
+   {
+    "text": "PROFILING",
+    "href": "https://sentry.io/product/profiling/",
+    "aria": null
+   },
+   {
+    "text": "CRON MONITORING",
+    "href": "https://sentry.io/product/cron-monitoring/",
+    "aria": null
+   },
+   {
+    "text": "INTEGRATIONS",
+    "href": "https://sentry.io/integrations/",
+    "aria": null
+   },
+   {
+    "text": "WEB / FULL STACK DEVELOPMENT",
+    "href": "https://sentry.io/for/full-stack/",
+    "aria": null
+   },
+   {
+    "text": "MOBILE CRASH REPORTING",
+    "href": "https://sentry.io/solutions/mobile-developers/",
+    "aria": null
+   },
+   {
+    "text": "GAME CRASH REPORTING",
+    "href": "https://sentry.io/solutions/game-developers/",
+    "aria": null
+   },
+   {
+    "text": "AI OBSERVABILITY",
+    "href": "https://sentry.io/solutions/ai-observability/",
+    "aria": null
+   },
+   {
+    "text": "APPLICATION PERFORMANCE MONITORING",
+    "href": "https://sentry.io/solutions/application-performance-monitoring/",
+    "aria": null
+   },
+   {
+    "text": "APPLICATION OBSERVABILITY",
+    "href": "https://sentry.io/solutions/application-observability/",
+    "aria": null
+   },
+   {
+    "text": "REAL USER MONITORING",
+    "href": "https://sentry.io/solutions/real-user-monitoring-rum/",
+    "aria": null
+   },
+   {
+    "text": "ECOMMERCE",
+    "href": "https://sentry.io/solutions/ecommerce/",
+    "aria": null
+   },
+   {
+    "text": "ENTERPRISE",
+    "href": "https://sentry.io/for/enterprise/",
+    "aria": null
+   },
+   {
+    "text": "STARTUPS",
+    "href": "https://sentry.io/for/startups/",
+    "aria": null
+   },
+   {
+    "text": "DOCS",
+    "href": "https://docs.sentry.io/",
+    "aria": null
+   },
+   {
+    "text": "HELP CENTER",
+    "href": "https://help.sentry.io/",
+    "aria": null
+   },
+   {
+    "text": "STATUS",
+    "href": "https://status.sentry.io/",
+    "aria": null
+   },
+   {
+    "text": "COOKBOOK",
+    "href": "https://sentry.io/cookbook/",
+    "aria": null
+   },
+   {
+    "text": "DEV RESOURCES",
+    "href": "https://develop.sentry.dev/getting-started/",
+    "aria": null
+   },
+   {
+    "text": "TERMS",
+    "href": "https://sentry.io/terms/",
+    "aria": null
+   },
+   {
+    "text": "SECURITY & COMPLIANCE",
+    "href": "https://sentry.io/security/",
+    "aria": null
+   },
+   {
+    "text": "PRIVACY",
+    "href": "https://sentry.io/privacy/",
+    "aria": null
+   },
+   {
+    "text": "",
+    "href": "https://sentry.io/",
+    "aria": "home"
+   },
+   {
+    "text": "",
+    "href": "https://opensourcepledge.com/members/sentry/",
+    "aria": "Open Source Pledge"
+   },
+   {
+    "text": "Twitter Menu Button",
+    "href": "https://x.com/sentry/",
+    "aria": "Twitter Menu Button"
+   },
+   {
+    "text": "Github Social Menu Button",
+    "href": "https://github.com/getsentry/",
+    "aria": "Github Social Menu Button"
+   },
+   {
+    "text": "LinkedIn Menu Button",
+    "href": "https://www.linkedin.com/company/getsentry/",
+    "aria": "LinkedIn Menu Button"
+   },
+   {
+    "text": "Discord Menu Button",
+    "href": "https://discord.gg/sentry",
+    "aria": "Discord Menu Button"
+   }
+  ],
+  "controls": [],
+  "svgs": [
+   {
+    "w": 1088,
+    "h": 8,
+    "cls": "block -my-1 transition-transform duration-200 ease-out",
+    "parentCls": "container",
+    "file": "analysis/raw/svg/s13-00.svg",
+    "bytes": 611
+   },
+   {
+    "w": 36,
+    "h": 32,
+    "cls": "block h-8",
+    "parentCls": "focus:outline-none focus:bg-pink text-white",
+    "file": "analysis/raw/svg/s13-01.svg",
+    "bytes": 1459
+   },
+   {
+    "w": 82,
+    "h": 39,
+    "cls": "h-full w-auto max-w-none",
+    "parentCls": "text-white",
+    "file": "analysis/raw/svg/s13-02.svg",
+    "bytes": 15208
+   }
+  ]
+ }
+]

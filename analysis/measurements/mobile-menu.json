@@ -1,0 +1,239 @@
+[
+ {
+  "label": "Platform",
+  "children": [
+   {
+    "label": "Products",
+    "children": [
+     {
+      "text": "Error Monitoring",
+      "href": "https://sentry.io/product/error-monitoring/"
+     },
+     {
+      "text": "Logs",
+      "href": "https://sentry.io/product/logs/"
+     },
+     {
+      "label": "Seer",
+      "children": [
+       {
+        "text": "Seer",
+        "href": "https://sentry.io/product/seer/",
+        "pill": "NEW"
+       },
+       {
+        "text": "Agent",
+        "href": "https://sentry.io/product/seer/agent/",
+        "nested": true
+       },
+       {
+        "text": "Autofix",
+        "href": "https://sentry.io/product/seer/autofix/",
+        "nested": true
+       },
+       {
+        "text": "AI Code Review",
+        "href": "https://sentry.io/product/seer/ai-code-review/",
+        "nested": true
+       }
+      ]
+     },
+     {
+      "text": "Session Replay",
+      "href": "https://sentry.io/product/session-replay/"
+     },
+     {
+      "text": "Metrics",
+      "href": "https://sentry.io/product/metrics/",
+      "pill": "NEW"
+     },
+     {
+      "label": "Tracing",
+      "children": [
+       {
+        "text": "Tracing",
+        "href": "https://sentry.io/product/tracing/"
+       },
+       {
+        "text": "Agent Tracing",
+        "href": "https://sentry.io/product/tracing/ai-agent/",
+        "nested": true
+       }
+      ]
+     },
+     {
+      "text": "Profiling",
+      "href": "https://sentry.io/product/profiling/"
+     },
+     {
+      "text": "Size Analysis",
+      "href": "https://sentry.io/product/size-analysis/"
+     },
+     {
+      "text": "Cron Monitoring",
+      "href": "https://sentry.io/product/cron-monitoring/"
+     },
+     {
+      "text": "Uptime Monitoring",
+      "href": "https://sentry.io/product/uptime-monitoring/"
+     },
+     {
+      "text": "Labs",
+      "href": "https://labs.sentry.dev/",
+      "pill": "NEW"
+     }
+    ]
+   },
+   {
+    "label": "Integrations",
+    "children": [
+     {
+      "text": "Github",
+      "href": "https://sentry.io/integrations/github/"
+     },
+     {
+      "text": "Slack",
+      "href": "https://sentry.io/integrations/slack/"
+     },
+     {
+      "text": "Sentry CLI",
+      "href": "https://cli.sentry.dev/"
+     },
+     {
+      "text": "Sentry MCP",
+      "href": "https://mcp.sentry.dev/"
+     },
+     {
+      "text": "All Integrations",
+      "href": "https://sentry.io/integrations/"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "label": "Solutions",
+  "children": [
+   {
+    "text": "Web / Full Stack Development",
+    "href": "https://sentry.io/for/full-stack/"
+   },
+   {
+    "text": "Mobile Crash Reporting",
+    "href": "https://sentry.io/solutions/mobile-developers/"
+   },
+   {
+    "text": "Game Crash Reporting",
+    "href": "https://sentry.io/solutions/game-developers/"
+   },
+   {
+    "text": "AI Observability",
+    "href": "https://sentry.io/solutions/ai-observability/"
+   },
+   {
+    "text": "Application Performance Monitoring",
+    "href": "https://sentry.io/solutions/application-performance-monitoring/"
+   },
+   {
+    "text": "Application Observability",
+    "href": "https://sentry.io/solutions/application-observability/"
+   },
+   {
+    "text": "Real User Monitoring",
+    "href": "https://sentry.io/solutions/real-user-monitoring-rum/"
+   },
+   {
+    "text": "Ecommerce",
+    "href": "https://sentry.io/solutions/ecommerce/"
+   },
+   {
+    "text": "OpenTelemetry",
+    "href": "https://sentry.io/solutions/opentelemetry/"
+   },
+   {
+    "text": "Enterprise",
+    "href": "https://sentry.io/for/enterprise/"
+   },
+   {
+    "text": "Startups",
+    "href": "https://sentry.io/for/startups/"
+   },
+   {
+    "text": "All SDKs",
+    "href": "https://sentry.io/platforms/"
+   }
+  ]
+ },
+ {
+  "label": "Resources",
+  "children": [
+   {
+    "label": "Learn",
+    "children": [
+     {
+      "text": "Blog",
+      "href": "https://blog.sentry.io/"
+     },
+     {
+      "text": "Changelog",
+      "href": "https://sentry.io/changelog/"
+     },
+     {
+      "text": "Sandbox",
+      "href": "https://sandbox.sentry.io/"
+     },
+     {
+      "text": "Resources",
+      "href": "https://sentry.io/resources/"
+     },
+     {
+      "text": "Syntax",
+      "href": "https://syntax.fm/"
+     },
+     {
+      "text": "Customers",
+      "href": "https://sentry.io/customers/"
+     },
+     {
+      "text": "Cookbook",
+      "href": "https://sentry.io/cookbook/"
+     }
+    ]
+   },
+   {
+    "label": "Support",
+    "children": [
+     {
+      "text": "Contact Us",
+      "href": "https://sentry.io/contact/enterprise/"
+     },
+     {
+      "text": "Help Center",
+      "href": "https://help.sentry.io/"
+     },
+     {
+      "text": "Status",
+      "href": "https://status.sentry.io/"
+     }
+    ]
+   },
+   {
+    "label": "Hang out with us",
+    "children": [
+     {
+      "text": "Community",
+      "href": "https://sentry.io/community/"
+     },
+     {
+      "text": "Events",
+      "href": "https://sentry.io/events/"
+     },
+     {
+      "text": "Merch",
+      "href": "https://sentry.shop/"
+     }
+    ]
+   }
+  ]
+ }
+]

@@ -1,0 +1,106 @@
+{
+ "url": "https://sentry.io/welcome/",
+ "label": "reference",
+ "steps": [
+  {
+   "name": "loaded",
+   "t": 1792926986718
+  },
+  {
+   "name": "hero-cursor",
+   "t": 1792926991906
+  },
+  {
+   "name": "breaks-hover",
+   "t": 1792926994092
+  },
+  {
+   "name": "hero-Get Started-hover",
+   "t": 1792926995363,
+   "bg": "2% 0px"
+  },
+  {
+   "name": "hero-Get Demo-hover",
+   "t": 1792926996636,
+   "bg": "2% 0px"
+  },
+  {
+   "name": "menu-open",
+   "t": 1792926997950,
+   "expanded": "true"
+  },
+  {
+   "name": "menu-escape",
+   "t": 1792926998328,
+   "expanded": "false"
+  },
+  {
+   "name": "logos",
+   "t": 1792927006858
+  },
+  {
+   "name": "features",
+   "t": 1792927009466
+  },
+  {
+   "name": "tabs0-0",
+   "t": 1792927012914
+  },
+  {
+   "name": "tabs0-1",
+   "t": 1792927014545
+  },
+  {
+   "name": "tabs0-2",
+   "t": 1792927016198
+  },
+  {
+   "name": "tabs1-0",
+   "t": 1792927019599
+  },
+  {
+   "name": "tabs1-1",
+   "t": 1792927021239
+  },
+  {
+   "name": "tabs1-2",
+   "t": 1792927022848
+  },
+  {
+   "name": "snippet-python",
+   "t": 1792927027544
+  },
+  {
+   "name": "copied",
+   "t": 1792927028048,
+   "clipboard": "pip install --upgrade sentry-sdk"
+  },
+  {
+   "name": "newsletter-focus",
+   "t": 1792927032657
+  },
+  {
+   "name": "footer-hover",
+   "t": 1792927034926
+  },
+  {
+   "name": "m-menu-open",
+   "t": 1792927061336,
+   "expanded": "true"
+  },
+  {
+   "name": "m-carousel",
+   "t": 1792927065993,
+   "prevDisabled": false
+  },
+  {
+   "name": "m-tabs",
+   "t": 1792927069395
+  },
+  {
+   "name": "m-badges",
+   "t": 1792927072750
+  }
+ ],
+ "desktopErrors": []
+}

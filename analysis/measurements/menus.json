@@ -1,0 +1,406 @@
+{
+ "desktop": {
+  "topLinks": [
+   {
+    "tag": "a",
+    "text": "DOCS",
+    "href": "https://docs.sentry.io/",
+    "trigger": "docs",
+    "cls": "btn-new silent dark-mode w-full xl:w-auto plausible-event-name=Nav+Click+Docs plausible-event-currentUrl=https://sentry.io/welcome/",
+    "rect": {
+     "x": 741,
+     "y": 16,
+     "w": 75,
+     "h": 40
+    },
+    "font": "500 14px/18px Rubik",
+    "color": "rgb(255, 255, 255)",
+    "ls": "0.2px"
+   },
+   {
+    "tag": "a",
+    "text": "PRICING",
+    "href": "https://sentry.io/pricing/",
+    "trigger": "pricing",
+    "cls": "btn-new silent dark-mode w-full xl:w-auto plausible-event-name=Nav+Click+Pricing plausible-event-currentUrl=https://sentry.io/welcome/",
+    "rect": {
+     "x": 825,
+     "y": 16,
+     "w": 94,
+     "h": 40
+    },
+    "font": "500 14px/18px Rubik",
+    "color": "rgb(255, 255, 255)",
+    "ls": "0.2px"
+   },
+   {
+    "tag": "a",
+    "text": "SIGN IN",
+    "href": "https://sentry.io/auth/login/",
+    "trigger": null,
+    "cls": "btn-new silent dark-mode w-full xl:w-auto plausible-event-name=Nav+Click+SignIn plausible-event-currentUrl=https://sentry.io/welcome/",
+    "rect": {
+     "x": 927,
+     "y": 16,
+     "w": 88,
+     "h": 40
+    },
+    "font": "500 14px/18px Rubik",
+    "color": "rgb(255, 255, 255)",
+    "ls": "0.2px"
+   },
+   {
+    "tag": "a",
+    "text": "GET DEMO",
+    "href": "https://sentry.io/demo/",
+    "trigger": null,
+    "cls": "btn-new secondary-dark dark-mode w-full xl:w-auto plausible-event-name=Nav+Click+Demo plausible-event-currentUrl=https://sentry.io/welcome/",
+    "rect": {
+     "x": 1023,
+     "y": 16,
+     "w": 103,
+     "h": 40
+    },
+    "font": "700 14px/16px Rubik",
+    "color": "rgb(255, 255, 255)",
+    "ls": "0.2px"
+   },
+   {
+    "tag": "a",
+    "text": "GET STARTED",
+    "href": "https://sentry.io/signup/",
+    "trigger": null,
+    "cls": "btn-new primary-dark dark-mode w-full xl:w-auto plausible-event-name=Nav+Click+SignUp plausible-event-currentUrl=https://sentry.io/welcome/",
+    "rect": {
+     "x": 1134,
+     "y": 16,
+     "w": 130,
+     "h": 40
+    },
+    "font": "700 14px/16px Rubik",
+    "color": "rgb(31, 22, 51)",
+    "ls": "0.2px"
+   }
+  ],
+  "platform": {
+   "rect": {
+    "x": 321.453125,
+    "y": 64,
+    "w": 544.75,
+    "h": 590
+   },
+   "bg": "rgb(255, 255, 255)",
+   "radius": "12px",
+   "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 10px 15px -3px, rgba(0, 0, 0, 0.1) 0px 4px 6px -4px",
+   "padding": "0px",
+   "cols": [
+    {
+     "heading": "Products",
+     "headingColor": "lab(16.1051 -1.18239 -11.7533)",
+     "links": [
+      {
+       "text": "Error Monitoring",
+       "href": "https://sentry.io/product/error-monitoring/"
+      },
+      {
+       "text": "Logs",
+       "href": "https://sentry.io/product/logs/"
+      },
+      {
+       "text": "Session Replay",
+       "href": "https://sentry.io/product/session-replay/"
+      },
+      {
+       "text": "Metrics",
+       "href": "https://sentry.io/product/metrics/",
+       "pill": "NEW"
+      },
+      {
+       "text": "Tracing",
+       "href": "https://sentry.io/product/tracing/"
+      },
+      {
+       "text": "Agent Tracing",
+       "href": "https://sentry.io/product/tracing/ai-agent/",
+       "nested": true
+      },
+      {
+       "text": "Profiling",
+       "href": "https://sentry.io/product/profiling/"
+      },
+      {
+       "text": "Size Analysis",
+       "href": "https://sentry.io/product/size-analysis/"
+      },
+      {
+       "text": "Cron Monitoring",
+       "href": "https://sentry.io/product/cron-monitoring/"
+      },
+      {
+       "text": "Uptime Monitoring",
+       "href": "https://sentry.io/product/uptime-monitoring/"
+      },
+      {
+       "text": "Labs",
+       "href": "https://labs.sentry.dev/",
+       "pill": "NEW"
+      }
+     ]
+    },
+    {
+     "heading": "AI Debugging",
+     "headingColor": "lab(16.1051 -1.18239 -11.7533)",
+     "links": [
+      {
+       "text": "Seer",
+       "href": "https://sentry.io/product/seer/",
+       "pill": "NEW"
+      },
+      {
+       "text": "Agent",
+       "href": "https://sentry.io/product/seer/agent/",
+       "nested": true
+      },
+      {
+       "text": "Autofix",
+       "href": "https://sentry.io/product/seer/autofix/",
+       "nested": true
+      },
+      {
+       "text": "AI Code Review",
+       "href": "https://sentry.io/product/seer/ai-code-review/",
+       "nested": true
+      }
+     ]
+    },
+    {
+     "heading": "Integrations",
+     "headingColor": "lab(16.1051 -1.18239 -11.7533)",
+     "links": [
+      {
+       "text": "Github",
+       "href": "https://sentry.io/integrations/github/",
+       "icon": "/astro-assets/nav-icons/github.png"
+      },
+      {
+       "text": "Slack",
+       "href": "https://sentry.io/integrations/slack/",
+       "icon": "/astro-assets/nav-icons/slack.png"
+      },
+      {
+       "text": "Sentry CLI",
+       "href": "https://cli.sentry.dev/"
+      },
+      {
+       "text": "Sentry MCP",
+       "href": "https://mcp.sentry.dev/"
+      },
+      {
+       "text": "All Integrations",
+       "href": "https://sentry.io/integrations/"
+      }
+     ]
+    }
+   ],
+   "featured": [],
+   "triggerExpanded": "true"
+  },
+  "solutions": {
+   "rect": {
+    "x": 321.453125,
+    "y": 64,
+    "w": 335.890625,
+    "h": 588
+   },
+   "bg": "rgb(255, 255, 255)",
+   "radius": "12px",
+   "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 10px 15px -3px, rgba(0, 0, 0, 0.1) 0px 4px 6px -4px",
+   "padding": "0px",
+   "cols": [],
+   "featured": [],
+   "triggerExpanded": "true"
+  },
+  "resources": {
+   "rect": {
+    "x": 321.453125,
+    "y": 64,
+    "w": 768,
+    "h": 403
+   },
+   "bg": "rgb(255, 255, 255)",
+   "radius": "12px",
+   "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 10px 15px -3px, rgba(0, 0, 0, 0.1) 0px 4px 6px -4px",
+   "padding": "0px",
+   "cols": [
+    {
+     "heading": "Learn",
+     "headingColor": "lab(16.1051 -1.18239 -11.7533)",
+     "links": [
+      {
+       "text": "Blog",
+       "href": "https://blog.sentry.io/"
+      },
+      {
+       "text": "Changelog",
+       "href": "https://sentry.io/changelog/"
+      },
+      {
+       "text": "Sandbox",
+       "href": "https://sandbox.sentry.io/"
+      },
+      {
+       "text": "Resources",
+       "href": "https://sentry.io/resources/"
+      },
+      {
+       "text": "Syntax",
+       "href": "https://syntax.fm/"
+      },
+      {
+       "text": "Customers",
+       "href": "https://sentry.io/customers/"
+      },
+      {
+       "text": "Cookbook",
+       "href": "https://sentry.io/cookbook/"
+      }
+     ]
+    },
+    {
+     "heading": "Support",
+     "headingColor": "lab(16.1051 -1.18239 -11.7533)",
+     "links": [
+      {
+       "text": "Contact Us",
+       "href": "https://sentry.io/contact/enterprise/"
+      },
+      {
+       "text": "Help Center",
+       "href": "https://help.sentry.io/"
+      },
+      {
+       "text": "Status",
+       "href": "https://status.sentry.io/"
+      }
+     ]
+    },
+    {
+     "heading": "Hang out with us",
+     "headingColor": "lab(16.1051 -1.18239 -11.7533)",
+     "links": [
+      {
+       "text": "Community",
+       "href": "https://sentry.io/community/"
+      },
+      {
+       "text": "Events",
+       "href": "https://sentry.io/events/"
+      },
+      {
+       "text": "Merch",
+       "href": "https://sentry.shop/"
+      }
+     ]
+    },
+    {
+     "heading": "Automated Debugging Hub",
+     "headingColor": "lab(8.11897 0.811279 -12.254)",
+     "links": []
+    }
+   ],
+   "featured": [
+    {
+     "src": "/astro-assets/nav-icons/automated-debugging.webp",
+     "alt": "Automated Debugging Hub",
+     "href": null,
+     "text": "",
+     "rect": {
+      "x": 729.453125,
+      "y": 88,
+      "width": 336,
+      "height": 142,
+      "top": 88,
+      "right": 1065.453125,
+      "bottom": 230,
+      "left": 729.453125
+     }
+    }
+   ],
+   "triggerExpanded": "true"
+  }
+ },
+ "mobile": {
+  "sections": [
+   {
+    "id": "mobile-0",
+    "label": "PLATFORM",
+    "rect": {
+     "x": 32,
+     "y": 72,
+     "width": 326,
+     "height": 40,
+     "top": 72,
+     "right": 358,
+     "bottom": 112,
+     "left": 32
+    }
+   },
+   {
+    "id": "mobile-1",
+    "label": "SOLUTIONS",
+    "rect": {
+     "x": 32,
+     "y": 128,
+     "width": 326,
+     "height": 40,
+     "top": 128,
+     "right": 358,
+     "bottom": 168,
+     "left": 32
+    }
+   },
+   {
+    "id": "mobile-2",
+    "label": "RESOURCES",
+    "rect": {
+     "x": 32,
+     "y": 184,
+     "width": 326,
+     "height": 40,
+     "top": 184,
+     "right": 358,
+     "bottom": 224,
+     "left": 32
+    }
+   }
+  ],
+  "ctas": [
+   {
+    "text": "DOCS",
+    "href": "https://docs.sentry.io/",
+    "cls": "btn-new silent dark-mode plausible-event-name=Nav+Click+Docs plausible-event-currentUrl=https://sentry.io/welcome/ w-full justify-start"
+   },
+   {
+    "text": "PRICING",
+    "href": "https://sentry.io/pricing/",
+    "cls": "btn-new silent dark-mode plausible-event-name=Nav+Click+Pricing plausible-event-currentUrl=https://sentry.io/welcome/ w-full justify-start"
+   },
+   {
+    "text": "SIGN IN",
+    "href": "https://sentry.io/auth/login/",
+    "cls": "btn-new silent dark-mode w-full xl:w-auto mb-2 xl:mb-0 plausible-event-name=Nav+Click+SignIn plausible-event-currentUrl=https://sentry.io/welcome/"
+   },
+   {
+    "text": "GET DEMO",
+    "href": "https://sentry.io/demo/",
+    "cls": "btn-new secondary-dark dark-mode w-full xl:w-auto mb-2 xl:mb-0 plausible-event-name=Nav+Click+Demo plausible-event-currentUrl=https://sentry.io/welcome/"
+   },
+   {
+    "text": "GET STARTED",
+    "href": "https://sentry.io/signup/",
+    "cls": "btn-new primary-dark dark-mode w-full xl:w-auto mb-2 xl:mb-0 plausible-event-name=Nav+Click+SignUp plausible-event-currentUrl=https://sentry.io/welcome/"
+   }
+  ],
+  "headerHeight": 844
+ }
+}

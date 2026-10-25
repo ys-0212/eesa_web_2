@@ -1,0 +1,4785 @@
+{
+ "options": [
+  {
+   "value": "nextjs",
+   "label": "Next.js"
+  },
+  {
+   "value": "angular",
+   "label": "Angular"
+  },
+  {
+   "value": "android",
+   "label": "Android"
+  },
+  {
+   "value": "ios",
+   "label": "iOS"
+  },
+  {
+   "value": "flutter",
+   "label": "Flutter"
+  },
+  {
+   "value": "react-native",
+   "label": "React Native"
+  },
+  {
+   "value": "net-maui",
+   "label": ".NET MAUI"
+  },
+  {
+   "value": "python",
+   "label": "Python"
+  },
+  {
+   "value": "nodejs",
+   "label": "Node.js"
+  },
+  {
+   "value": "react",
+   "label": "React"
+  },
+  {
+   "value": "net",
+   "label": ".NET"
+  },
+  {
+   "value": "go",
+   "label": "Go"
+  },
+  {
+   "value": "swift",
+   "label": "Swift"
+  },
+  {
+   "value": "ruby",
+   "label": "Ruby"
+  },
+  {
+   "value": "php",
+   "label": "PHP"
+  },
+  {
+   "value": "laravel",
+   "label": "Laravel"
+  },
+  {
+   "value": "aspnet-core",
+   "label": "ASP.NET Core"
+  },
+  {
+   "value": "spring-boot",
+   "label": "Spring Boot"
+  },
+  {
+   "value": "vue",
+   "label": "Vue"
+  },
+  {
+   "value": "solid",
+   "label": "Solid"
+  },
+  {
+   "value": "svelte",
+   "label": "Svelte"
+  },
+  {
+   "value": "astro",
+   "label": "Astro"
+  },
+  {
+   "value": "javascript",
+   "label": "JavaScript"
+  }
+ ],
+ "snippets": [
+  {
+   "id": "nextjs",
+   "docsUrl": "https://docs.sentry.io/platforms/javascript/guides/nextjs/",
+   "blocks": [
+    {
+     "type": "html",
+     "tag": "p",
+     "html": "See -- it's really just one command."
+    },
+    {
+     "type": "code",
+     "lang": "Bash",
+     "lines": [
+      [
+       {
+        "text": "npx",
+        "color": "rgb(179, 146, 240)"
+       },
+       {
+        "text": " @sentry/wizard@latest",
+        "color": "rgb(158, 203, 255)"
+       },
+       {
+        "text": " -i",
+        "color": "rgb(121, 184, 255)"
+       },
+       {
+        "text": " nextjs",
+        "color": "rgb(158, 203, 255)"
+       }
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "angular",
+   "docsUrl": "https://docs.sentry.io/platforms/javascript/guides/angular/",
+   "blocks": [
+    {
+     "type": "html",
+     "tag": "p",
+     "html": "Get started with just one line of code:"
+    },
+    {
+     "type": "code",
+     "lang": "Bash",
+     "lines": [
+      [
+       {
+        "text": "npx",
+        "color": "rgb(179, 146, 240)"
+       },
+       {
+        "text": " @sentry/wizard@latest",
+        "color": "rgb(158, 203, 255)"
+       },
+       {
+        "text": " -i",
+        "color": "rgb(121, 184, 255)"
+       },
+       {
+        "text": " angular",
+        "color": "rgb(158, 203, 255)"
+       }
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "android",
+   "docsUrl": "https://docs.sentry.io/platforms/android/",
+   "blocks": [
+    {
+     "type": "html",
+     "tag": "p",
+     "html": "Just run this command to sign up for and install Sentry."
+    },
+    {
+     "type": "code",
+     "lang": "Bash",
+     "lines": [
+      [
+       {
+        "text": "brew",
+        "color": "rgb(179, 146, 240)"
+       },
+       {
+        "text": " install",
+        "color": "rgb(158, 203, 255)"
+       },
+       {
+        "text": " getsentry/tools/sentry-wizard",
+        "color": "rgb(158, 203, 255)"
+       },
+       {
+        "text": " && ",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": "sentry-wizard",
+        "color": "rgb(179, 146, 240)"
+       },
+       {
+        "text": " -i",
+        "color": "rgb(121, 184, 255)"
+       },
+       {
+        "text": " android",
+        "color": "rgb(158, 203, 255)"
+       }
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ios",
+   "docsUrl": "https://docs.sentry.io/platforms/apple/guides/ios/",
+   "blocks": [
+    {
+     "type": "html",
+     "tag": "p",
+     "html": "Signup and install Sentry with just one line of code:"
+    },
+    {
+     "type": "code",
+     "lang": "Bash",
+     "lines": [
+      [
+       {
+        "text": "brew",
+        "color": "rgb(179, 146, 240)"
+       },
+       {
+        "text": " install",
+        "color": "rgb(158, 203, 255)"
+       },
+       {
+        "text": " getsentry/tools/sentry-wizard",
+        "color": "rgb(158, 203, 255)"
+       },
+       {
+        "text": " && ",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": "sentry-wizard",
+        "color": "rgb(179, 146, 240)"
+       },
+       {
+        "text": " -i",
+        "color": "rgb(121, 184, 255)"
+       },
+       {
+        "text": " ios",
+        "color": "rgb(158, 203, 255)"
+       }
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "flutter",
+   "docsUrl": "https://docs.sentry.io/platforms/dart/guides/flutter/",
+   "blocks": [
+    {
+     "type": "html",
+     "tag": "p",
+     "html": "Sign-up and install Sentry with just one line of code:"
+    },
+    {
+     "type": "code",
+     "lang": "Bash",
+     "lines": [
+      [
+       {
+        "text": "npx",
+        "color": "rgb(179, 146, 240)"
+       },
+       {
+        "text": " @sentry/wizard@latest",
+        "color": "rgb(158, 203, 255)"
+       },
+       {
+        "text": " -i",
+        "color": "rgb(121, 184, 255)"
+       },
+       {
+        "text": " flutter",
+        "color": "rgb(158, 203, 255)"
+       }
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "react-native",
+   "docsUrl": "https://docs.sentry.io/platforms/react-native/",
+   "blocks": [
+    {
+     "type": "html",
+     "tag": "p",
+     "html": "Install Sentry with one line of code:"
+    },
+    {
+     "type": "code",
+     "lang": "Bash",
+     "lines": [
+      [
+       {
+        "text": "npx",
+        "color": "rgb(179, 146, 240)"
+       },
+       {
+        "text": " @sentry/wizard@latest",
+        "color": "rgb(158, 203, 255)"
+       },
+       {
+        "text": " -i",
+        "color": "rgb(121, 184, 255)"
+       },
+       {
+        "text": " reactNative",
+        "color": "rgb(158, 203, 255)"
+       }
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "net-maui",
+   "docsUrl": "https://docs.sentry.io/platforms/dotnet/guides/maui/#install",
+   "blocks": [
+    {
+     "type": "html",
+     "tag": "p",
+     "html": "Add the Sentry dependency to your .NET MAUI application:"
+    },
+    {
+     "type": "code",
+     "lang": "Bash",
+     "lines": [
+      [
+       {
+        "text": "dotnet",
+        "color": "rgb(179, 146, 240)"
+       },
+       {
+        "text": " add",
+        "color": "rgb(158, 203, 255)"
+       },
+       {
+        "text": " package",
+        "color": "rgb(158, 203, 255)"
+       },
+       {
+        "text": " Sentry.Maui",
+        "color": "rgb(158, 203, 255)"
+       },
+       {
+        "text": " -v",
+        "color": "rgb(121, 184, 255)"
+       },
+       {
+        "text": " 5.11.1",
+        "color": "rgb(121, 184, 255)"
+       }
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "python",
+   "docsUrl": "https://docs.sentry.io/platforms/python/",
+   "blocks": [
+    {
+     "type": "html",
+     "tag": "p",
+     "html": "Grab the <a href=\"https://github.com/getsentry/sentry-python\">Sentry Python SDK</a>:"
+    },
+    {
+     "type": "code",
+     "lang": "Bash",
+     "lines": [
+      [
+       {
+        "text": "pip",
+        "color": "rgb(179, 146, 240)"
+       },
+       {
+        "text": " install",
+        "color": "rgb(158, 203, 255)"
+       },
+       {
+        "text": " --upgrade",
+        "color": "rgb(121, 184, 255)"
+       },
+       {
+        "text": " sentry-sdk",
+        "color": "rgb(158, 203, 255)"
+       }
+      ]
+     ]
+    },
+    {
+     "type": "html",
+     "tag": "p",
+     "html": "Configure your DSN:"
+    },
+    {
+     "type": "code",
+     "lang": "Python",
+     "lines": [
+      [
+       {
+        "text": "import",
+        "color": "rgb(249, 117, 131)"
+       },
+       {
+        "text": " sentry_sdk",
+        "color": "rgb(225, 228, 232)"
+       }
+      ],
+      [],
+      [
+       {
+        "text": "sentry_sdk.init(",
+        "color": "rgb(225, 228, 232)"
+       }
+      ],
+      [
+       {
+        "text": "    \"https://<key>@sentry.io/<project>\"",
+        "color": "rgb(158, 203, 255)"
+       },
+       {
+        "text": ",",
+        "color": "rgb(225, 228, 232)"
+       }
+      ],
+      [],
+      [
+       {
+        "text": "    # Set traces_sample_rate to 1.0 to capture 100%",
+        "color": "rgb(106, 115, 125)"
+       }
+      ],
+      [
+       {
+        "text": "    # of transactions for Tracing.",
+        "color": "rgb(106, 115, 125)"
+       }
+      ],
+      [
+       {
+        "text": "    # We recommend adjusting this value in production.",
+        "color": "rgb(106, 115, 125)"
+       }
+      ],
+      [
+       {
+        "text": "    enable_tracing",
+        "color": "rgb(255, 171, 112)"
+       },
+       {
+        "text": "=",
+        "color": "rgb(249, 117, 131)"
+       },
+       {
+        "text": "True",
+        "color": "rgb(121, 184, 255)"
+       },
+       {
+        "text": ",",
+        "color": "rgb(225, 228, 232)"
+       }
+      ],
+      [
+       {
+        "text": "    traces_sample_rate",
+        "color": "rgb(255, 171, 112)"
+       },
+       {
+        "text": "=",
+        "color": "rgb(249, 117, 131)"
+       },
+       {
+        "text": "1.0",
+        "color": "rgb(121, 184, 255)"
+       },
+       {
+        "text": ",",
+        "color": "rgb(225, 228, 232)"
+       }
+      ],
+      [
+       {
+        "text": ")",
+        "color": "rgb(225, 228, 232)"
+       }
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "nodejs",
+   "docsUrl": "https://docs.sentry.io/platforms/javascript/guides/node/",
+   "blocks": [
+    {
+     "type": "html",
+     "tag": "p",
+     "html": "Grab the <a href=\"https://github.com/getsentry/sentry-javascript/\">Sentry Node SDK</a>:"
+    },
+    {
+     "type": "code",
+     "lang": "Bash",
+     "lines": [
+      [
+       {
+        "text": "npm",
+        "color": "rgb(179, 146, 240)"
+       },
+       {
+        "text": " install",
+        "color": "rgb(158, 203, 255)"
+       },
+       {
+        "text": " @sentry/node",
+        "color": "rgb(158, 203, 255)"
+       }
+      ]
+     ]
+    },
+    {
+     "type": "html",
+     "tag": "p",
+     "html": "Configure your SDK:"
+    },
+    {
+     "type": "code",
+     "lang": "JavaScript",
+     "lines": [
+      [
+       {
+        "text": "const",
+        "color": "rgb(249, 117, 131)"
+       },
+       {
+        "text": " Sentry",
+        "color": "rgb(121, 184, 255)"
+       },
+       {
+        "text": " =",
+        "color": "rgb(249, 117, 131)"
+       },
+       {
+        "text": " require",
+        "color": "rgb(179, 146, 240)"
+       },
+       {
+        "text": "(",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": "'@sentry/node'",
+        "color": "rgb(158, 203, 255)"
+       },
+       {
+        "text": ");",
+        "color": "rgb(225, 228, 232)"
+       }
+      ],
+      [
+       {
+        "text": "Sentry.",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": "init",
+        "color": "rgb(179, 146, 240)"
+       },
+       {
+        "text": "({ dsn: ",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": "'https://<key>@sentry.io/<project>'",
+        "color": "rgb(158, 203, 255)"
+       },
+       {
+        "text": " });",
+        "color": "rgb(225, 228, 232)"
+       }
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "react",
+   "docsUrl": "https://docs.sentry.io/platforms/javascript/guides/react/",
+   "blocks": [
+    {
+     "type": "html",
+     "tag": "p",
+     "html": "Grab the <a href=\"https://github.com/getsentry/sentry-javascript/\">Sentry React SDK</a>:"
+    },
+    {
+     "type": "code",
+     "lang": "Bash",
+     "lines": [
+      [
+       {
+        "text": "npm",
+        "color": "rgb(179, 146, 240)"
+       },
+       {
+        "text": " install",
+        "color": "rgb(158, 203, 255)"
+       },
+       {
+        "text": " @sentry/react",
+        "color": "rgb(158, 203, 255)"
+       }
+      ]
+     ]
+    },
+    {
+     "type": "html",
+     "tag": "p",
+     "html": "We recommend putting the Sentry initialization code into its own file and including that file as the first import in your application entry point as shown in the example below:"
+    },
+    {
+     "type": "code",
+     "lang": "JSX",
+     "lines": [
+      [
+       {
+        "text": "import",
+        "color": "rgb(249, 117, 131)"
+       },
+       {
+        "text": " { useEffect } ",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": "from",
+        "color": "rgb(249, 117, 131)"
+       },
+       {
+        "text": " \"react\"",
+        "color": "rgb(158, 203, 255)"
+       },
+       {
+        "text": ";",
+        "color": "rgb(225, 228, 232)"
+       }
+      ],
+      [
+       {
+        "text": "import",
+        "color": "rgb(249, 117, 131)"
+       },
+       {
+        "text": " *",
+        "color": "rgb(121, 184, 255)"
+       },
+       {
+        "text": " as",
+        "color": "rgb(249, 117, 131)"
+       },
+       {
+        "text": " Sentry ",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": "from",
+        "color": "rgb(249, 117, 131)"
+       },
+       {
+        "text": " \"@sentry/react\"",
+        "color": "rgb(158, 203, 255)"
+       },
+       {
+        "text": ";",
+        "color": "rgb(225, 228, 232)"
+       }
+      ],
+      [],
+      [
+       {
+        "text": "Sentry.",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": "init",
+        "color": "rgb(179, 146, 240)"
+       },
+       {
+        "text": "({",
+        "color": "rgb(225, 228, 232)"
+       }
+      ],
+      [
+       {
+        "text": "  dsn: ",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": "\"https://examplePublicKey@o0.ingest.sentry.io/0\"",
+        "color": "rgb(158, 203, 255)"
+       },
+       {
+        "text": ",",
+        "color": "rgb(225, 228, 232)"
+       }
+      ],
+      [
+       {
+        "text": "  integrations: [",
+        "color": "rgb(225, 228, 232)"
+       }
+      ],
+      [
+       {
+        "text": "  ],",
+        "color": "rgb(225, 228, 232)"
+       }
+      ],
+      [
+       {
+        "text": "  // Set `tracePropagationTargets` to control for which URLs trace propagation should be enabled",
+        "color": "rgb(106, 115, 125)"
+       }
+      ],
+      [
+       {
+        "text": "  tracePropagationTargets: [",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": "/",
+        "color": "rgb(158, 203, 255)"
+       },
+       {
+        "text": "^",
+        "color": "rgb(249, 117, 131)"
+       },
+       {
+        "text": "\\/",
+        "color": "rgb(133, 232, 157)"
+       },
+       {
+        "text": "/",
+        "color": "rgb(158, 203, 255)"
+       },
+       {
+        "text": ",",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": " /",
+        "color": "rgb(158, 203, 255)"
+       },
+       {
+        "text": "^",
+        "color": "rgb(249, 117, 131)"
+       },
+       {
+        "text": "https:",
+        "color": "rgb(219, 237, 255)"
+       },
+       {
+        "text": "\\/\\/",
+        "color": "rgb(133, 232, 157)"
+       },
+       {
+        "text": "yourserver",
+        "color": "rgb(219, 237, 255)"
+       },
+       {
+        "text": "\\.",
+        "color": "rgb(133, 232, 157)"
+       },
+       {
+        "text": "io",
+        "color": "rgb(219, 237, 255)"
+       },
+       {
+        "text": "\\/",
+        "color": "rgb(133, 232, 157)"
+       },
+       {
+        "text": "api",
+        "color": "rgb(219, 237, 255)"
+       },
+       {
+        "text": "/",
+        "color": "rgb(158, 203, 255)"
+       },
+       {
+        "text": "],",
+        "color": "rgb(225, 228, 232)"
+       }
+      ],
+      [
+       {
+        "text": "});",
+        "color": "rgb(225, 228, 232)"
+       }
+      ]
+     ]
+    },
+    {
+     "type": "html",
+     "tag": "p",
+     "html": "Include the Sentry initialization file as the first import statement:"
+    },
+    {
+     "type": "code",
+     "lang": "JSX",
+     "lines": [
+      [
+       {
+        "text": "// Sentry initialization should be imported first!",
+        "color": "rgb(106, 115, 125)"
+       }
+      ],
+      [
+       {
+        "text": "import",
+        "color": "rgb(249, 117, 131)"
+       },
+       {
+        "text": " \"./instrument\"",
+        "color": "rgb(158, 203, 255)"
+       },
+       {
+        "text": ";",
+        "color": "rgb(225, 228, 232)"
+       }
+      ],
+      [
+       {
+        "text": "import",
+        "color": "rgb(249, 117, 131)"
+       },
+       {
+        "text": " App ",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": "from",
+        "color": "rgb(249, 117, 131)"
+       },
+       {
+        "text": " \"./App\"",
+        "color": "rgb(158, 203, 255)"
+       },
+       {
+        "text": ";",
+        "color": "rgb(225, 228, 232)"
+       }
+      ],
+      [
+       {
+        "text": "import",
+        "color": "rgb(249, 117, 131)"
+       },
+       {
+        "text": " { createRoot } ",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": "from",
+        "color": "rgb(249, 117, 131)"
+       },
+       {
+        "text": " \"react-dom/client\"",
+        "color": "rgb(158, 203, 255)"
+       },
+       {
+        "text": ";",
+        "color": "rgb(225, 228, 232)"
+       }
+      ],
+      [],
+      [
+       {
+        "text": "const",
+        "color": "rgb(249, 117, 131)"
+       },
+       {
+        "text": " container",
+        "color": "rgb(121, 184, 255)"
+       },
+       {
+        "text": " =",
+        "color": "rgb(249, 117, 131)"
+       },
+       {
+        "text": " document.",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": "getElementById",
+        "color": "rgb(179, 146, 240)"
+       },
+       {
+        "text": "(“app”);",
+        "color": "rgb(225, 228, 232)"
+       }
+      ],
+      [
+       {
+        "text": "const",
+        "color": "rgb(249, 117, 131)"
+       },
+       {
+        "text": " root",
+        "color": "rgb(121, 184, 255)"
+       },
+       {
+        "text": " =",
+        "color": "rgb(249, 117, 131)"
+       },
+       {
+        "text": " createRoot",
+        "color": "rgb(179, 146, 240)"
+       },
+       {
+        "text": "(container);",
+        "color": "rgb(225, 228, 232)"
+       }
+      ],
+      [
+       {
+        "text": "root.",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": "render",
+        "color": "rgb(179, 146, 240)"
+       },
+       {
+        "text": "(<",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": "App",
+        "color": "rgb(121, 184, 255)"
+       },
+       {
+        "text": " />);",
+        "color": "rgb(225, 228, 232)"
+       }
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "net",
+   "docsUrl": "https://docs.sentry.io/platforms/dotnet/",
+   "blocks": [
+    {
+     "type": "html",
+     "tag": "p",
+     "html": "Install the <strong>NuGet</strong> package to add the Sentry dependency:"
+    },
+    {
+     "type": "code",
+     "lang": "Bash",
+     "lines": [
+      [
+       {
+        "text": "dotnet",
+        "color": "rgb(179, 146, 240)"
+       },
+       {
+        "text": " add",
+        "color": "rgb(158, 203, 255)"
+       },
+       {
+        "text": " package",
+        "color": "rgb(158, 203, 255)"
+       },
+       {
+        "text": " Sentry",
+        "color": "rgb(158, 203, 255)"
+       }
+      ]
+     ]
+    },
+    {
+     "type": "html",
+     "tag": "p",
+     "html": "Initialize the SDK as early as possible, like in the <code>Main</code> method in <code>Program.cs/Program.fs</code>:"
+    },
+    {
+     "type": "code",
+     "lang": "C#",
+     "lines": [
+      [
+       {
+        "text": "using",
+        "color": "rgb(249, 117, 131)"
+       },
+       {
+        "text": " (SentrySdk.",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": "Init",
+        "color": "rgb(179, 146, 240)"
+       },
+       {
+        "text": "(",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": "o",
+        "color": "rgb(179, 146, 240)"
+       },
+       {
+        "text": " =>",
+        "color": "rgb(249, 117, 131)"
+       },
+       {
+        "text": " {",
+        "color": "rgb(225, 228, 232)"
+       }
+      ],
+      [
+       {
+        "text": "  // Tells which project in Sentry to send events to:",
+        "color": "rgb(106, 115, 125)"
+       }
+      ],
+      [
+       {
+        "text": "  o.Dsn ",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": "=",
+        "color": "rgb(249, 117, 131)"
+       },
+       {
+        "text": " \"https://<key>@sentry.io/<project>\"",
+        "color": "rgb(158, 203, 255)"
+       },
+       {
+        "text": ";",
+        "color": "rgb(225, 228, 232)"
+       }
+      ],
+      [
+       {
+        "text": "  // When configuring for the first time, to see what the SDK is doing:",
+        "color": "rgb(106, 115, 125)"
+       }
+      ],
+      [
+       {
+        "text": "  o.Debug ",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": "=",
+        "color": "rgb(249, 117, 131)"
+       },
+       {
+        "text": " true",
+        "color": "rgb(121, 184, 255)"
+       },
+       {
+        "text": ";",
+        "color": "rgb(225, 228, 232)"
+       }
+      ],
+      [
+       {
+        "text": "  // Set TracesSampleRate to 1.0 to capture 100% of transactions for Tracing.",
+        "color": "rgb(106, 115, 125)"
+       }
+      ],
+      [
+       {
+        "text": "  // We recommend adjusting this value in production.",
+        "color": "rgb(106, 115, 125)"
+       }
+      ],
+      [
+       {
+        "text": "  o.TracesSampleRate ",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": "=",
+        "color": "rgb(249, 117, 131)"
+       },
+       {
+        "text": " 1.0",
+        "color": "rgb(121, 184, 255)"
+       },
+       {
+        "text": "; }))",
+        "color": "rgb(225, 228, 232)"
+       }
+      ],
+      [
+       {
+        "text": "{",
+        "color": "rgb(225, 228, 232)"
+       }
+      ],
+      [
+       {
+        "text": "  // App code goes here - Disposing will flush events out",
+        "color": "rgb(106, 115, 125)"
+       }
+      ],
+      [
+       {
+        "text": "}",
+        "color": "rgb(225, 228, 232)"
+       }
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "go",
+   "docsUrl": "https://docs.sentry.io/platforms/go/",
+   "blocks": [
+    {
+     "type": "html",
+     "tag": "p",
+     "html": "Grab the <a href=\"https://github.com/getsentry/sentry-go\">Sentry Go SDK</a>:"
+    },
+    {
+     "type": "code",
+     "lang": "Go",
+     "lines": [
+      [
+       {
+        "text": "go",
+        "color": "rgb(249, 117, 131)"
+       },
+       {
+        "text": " get ",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": "\"github.com/getsentry/sentry-go\"",
+        "color": "rgb(158, 203, 255)"
+       }
+      ]
+     ]
+    },
+    {
+     "type": "html",
+     "tag": "p",
+     "html": "Configuration should happen as early as possible in your application's lifecycle:"
+    },
+    {
+     "type": "code",
+     "lang": "Go",
+     "lines": [
+      [
+       {
+        "text": "package",
+        "color": "rgb(249, 117, 131)"
+       },
+       {
+        "text": " main",
+        "color": "rgb(179, 146, 240)"
+       }
+      ],
+      [],
+      [
+       {
+        "text": "import",
+        "color": "rgb(249, 117, 131)"
+       },
+       {
+        "text": " (",
+        "color": "rgb(225, 228, 232)"
+       }
+      ],
+      [
+       {
+        "text": "\t\"",
+        "color": "rgb(158, 203, 255)"
+       },
+       {
+        "text": "log",
+        "color": "rgb(179, 146, 240)"
+       },
+       {
+        "text": "\"",
+        "color": "rgb(158, 203, 255)"
+       }
+      ],
+      [
+       {
+        "text": "\t\"",
+        "color": "rgb(158, 203, 255)"
+       },
+       {
+        "text": "time",
+        "color": "rgb(179, 146, 240)"
+       },
+       {
+        "text": "\"",
+        "color": "rgb(158, 203, 255)"
+       }
+      ],
+      [],
+      [
+       {
+        "text": "\t\"",
+        "color": "rgb(158, 203, 255)"
+       },
+       {
+        "text": "github.com/getsentry/sentry-go",
+        "color": "rgb(179, 146, 240)"
+       },
+       {
+        "text": "\"",
+        "color": "rgb(158, 203, 255)"
+       }
+      ],
+      [
+       {
+        "text": ")",
+        "color": "rgb(225, 228, 232)"
+       }
+      ],
+      [],
+      [
+       {
+        "text": "func",
+        "color": "rgb(249, 117, 131)"
+       },
+       {
+        "text": " main",
+        "color": "rgb(179, 146, 240)"
+       },
+       {
+        "text": "() {",
+        "color": "rgb(225, 228, 232)"
+       }
+      ],
+      [
+       {
+        "text": "\terr ",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": ":=",
+        "color": "rgb(249, 117, 131)"
+       },
+       {
+        "text": " sentry.",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": "Init",
+        "color": "rgb(179, 146, 240)"
+       },
+       {
+        "text": "(",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": "sentry",
+        "color": "rgb(179, 146, 240)"
+       },
+       {
+        "text": ".",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": "ClientOptions",
+        "color": "rgb(179, 146, 240)"
+       },
+       {
+        "text": "{",
+        "color": "rgb(225, 228, 232)"
+       }
+      ],
+      [
+       {
+        "text": "\t\tDsn: ",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": "\"https://<key>@sentry.io/<project>\"",
+        "color": "rgb(158, 203, 255)"
+       },
+       {
+        "text": ",",
+        "color": "rgb(225, 228, 232)"
+       }
+      ],
+      [
+       {
+        "text": "    EnableTracing: ",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": "true",
+        "color": "rgb(121, 184, 255)"
+       },
+       {
+        "text": ",",
+        "color": "rgb(225, 228, 232)"
+       }
+      ],
+      [
+       {
+        "text": "\t\t// Specify a fixed sample rate:",
+        "color": "rgb(106, 115, 125)"
+       }
+      ],
+      [
+       {
+        "text": "\t\t// We recommend adjusting this value in production",
+        "color": "rgb(106, 115, 125)"
+       }
+      ],
+      [
+       {
+        "text": "\t\tTracesSampleRate: ",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": "1.0",
+        "color": "rgb(121, 184, 255)"
+       },
+       {
+        "text": ",",
+        "color": "rgb(225, 228, 232)"
+       }
+      ],
+      [
+       {
+        "text": "\t\t// Or provide a custom sample rate:",
+        "color": "rgb(106, 115, 125)"
+       }
+      ],
+      [
+       {
+        "text": "\t\tTracesSampler: sentry.",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": "TracesSampler",
+        "color": "rgb(179, 146, 240)"
+       },
+       {
+        "text": "(",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": "func",
+        "color": "rgb(249, 117, 131)"
+       },
+       {
+        "text": "(",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": "ctx",
+        "color": "rgb(255, 171, 112)"
+       },
+       {
+        "text": " sentry",
+        "color": "rgb(179, 146, 240)"
+       },
+       {
+        "text": ".",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": "SamplingContext",
+        "color": "rgb(179, 146, 240)"
+       },
+       {
+        "text": ") ",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": "float64",
+        "color": "rgb(249, 117, 131)"
+       },
+       {
+        "text": " {",
+        "color": "rgb(225, 228, 232)"
+       }
+      ],
+      [
+       {
+        "text": "\t\t\t// As an example, this does not send some",
+        "color": "rgb(106, 115, 125)"
+       }
+      ],
+      [
+       {
+        "text": "\t\t\t// transactions to Sentry based on their name.",
+        "color": "rgb(106, 115, 125)"
+       }
+      ],
+      [
+       {
+        "text": "\t\t\tif",
+        "color": "rgb(249, 117, 131)"
+       },
+       {
+        "text": " ctx.Span.Name ",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": "==",
+        "color": "rgb(249, 117, 131)"
+       },
+       {
+        "text": " \"GET /health\"",
+        "color": "rgb(158, 203, 255)"
+       },
+       {
+        "text": " {",
+        "color": "rgb(225, 228, 232)"
+       }
+      ],
+      [
+       {
+        "text": "\t\t\t\treturn",
+        "color": "rgb(249, 117, 131)"
+       },
+       {
+        "text": " 0.0",
+        "color": "rgb(121, 184, 255)"
+       }
+      ],
+      [
+       {
+        "text": "\t\t\t}",
+        "color": "rgb(225, 228, 232)"
+       }
+      ],
+      [],
+      [
+       {
+        "text": "\t\t\treturn",
+        "color": "rgb(249, 117, 131)"
+       },
+       {
+        "text": " 1.0",
+        "color": "rgb(121, 184, 255)"
+       }
+      ],
+      [
+       {
+        "text": "\t\t}),",
+        "color": "rgb(225, 228, 232)"
+       }
+      ],
+      [
+       {
+        "text": "\t})",
+        "color": "rgb(225, 228, 232)"
+       }
+      ],
+      [
+       {
+        "text": "\tif",
+        "color": "rgb(249, 117, 131)"
+       },
+       {
+        "text": " err ",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": "!=",
+        "color": "rgb(249, 117, 131)"
+       },
+       {
+        "text": " nil",
+        "color": "rgb(121, 184, 255)"
+       },
+       {
+        "text": " {",
+        "color": "rgb(225, 228, 232)"
+       }
+      ],
+      [
+       {
+        "text": "\t\tlog.",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": "Fatalf",
+        "color": "rgb(179, 146, 240)"
+       },
+       {
+        "text": "(",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": "\"sentry.Init: ",
+        "color": "rgb(158, 203, 255)"
+       },
+       {
+        "text": "%s",
+        "color": "rgb(121, 184, 255)"
+       },
+       {
+        "text": "\"",
+        "color": "rgb(158, 203, 255)"
+       },
+       {
+        "text": ", err)",
+        "color": "rgb(225, 228, 232)"
+       }
+      ],
+      [
+       {
+        "text": "\t}",
+        "color": "rgb(225, 228, 232)"
+       }
+      ],
+      [
+       {
+        "text": "\t// Flush buffered events before the program terminates.",
+        "color": "rgb(106, 115, 125)"
+       }
+      ],
+      [
+       {
+        "text": "\t// Set the timeout to the maximum duration the program can afford to wait.",
+        "color": "rgb(106, 115, 125)"
+       }
+      ],
+      [
+       {
+        "text": "\tdefer",
+        "color": "rgb(249, 117, 131)"
+       },
+       {
+        "text": " sentry.",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": "Flush",
+        "color": "rgb(179, 146, 240)"
+       },
+       {
+        "text": "(",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": "2",
+        "color": "rgb(121, 184, 255)"
+       },
+       {
+        "text": " *",
+        "color": "rgb(249, 117, 131)"
+       },
+       {
+        "text": " time.Second)",
+        "color": "rgb(225, 228, 232)"
+       }
+      ],
+      [
+       {
+        "text": "}",
+        "color": "rgb(225, 228, 232)"
+       }
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "swift",
+   "docsUrl": "https://docs.sentry.io/platforms/apple/",
+   "blocks": [
+    {
+     "type": "html",
+     "tag": "p",
+     "html": "To integrate Sentry into your Xcode project, specify it in your <code>Podfile</code>, then run <code>pod install</code>:"
+    },
+    {
+     "type": "code",
+     "lang": "Swift",
+     "lines": [
+      [
+       {
+        "text": "platform ",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": ":",
+        "color": "rgb(249, 117, 131)"
+       },
+       {
+        "text": "ios, '",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": "9.0",
+        "color": "rgb(121, 184, 255)"
+       },
+       {
+        "text": "'",
+        "color": "rgb(225, 228, 232)"
+       }
+      ],
+      [
+       {
+        "text": "use_frameworks",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": "!",
+        "color": "rgb(249, 117, 131)"
+       },
+       {
+        "text": " # This ",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": "is",
+        "color": "rgb(249, 117, 131)"
+       },
+       {
+        "text": " important",
+        "color": "rgb(225, 228, 232)"
+       }
+      ],
+      [],
+      [
+       {
+        "text": "target 'YourApp' ",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": "do",
+        "color": "rgb(249, 117, 131)"
+       }
+      ],
+      [
+       {
+        "text": "  pod 'Sentry', ",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": ":",
+        "color": "rgb(249, 117, 131)"
+       },
+       {
+        "text": "git ",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": "=>",
+        "color": "rgb(249, 117, 131)"
+       },
+       {
+        "text": " 'https",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": ":",
+        "color": "rgb(249, 117, 131)"
+       },
+       {
+        "text": "//github.com/getsentry/sentry-cocoa.git', :tag => '<VERSION>'",
+        "color": "rgb(106, 115, 125)"
+       }
+      ],
+      [
+       {
+        "text": "end",
+        "color": "rgb(225, 228, 232)"
+       }
+      ]
+     ]
+    },
+    {
+     "type": "html",
+     "tag": "p",
+     "html": "Initialize the SDK as soon as possible in your application lifecycle, such as in your AppDelegate <code>application:didFinishLaunchingWithOptions</code> method:"
+    },
+    {
+     "type": "code",
+     "lang": "Swift",
+     "lines": [
+      [
+       {
+        "text": "import",
+        "color": "rgb(249, 117, 131)"
+       },
+       {
+        "text": " Sentry",
+        "color": "rgb(179, 146, 240)"
+       },
+       {
+        "text": " // Make sure you import Sentry",
+        "color": "rgb(106, 115, 125)"
+       }
+      ],
+      [],
+      [
+       {
+        "text": "func",
+        "color": "rgb(249, 117, 131)"
+       },
+       {
+        "text": " application",
+        "color": "rgb(179, 146, 240)"
+       },
+       {
+        "text": "(",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": "_",
+        "color": "rgb(179, 146, 240)"
+       },
+       {
+        "text": " application: UIApplication,",
+        "color": "rgb(225, 228, 232)"
+       }
+      ],
+      [
+       {
+        "text": "    didFinishLaunchingWithOptions",
+        "color": "rgb(179, 146, 240)"
+       },
+       {
+        "text": " launchOptions: [UIApplication.LaunchOptionsKey: ",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": "Any",
+        "color": "rgb(121, 184, 255)"
+       },
+       {
+        "text": "]",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": "?",
+        "color": "rgb(249, 117, 131)"
+       },
+       {
+        "text": ") ",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": "->",
+        "color": "rgb(249, 117, 131)"
+       },
+       {
+        "text": " Bool",
+        "color": "rgb(121, 184, 255)"
+       },
+       {
+        "text": " {",
+        "color": "rgb(225, 228, 232)"
+       }
+      ],
+      [],
+      [
+       {
+        "text": "    SentrySDK.",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": "start",
+        "color": "rgb(121, 184, 255)"
+       },
+       {
+        "text": " { options ",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": "in",
+        "color": "rgb(249, 117, 131)"
+       }
+      ],
+      [
+       {
+        "text": "        options.dsn ",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": "=",
+        "color": "rgb(249, 117, 131)"
+       },
+       {
+        "text": " \"https://<key>@sentry.io/<project>\"",
+        "color": "rgb(158, 203, 255)"
+       }
+      ],
+      [
+       {
+        "text": "        options.debug ",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": "=",
+        "color": "rgb(249, 117, 131)"
+       },
+       {
+        "text": " true",
+        "color": "rgb(121, 184, 255)"
+       },
+       {
+        "text": " // Enabled debug when first installing is always helpful",
+        "color": "rgb(106, 115, 125)"
+       }
+      ],
+      [
+       {
+        "text": "        // Example uniform sample rate: capture 100% of transactions for Tracing",
+        "color": "rgb(106, 115, 125)"
+       }
+      ],
+      [
+       {
+        "text": "        options.tracesSampleRate ",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": "=",
+        "color": "rgb(249, 117, 131)"
+       },
+       {
+        "text": " 1.0",
+        "color": "rgb(121, 184, 255)"
+       }
+      ],
+      [
+       {
+        "text": "    }",
+        "color": "rgb(225, 228, 232)"
+       }
+      ],
+      [],
+      [
+       {
+        "text": "    return",
+        "color": "rgb(249, 117, 131)"
+       },
+       {
+        "text": " true",
+        "color": "rgb(121, 184, 255)"
+       }
+      ],
+      [
+       {
+        "text": "}",
+        "color": "rgb(225, 228, 232)"
+       }
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ruby",
+   "docsUrl": "https://docs.sentry.io/platforms/ruby/",
+   "blocks": [
+    {
+     "type": "html",
+     "tag": "p",
+     "html": "Add the <code>sentry-ruby</code> gem to your <code>Gemfile</code>:"
+    },
+    {
+     "type": "code",
+     "lang": "Ruby",
+     "lines": [
+      [
+       {
+        "text": "gem ",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": "\"sentry-ruby\"",
+        "color": "rgb(158, 203, 255)"
+       }
+      ]
+     ]
+    },
+    {
+     "type": "html",
+     "tag": "p",
+     "html": "Configure your DSN:"
+    },
+    {
+     "type": "code",
+     "lang": "Ruby",
+     "lines": [
+      [
+       {
+        "text": "Sentry",
+        "color": "rgb(121, 184, 255)"
+       },
+       {
+        "text": ".",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": "init",
+        "color": "rgb(179, 146, 240)"
+       },
+       {
+        "text": " do",
+        "color": "rgb(249, 117, 131)"
+       },
+       {
+        "text": " |config|",
+        "color": "rgb(225, 228, 232)"
+       }
+      ],
+      [
+       {
+        "text": "  config.",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": "dsn",
+        "color": "rgb(179, 146, 240)"
+       },
+       {
+        "text": " =",
+        "color": "rgb(249, 117, 131)"
+       },
+       {
+        "text": " 'https://<key>@sentry.io/<project>'",
+        "color": "rgb(158, 203, 255)"
+       }
+      ],
+      [],
+      [
+       {
+        "text": "  # Set a uniform sample rate between 0.0 and 1.0",
+        "color": "rgb(106, 115, 125)"
+       }
+      ],
+      [
+       {
+        "text": "  # We recommend adjusting the value in production:",
+        "color": "rgb(106, 115, 125)"
+       }
+      ],
+      [
+       {
+        "text": "  config.",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": "traces_sample_rate",
+        "color": "rgb(179, 146, 240)"
+       },
+       {
+        "text": " =",
+        "color": "rgb(249, 117, 131)"
+       },
+       {
+        "text": " 1.0",
+        "color": "rgb(121, 184, 255)"
+       }
+      ],
+      [],
+      [
+       {
+        "text": "  # or control sampling dynamically",
+        "color": "rgb(106, 115, 125)"
+       }
+      ],
+      [
+       {
+        "text": "  config.",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": "traces_sampler",
+        "color": "rgb(179, 146, 240)"
+       },
+       {
+        "text": " =",
+        "color": "rgb(249, 117, 131)"
+       },
+       {
+        "text": " lambda",
+        "color": "rgb(121, 184, 255)"
+       },
+       {
+        "text": " do",
+        "color": "rgb(249, 117, 131)"
+       },
+       {
+        "text": " |sampling_context|",
+        "color": "rgb(225, 228, 232)"
+       }
+      ],
+      [
+       {
+        "text": "    # sampling_context[:transaction_context] contains the information about the transaction",
+        "color": "rgb(106, 115, 125)"
+       }
+      ],
+      [
+       {
+        "text": "    # sampling_context[:parent_sampled] contains the transaction's parent's sample decision",
+        "color": "rgb(106, 115, 125)"
+       }
+      ],
+      [
+       {
+        "text": "    true",
+        "color": "rgb(121, 184, 255)"
+       },
+       {
+        "text": " # return value can be a boolean or a float between 0.0 and 1.0",
+        "color": "rgb(106, 115, 125)"
+       }
+      ],
+      [
+       {
+        "text": "  end",
+        "color": "rgb(249, 117, 131)"
+       }
+      ],
+      [
+       {
+        "text": "end",
+        "color": "rgb(249, 117, 131)"
+       }
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "php",
+   "docsUrl": "https://docs.sentry.io/platforms/php/",
+   "blocks": [
+    {
+     "type": "html",
+     "tag": "p",
+     "html": "Install the <code>sentry/sentry</code> package with Composer:"
+    },
+    {
+     "type": "code",
+     "lang": "Bash",
+     "lines": [
+      [
+       {
+        "text": "composer",
+        "color": "rgb(179, 146, 240)"
+       },
+       {
+        "text": " require",
+        "color": "rgb(158, 203, 255)"
+       },
+       {
+        "text": " sentry/sentry",
+        "color": "rgb(158, 203, 255)"
+       }
+      ]
+     ]
+    },
+    {
+     "type": "html",
+     "tag": "p",
+     "html": "To capture all errors, even the one during the startup of your application, you should initialize the Sentry PHP SDK as soon as possible."
+    },
+    {
+     "type": "code",
+     "lang": "PHP",
+     "lines": [
+      [
+       {
+        "text": "\\Sentry\\",
+        "color": "rgb(121, 184, 255)"
+       },
+       {
+        "text": "init",
+        "color": "rgb(179, 146, 240)"
+       },
+       {
+        "text": "([",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": "'dsn'",
+        "color": "rgb(158, 203, 255)"
+       },
+       {
+        "text": " =>",
+        "color": "rgb(249, 117, 131)"
+       },
+       {
+        "text": " 'https://<key>@sentry.io/<project>'",
+        "color": "rgb(158, 203, 255)"
+       },
+       {
+        "text": ",",
+        "color": "rgb(225, 228, 232)"
+       }
+      ],
+      [
+       {
+        "text": "    // Specify a fixed sample rate:",
+        "color": "rgb(106, 115, 125)"
+       }
+      ],
+      [
+       {
+        "text": "    'traces_sample_rate'",
+        "color": "rgb(158, 203, 255)"
+       },
+       {
+        "text": " =>",
+        "color": "rgb(249, 117, 131)"
+       },
+       {
+        "text": " 0.2",
+        "color": "rgb(121, 184, 255)"
+       },
+       {
+        "text": ",",
+        "color": "rgb(225, 228, 232)"
+       }
+      ],
+      [
+       {
+        "text": "    // Or provide a custom sampler:",
+        "color": "rgb(106, 115, 125)"
+       }
+      ],
+      [
+       {
+        "text": "    'traces_sampler'",
+        "color": "rgb(158, 203, 255)"
+       },
+       {
+        "text": " =>",
+        "color": "rgb(249, 117, 131)"
+       },
+       {
+        "text": " function",
+        "color": "rgb(249, 117, 131)"
+       },
+       {
+        "text": " (",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": "SentryTracingSamplingContext",
+        "color": "rgb(121, 184, 255)"
+       },
+       {
+        "text": " $context)",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": ":",
+        "color": "rgb(249, 117, 131)"
+       },
+       {
+        "text": " float",
+        "color": "rgb(249, 117, 131)"
+       },
+       {
+        "text": " {",
+        "color": "rgb(225, 228, 232)"
+       }
+      ],
+      [
+       {
+        "text": "        // return a number between 0 and 1",
+        "color": "rgb(106, 115, 125)"
+       }
+      ],
+      [
+       {
+        "text": "    }, ]);",
+        "color": "rgb(225, 228, 232)"
+       }
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "laravel",
+   "docsUrl": "https://docs.sentry.io/platforms/php/guides/laravel/",
+   "blocks": [
+    {
+     "type": "html",
+     "tag": "p",
+     "html": "Install the <code>sentry/sentry-laravel</code> package with Composer:"
+    },
+    {
+     "type": "code",
+     "lang": "Bash",
+     "lines": [
+      [
+       {
+        "text": "composer",
+        "color": "rgb(179, 146, 240)"
+       },
+       {
+        "text": " require",
+        "color": "rgb(158, 203, 255)"
+       },
+       {
+        "text": " sentry/sentry-laravel",
+        "color": "rgb(158, 203, 255)"
+       }
+      ]
+     ]
+    },
+    {
+     "type": "html",
+     "tag": "p",
+     "html": "Add Sentry reporting to <code>bootstrap/app.php</code>:"
+    },
+    {
+     "type": "code",
+     "lang": "PHP",
+     "lines": [
+      [
+       {
+        "text": "<?",
+        "color": "rgb(249, 117, 131)"
+       },
+       {
+        "text": "php",
+        "color": "rgb(121, 184, 255)"
+       }
+      ],
+      [],
+      [
+       {
+        "text": "use",
+        "color": "rgb(249, 117, 131)"
+       },
+       {
+        "text": " Illuminate\\Foundation\\Application",
+        "color": "rgb(121, 184, 255)"
+       },
+       {
+        "text": ";",
+        "color": "rgb(225, 228, 232)"
+       }
+      ],
+      [
+       {
+        "text": "use",
+        "color": "rgb(249, 117, 131)"
+       },
+       {
+        "text": " Illuminate\\Foundation\\Configuration\\Exceptions",
+        "color": "rgb(121, 184, 255)"
+       },
+       {
+        "text": ";",
+        "color": "rgb(225, 228, 232)"
+       }
+      ],
+      [
+       {
+        "text": "use",
+        "color": "rgb(249, 117, 131)"
+       },
+       {
+        "text": " Illuminate\\Foundation\\Configuration\\Middleware",
+        "color": "rgb(121, 184, 255)"
+       },
+       {
+        "text": ";",
+        "color": "rgb(225, 228, 232)"
+       }
+      ],
+      [
+       {
+        "text": "use",
+        "color": "rgb(249, 117, 131)"
+       },
+       {
+        "text": " Sentry\\Laravel\\Integration",
+        "color": "rgb(121, 184, 255)"
+       },
+       {
+        "text": ";",
+        "color": "rgb(225, 228, 232)"
+       }
+      ],
+      [],
+      [
+       {
+        "text": "return",
+        "color": "rgb(249, 117, 131)"
+       },
+       {
+        "text": " Application",
+        "color": "rgb(121, 184, 255)"
+       },
+       {
+        "text": "::",
+        "color": "rgb(249, 117, 131)"
+       },
+       {
+        "text": "configure",
+        "color": "rgb(179, 146, 240)"
+       },
+       {
+        "text": "(",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": "basePath",
+        "color": "rgb(179, 146, 240)"
+       },
+       {
+        "text": ": ",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": "dirname",
+        "color": "rgb(121, 184, 255)"
+       },
+       {
+        "text": "(",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": "__DIR__",
+        "color": "rgb(121, 184, 255)"
+       },
+       {
+        "text": "))",
+        "color": "rgb(225, 228, 232)"
+       }
+      ],
+      [
+       {
+        "text": "    ->",
+        "color": "rgb(249, 117, 131)"
+       },
+       {
+        "text": "withRouting",
+        "color": "rgb(179, 146, 240)"
+       },
+       {
+        "text": "(",
+        "color": "rgb(225, 228, 232)"
+       }
+      ],
+      [
+       {
+        "text": "        web",
+        "color": "rgb(179, 146, 240)"
+       },
+       {
+        "text": ": ",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": "__DIR__",
+        "color": "rgb(121, 184, 255)"
+       },
+       {
+        "text": ".",
+        "color": "rgb(249, 117, 131)"
+       },
+       {
+        "text": "'/../routes/web.php'",
+        "color": "rgb(158, 203, 255)"
+       },
+       {
+        "text": ",",
+        "color": "rgb(225, 228, 232)"
+       }
+      ],
+      [
+       {
+        "text": "        commands",
+        "color": "rgb(179, 146, 240)"
+       },
+       {
+        "text": ": ",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": "__DIR__",
+        "color": "rgb(121, 184, 255)"
+       },
+       {
+        "text": ".",
+        "color": "rgb(249, 117, 131)"
+       },
+       {
+        "text": "'/../routes/console.php'",
+        "color": "rgb(158, 203, 255)"
+       },
+       {
+        "text": ",",
+        "color": "rgb(225, 228, 232)"
+       }
+      ],
+      [
+       {
+        "text": "        health",
+        "color": "rgb(179, 146, 240)"
+       },
+       {
+        "text": ": ",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": "'/up'",
+        "color": "rgb(158, 203, 255)"
+       },
+       {
+        "text": ",",
+        "color": "rgb(225, 228, 232)"
+       }
+      ],
+      [
+       {
+        "text": "    )",
+        "color": "rgb(225, 228, 232)"
+       }
+      ],
+      [
+       {
+        "text": "    ->",
+        "color": "rgb(249, 117, 131)"
+       },
+       {
+        "text": "withMiddleware",
+        "color": "rgb(179, 146, 240)"
+       },
+       {
+        "text": "(",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": "function",
+        "color": "rgb(249, 117, 131)"
+       },
+       {
+        "text": " (",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": "Middleware",
+        "color": "rgb(121, 184, 255)"
+       },
+       {
+        "text": " $middleware) {",
+        "color": "rgb(225, 228, 232)"
+       }
+      ],
+      [
+       {
+        "text": "        //",
+        "color": "rgb(106, 115, 125)"
+       }
+      ],
+      [
+       {
+        "text": "    })",
+        "color": "rgb(225, 228, 232)"
+       }
+      ],
+      [
+       {
+        "text": "    ->",
+        "color": "rgb(249, 117, 131)"
+       },
+       {
+        "text": "withExceptions",
+        "color": "rgb(179, 146, 240)"
+       },
+       {
+        "text": "(",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": "function",
+        "color": "rgb(249, 117, 131)"
+       },
+       {
+        "text": " (",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": "Exceptions",
+        "color": "rgb(121, 184, 255)"
+       },
+       {
+        "text": " $exceptions) {",
+        "color": "rgb(225, 228, 232)"
+       }
+      ],
+      [
+       {
+        "text": "        Integration",
+        "color": "rgb(121, 184, 255)"
+       },
+       {
+        "text": "::",
+        "color": "rgb(249, 117, 131)"
+       },
+       {
+        "text": "handles",
+        "color": "rgb(179, 146, 240)"
+       },
+       {
+        "text": "($exceptions);",
+        "color": "rgb(225, 228, 232)"
+       }
+      ],
+      [
+       {
+        "text": "    })",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": "->",
+        "color": "rgb(249, 117, 131)"
+       },
+       {
+        "text": "create",
+        "color": "rgb(179, 146, 240)"
+       },
+       {
+        "text": "();",
+        "color": "rgb(225, 228, 232)"
+       }
+      ]
+     ]
+    },
+    {
+     "type": "html",
+     "tag": "p",
+     "html": "Enable Sentry Tracing in <code>config/sentry.php</code>:"
+    },
+    {
+     "type": "code",
+     "lang": "PHP",
+     "lines": [
+      [
+       {
+        "text": "// Specify a fixed sample rate:",
+        "color": "rgb(106, 115, 125)"
+       }
+      ],
+      [
+       {
+        "text": "'traces_sample_rate'",
+        "color": "rgb(158, 203, 255)"
+       },
+       {
+        "text": " =>",
+        "color": "rgb(249, 117, 131)"
+       },
+       {
+        "text": " 0.2",
+        "color": "rgb(121, 184, 255)"
+       },
+       {
+        "text": ",",
+        "color": "rgb(225, 228, 232)"
+       }
+      ],
+      [
+       {
+        "text": "// Or provide a custom sampler:",
+        "color": "rgb(106, 115, 125)"
+       }
+      ],
+      [
+       {
+        "text": "'traces_sampler'",
+        "color": "rgb(158, 203, 255)"
+       },
+       {
+        "text": " =>",
+        "color": "rgb(249, 117, 131)"
+       },
+       {
+        "text": " function",
+        "color": "rgb(249, 117, 131)"
+       },
+       {
+        "text": " (",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": "SentryTracingSamplingContext",
+        "color": "rgb(121, 184, 255)"
+       },
+       {
+        "text": " $context)",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": ":",
+        "color": "rgb(249, 117, 131)"
+       },
+       {
+        "text": " float",
+        "color": "rgb(249, 117, 131)"
+       },
+       {
+        "text": " {",
+        "color": "rgb(225, 228, 232)"
+       }
+      ],
+      [
+       {
+        "text": "    // return a number between 0 and 1",
+        "color": "rgb(106, 115, 125)"
+       }
+      ],
+      [
+       {
+        "text": "},",
+        "color": "rgb(225, 228, 232)"
+       }
+      ]
+     ]
+    },
+    {
+     "type": "html",
+     "tag": "p",
+     "html": "Run this <code>Artisan</code> command to configure the Sentry DSN:"
+    },
+    {
+     "type": "code",
+     "lang": "Bash",
+     "lines": [
+      [
+       {
+        "text": "php",
+        "color": "rgb(179, 146, 240)"
+       },
+       {
+        "text": " artisan",
+        "color": "rgb(158, 203, 255)"
+       },
+       {
+        "text": " sentry:publish",
+        "color": "rgb(158, 203, 255)"
+       },
+       {
+        "text": " --dsn=",
+        "color": "rgb(121, 184, 255)"
+       },
+       {
+        "text": "<",
+        "color": "rgb(249, 117, 131)"
+       },
+       {
+        "text": "paste-your-DSN-here",
+        "color": "rgb(121, 184, 255)"
+       },
+       {
+        "text": ">",
+        "color": "rgb(249, 117, 131)"
+       }
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "aspnet-core",
+   "docsUrl": "https://docs.sentry.io/platforms/dotnet/guides/aspnetcore/",
+   "blocks": [
+    {
+     "type": "html",
+     "tag": "p",
+     "html": "Add the Sentry dependency:"
+    },
+    {
+     "type": "code",
+     "lang": "Bash",
+     "lines": [
+      [
+       {
+        "text": "dotnet",
+        "color": "rgb(179, 146, 240)"
+       },
+       {
+        "text": " add",
+        "color": "rgb(158, 203, 255)"
+       },
+       {
+        "text": " package",
+        "color": "rgb(158, 203, 255)"
+       },
+       {
+        "text": " Sentry.AspNetCore",
+        "color": "rgb(158, 203, 255)"
+       }
+      ]
+     ]
+    },
+    {
+     "type": "html",
+     "tag": "p",
+     "html": "Configure Sentry in <code>appsettings.json</code>."
+    },
+    {
+     "type": "code",
+     "lang": "JavaScript",
+     "lines": [
+      [
+       {
+        "text": "\"Sentry\"",
+        "color": "rgb(158, 203, 255)"
+       },
+       {
+        "text": ": {",
+        "color": "rgb(225, 228, 232)"
+       }
+      ],
+      [
+       {
+        "text": "  \"Dsn\"",
+        "color": "rgb(158, 203, 255)"
+       },
+       {
+        "text": ": ",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": "\"https://examplePublicKey@o0.ingest.sentry.io/0\"",
+        "color": "rgb(158, 203, 255)"
+       },
+       {
+        "text": ",",
+        "color": "rgb(225, 228, 232)"
+       }
+      ],
+      [
+       {
+        "text": "  \"Debug\"",
+        "color": "rgb(158, 203, 255)"
+       },
+       {
+        "text": ": ",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": "true",
+        "color": "rgb(121, 184, 255)"
+       },
+       {
+        "text": ",",
+        "color": "rgb(225, 228, 232)"
+       }
+      ],
+      [
+       {
+        "text": "},",
+        "color": "rgb(225, 228, 232)"
+       }
+      ]
+     ]
+    },
+    {
+     "type": "html",
+     "tag": "p",
+     "html": "Then add the SDK by simply calling <code>UseSentry</code>:"
+    },
+    {
+     "type": "code",
+     "lang": "C#",
+     "lines": [
+      [
+       {
+        "text": "public",
+        "color": "rgb(249, 117, 131)"
+       },
+       {
+        "text": " static",
+        "color": "rgb(249, 117, 131)"
+       },
+       {
+        "text": " IHostBuilder",
+        "color": "rgb(179, 146, 240)"
+       },
+       {
+        "text": " CreateHostBuilder",
+        "color": "rgb(179, 146, 240)"
+       },
+       {
+        "text": "(",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": "string",
+        "color": "rgb(249, 117, 131)"
+       },
+       {
+        "text": "[] ",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": "args",
+        "color": "rgb(179, 146, 240)"
+       },
+       {
+        "text": ") ",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": "=>",
+        "color": "rgb(249, 117, 131)"
+       }
+      ],
+      [
+       {
+        "text": "    Host.",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": "CreateDefaultBuilder",
+        "color": "rgb(179, 146, 240)"
+       },
+       {
+        "text": "(args)",
+        "color": "rgb(225, 228, 232)"
+       }
+      ],
+      [
+       {
+        "text": "        .",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": "ConfigureWebHostDefaults",
+        "color": "rgb(179, 146, 240)"
+       },
+       {
+        "text": "(",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": "webBuilder",
+        "color": "rgb(179, 146, 240)"
+       },
+       {
+        "text": " =>",
+        "color": "rgb(249, 117, 131)"
+       }
+      ],
+      [
+       {
+        "text": "        {",
+        "color": "rgb(225, 228, 232)"
+       }
+      ],
+      [
+       {
+        "text": "            // Add the following line:",
+        "color": "rgb(106, 115, 125)"
+       }
+      ],
+      [
+       {
+        "text": "            webBuilder.",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": "UseSentry",
+        "color": "rgb(179, 146, 240)"
+       },
+       {
+        "text": "();",
+        "color": "rgb(225, 228, 232)"
+       }
+      ],
+      [
+       {
+        "text": "        });",
+        "color": "rgb(225, 228, 232)"
+       }
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "spring-boot",
+   "docsUrl": "https://docs.sentry.io/platforms/java/guides/spring-boot/",
+   "blocks": [
+    {
+     "type": "html",
+     "tag": "p",
+     "html": "Grab the <a href=\"https://github.com/getsentry/sentry-java/\">Sentry Java SDK</a>:"
+    },
+    {
+     "type": "code",
+     "lang": "XML",
+     "lines": [
+      [
+       {
+        "text": "<",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": "dependency",
+        "color": "rgb(133, 232, 157)"
+       },
+       {
+        "text": ">",
+        "color": "rgb(225, 228, 232)"
+       }
+      ],
+      [
+       {
+        "text": "  <",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": "groupId",
+        "color": "rgb(133, 232, 157)"
+       },
+       {
+        "text": ">io.sentry</",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": "groupId",
+        "color": "rgb(133, 232, 157)"
+       },
+       {
+        "text": ">",
+        "color": "rgb(225, 228, 232)"
+       }
+      ],
+      [
+       {
+        "text": "  <",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": "artifactId",
+        "color": "rgb(133, 232, 157)"
+       },
+       {
+        "text": ">sentry-spring-boot-starter</",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": "artifactId",
+        "color": "rgb(133, 232, 157)"
+       },
+       {
+        "text": ">",
+        "color": "rgb(225, 228, 232)"
+       }
+      ],
+      [
+       {
+        "text": "  <",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": "version",
+        "color": "rgb(133, 232, 157)"
+       },
+       {
+        "text": "><",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": "VERSION",
+        "color": "rgb(133, 232, 157)"
+       },
+       {
+        "text": "></",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": "version",
+        "color": "rgb(133, 232, 157)"
+       },
+       {
+        "text": ">",
+        "color": "rgb(225, 228, 232)"
+       }
+      ],
+      [
+       {
+        "text": "</",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": "dependency",
+        "color": "rgb(133, 232, 157)"
+       },
+       {
+        "text": ">",
+        "color": "rgb(225, 228, 232)"
+       }
+      ]
+     ]
+    },
+    {
+     "type": "html",
+     "tag": "p",
+     "html": "Configure your DSN in <code>application.properties</code>:"
+    },
+    {
+     "type": "code",
+     "lang": "Java",
+     "lines": [
+      [
+       {
+        "text": "sentry.dsn",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": "=",
+        "color": "rgb(249, 117, 131)"
+       },
+       {
+        "text": "https",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": ":",
+        "color": "rgb(249, 117, 131)"
+       },
+       {
+        "text": "//<key>@sentry.io/<project>",
+        "color": "rgb(106, 115, 125)"
+       }
+      ],
+      [
+       {
+        "text": "# Set traces_sample_rate to ",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": "1.0",
+        "color": "rgb(121, 184, 255)"
+       },
+       {
+        "text": " to capture ",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": "100",
+        "color": "rgb(121, 184, 255)"
+       },
+       {
+        "text": "%",
+        "color": "rgb(249, 117, 131)"
+       }
+      ],
+      [
+       {
+        "text": "# of transactions ",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": "for",
+        "color": "rgb(249, 117, 131)"
+       },
+       {
+        "text": " performance monitoring.",
+        "color": "rgb(225, 228, 232)"
+       }
+      ],
+      [
+       {
+        "text": "# We recommend adjusting ",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": "this",
+        "color": "rgb(121, 184, 255)"
+       },
+       {
+        "text": " value in production.",
+        "color": "rgb(225, 228, 232)"
+       }
+      ],
+      [
+       {
+        "text": "sentry.traces",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": "-",
+        "color": "rgb(249, 117, 131)"
+       },
+       {
+        "text": "sample",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": "-",
+        "color": "rgb(249, 117, 131)"
+       },
+       {
+        "text": "rate",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": "=",
+        "color": "rgb(249, 117, 131)"
+       },
+       {
+        "text": "1.0",
+        "color": "rgb(121, 184, 255)"
+       }
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "vue",
+   "docsUrl": "https://docs.sentry.io/platforms/javascript/guides/vue/",
+   "blocks": [
+    {
+     "type": "html",
+     "tag": "p",
+     "html": "Grab the <a href=\"https://github.com/getsentry/sentry-javascript/\">Sentry Vue SDK</a>:"
+    },
+    {
+     "type": "code",
+     "lang": "Bash",
+     "lines": [
+      [
+       {
+        "text": "npm",
+        "color": "rgb(179, 146, 240)"
+       },
+       {
+        "text": " install",
+        "color": "rgb(158, 203, 255)"
+       },
+       {
+        "text": " @sentry/vue",
+        "color": "rgb(158, 203, 255)"
+       }
+      ]
+     ]
+    },
+    {
+     "type": "html",
+     "tag": "p",
+     "html": "Configure your DSN:"
+    },
+    {
+     "type": "code",
+     "lang": "JavaScript",
+     "lines": [
+      [
+       {
+        "text": "import",
+        "color": "rgb(249, 117, 131)"
+       },
+       {
+        "text": " { createApp } ",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": "from",
+        "color": "rgb(249, 117, 131)"
+       },
+       {
+        "text": " \"vue\"",
+        "color": "rgb(158, 203, 255)"
+       },
+       {
+        "text": ";",
+        "color": "rgb(225, 228, 232)"
+       }
+      ],
+      [
+       {
+        "text": "import",
+        "color": "rgb(249, 117, 131)"
+       },
+       {
+        "text": " *",
+        "color": "rgb(121, 184, 255)"
+       },
+       {
+        "text": " as",
+        "color": "rgb(249, 117, 131)"
+       },
+       {
+        "text": " Sentry ",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": "from",
+        "color": "rgb(249, 117, 131)"
+       },
+       {
+        "text": " \"@sentry/vue\"",
+        "color": "rgb(158, 203, 255)"
+       },
+       {
+        "text": ";",
+        "color": "rgb(225, 228, 232)"
+       }
+      ],
+      [],
+      [
+       {
+        "text": "const",
+        "color": "rgb(249, 117, 131)"
+       },
+       {
+        "text": " app",
+        "color": "rgb(121, 184, 255)"
+       },
+       {
+        "text": " =",
+        "color": "rgb(249, 117, 131)"
+       },
+       {
+        "text": " createApp",
+        "color": "rgb(179, 146, 240)"
+       },
+       {
+        "text": "({",
+        "color": "rgb(225, 228, 232)"
+       }
+      ],
+      [
+       {
+        "text": "  // ...",
+        "color": "rgb(106, 115, 125)"
+       }
+      ],
+      [
+       {
+        "text": "});",
+        "color": "rgb(225, 228, 232)"
+       }
+      ],
+      [],
+      [
+       {
+        "text": "Sentry.",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": "init",
+        "color": "rgb(179, 146, 240)"
+       },
+       {
+        "text": "({",
+        "color": "rgb(225, 228, 232)"
+       }
+      ],
+      [
+       {
+        "text": "  app,",
+        "color": "rgb(225, 228, 232)"
+       }
+      ],
+      [
+       {
+        "text": "  dsn: ",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": "\"https://<key>@sentry.io/<project>\"\"",
+        "color": "rgb(158, 203, 255)"
+       },
+       {
+        "text": ",",
+        "color": "rgb(253, 174, 183)"
+       }
+      ],
+      [
+       {
+        "text": "  // This enables automatic instrumentation (highly recommended),",
+        "color": "rgb(106, 115, 125)"
+       }
+      ],
+      [
+       {
+        "text": "  // but is not necessary for purely manual usage",
+        "color": "rgb(106, 115, 125)"
+       }
+      ],
+      [
+       {
+        "text": "  // If you only want to use custom instrumentation:",
+        "color": "rgb(106, 115, 125)"
+       }
+      ],
+      [
+       {
+        "text": "  // * Remove the BrowserTracing integration",
+        "color": "rgb(106, 115, 125)"
+       }
+      ],
+      [
+       {
+        "text": "  // * add Sentry.addTracingExtensions() above your Sentry.init() call",
+        "color": "rgb(106, 115, 125)"
+       }
+      ],
+      [
+       {
+        "text": "  integrations: [Sentry.",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": "browserTracingIntegration",
+        "color": "rgb(179, 146, 240)"
+       },
+       {
+        "text": "()],",
+        "color": "rgb(225, 228, 232)"
+       }
+      ],
+      [],
+      [
+       {
+        "text": "  // We recommend adjusting this value in production, or using tracesSampler",
+        "color": "rgb(106, 115, 125)"
+       }
+      ],
+      [
+       {
+        "text": "  // for finer control",
+        "color": "rgb(106, 115, 125)"
+       }
+      ],
+      [
+       {
+        "text": "  tracesSampleRate: ",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": "1.0",
+        "color": "rgb(121, 184, 255)"
+       },
+       {
+        "text": ",",
+        "color": "rgb(225, 228, 232)"
+       }
+      ],
+      [
+       {
+        "text": "  // Set tracePropagationTargets to control for which URLs distributed tracing should be enabled",
+        "color": "rgb(106, 115, 125)"
+       }
+      ],
+      [
+       {
+        "text": "  tracePropagationTargets: [",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": "'localhost'",
+        "color": "rgb(158, 203, 255)"
+       },
+       {
+        "text": ", ",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": "/^",
+        "color": "rgb(249, 117, 131)"
+       },
+       {
+        "text": "https:",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": "//yourserver.io/api/],",
+        "color": "rgb(106, 115, 125)"
+       }
+      ],
+      [
+       {
+        "text": "});",
+        "color": "rgb(225, 228, 232)"
+       }
+      ],
+      [],
+      [
+       {
+        "text": "app.",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": "mount",
+        "color": "rgb(179, 146, 240)"
+       },
+       {
+        "text": "(",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": "\"#app\"",
+        "color": "rgb(158, 203, 255)"
+       },
+       {
+        "text": ");",
+        "color": "rgb(225, 228, 232)"
+       }
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "solid",
+   "docsUrl": "https://docs.sentry.io/platforms/javascript/guides/solid/",
+   "blocks": [
+    {
+     "type": "html",
+     "tag": "p",
+     "html": "To use the SDK, initialize Sentry in your Solid entry point index.jsx before you render your Solid app:"
+    },
+    {
+     "type": "code",
+     "lang": "JSX",
+     "lines": [
+      [
+       {
+        "text": "// index.jsx / index.tsx",
+        "color": "rgb(106, 115, 125)"
+       }
+      ],
+      [],
+      [
+       {
+        "text": "import",
+        "color": "rgb(249, 117, 131)"
+       },
+       {
+        "text": " *",
+        "color": "rgb(121, 184, 255)"
+       },
+       {
+        "text": " as",
+        "color": "rgb(249, 117, 131)"
+       },
+       {
+        "text": " Sentry ",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": "from",
+        "color": "rgb(249, 117, 131)"
+       },
+       {
+        "text": " \"@sentry/solid\"",
+        "color": "rgb(158, 203, 255)"
+       },
+       {
+        "text": ";",
+        "color": "rgb(225, 228, 232)"
+       }
+      ],
+      [
+       {
+        "text": "import",
+        "color": "rgb(249, 117, 131)"
+       },
+       {
+        "text": " { useBeforeLeave, useLocation } ",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": "from",
+        "color": "rgb(249, 117, 131)"
+       },
+       {
+        "text": " \"@solidjs/router\"",
+        "color": "rgb(158, 203, 255)"
+       },
+       {
+        "text": ";",
+        "color": "rgb(225, 228, 232)"
+       }
+      ],
+      [
+       {
+        "text": "import",
+        "color": "rgb(249, 117, 131)"
+       },
+       {
+        "text": " { render } ",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": "from",
+        "color": "rgb(249, 117, 131)"
+       },
+       {
+        "text": " \"solid-js/web\"",
+        "color": "rgb(158, 203, 255)"
+       },
+       {
+        "text": ";",
+        "color": "rgb(225, 228, 232)"
+       }
+      ],
+      [
+       {
+        "text": "import",
+        "color": "rgb(249, 117, 131)"
+       },
+       {
+        "text": " App ",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": "from",
+        "color": "rgb(249, 117, 131)"
+       },
+       {
+        "text": " \"./app\"",
+        "color": "rgb(158, 203, 255)"
+       },
+       {
+        "text": ";",
+        "color": "rgb(225, 228, 232)"
+       }
+      ],
+      [],
+      [
+       {
+        "text": "// Initialize the Sentry SDK here ",
+        "color": "rgb(106, 115, 125)"
+       }
+      ],
+      [
+       {
+        "text": "Sentry.",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": "init",
+        "color": "rgb(179, 146, 240)"
+       },
+       {
+        "text": "({",
+        "color": "rgb(225, 228, 232)"
+       }
+      ],
+      [
+       {
+        "text": "  dsn: ",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": "\"__DSN__\"",
+        "color": "rgb(158, 203, 255)"
+       },
+       {
+        "text": ",",
+        "color": "rgb(225, 228, 232)"
+       }
+      ],
+      [
+       {
+        "text": "  integrations: [Sentry.",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": "browserTracingIntegration",
+        "color": "rgb(179, 146, 240)"
+       },
+       {
+        "text": "()],",
+        "color": "rgb(225, 228, 232)"
+       }
+      ],
+      [],
+      [
+       {
+        "text": "  // Performance Monitoring",
+        "color": "rgb(106, 115, 125)"
+       }
+      ],
+      [
+       {
+        "text": "  tracesSampleRate: ",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": "1.0",
+        "color": "rgb(121, 184, 255)"
+       },
+       {
+        "text": ", ",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": "//  Capture 100% of the transactions",
+        "color": "rgb(106, 115, 125)"
+       }
+      ],
+      [
+       {
+        "text": "  // Set 'tracePropagationTargets' to control for which URLs trace propagation should be enabled",
+        "color": "rgb(106, 115, 125)"
+       }
+      ],
+      [
+       {
+        "text": "  tracePropagationTargets: [",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": "\"localhost\"",
+        "color": "rgb(158, 203, 255)"
+       },
+       {
+        "text": ",",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": " /",
+        "color": "rgb(158, 203, 255)"
+       },
+       {
+        "text": "^",
+        "color": "rgb(249, 117, 131)"
+       },
+       {
+        "text": "https:",
+        "color": "rgb(219, 237, 255)"
+       },
+       {
+        "text": "\\/\\/",
+        "color": "rgb(133, 232, 157)"
+       },
+       {
+        "text": "yourserver",
+        "color": "rgb(219, 237, 255)"
+       },
+       {
+        "text": "\\.",
+        "color": "rgb(133, 232, 157)"
+       },
+       {
+        "text": "io",
+        "color": "rgb(219, 237, 255)"
+       },
+       {
+        "text": "\\/",
+        "color": "rgb(133, 232, 157)"
+       },
+       {
+        "text": "api",
+        "color": "rgb(219, 237, 255)"
+       },
+       {
+        "text": "/",
+        "color": "rgb(158, 203, 255)"
+       },
+       {
+        "text": "],",
+        "color": "rgb(225, 228, 232)"
+       }
+      ],
+      [
+       {
+        "text": "});",
+        "color": "rgb(225, 228, 232)"
+       }
+      ],
+      [],
+      [
+       {
+        "text": "const",
+        "color": "rgb(249, 117, 131)"
+       },
+       {
+        "text": " app",
+        "color": "rgb(121, 184, 255)"
+       },
+       {
+        "text": " =",
+        "color": "rgb(249, 117, 131)"
+       },
+       {
+        "text": " document.",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": "getElementById",
+        "color": "rgb(179, 146, 240)"
+       },
+       {
+        "text": "(",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": "\"app\"",
+        "color": "rgb(158, 203, 255)"
+       },
+       {
+        "text": ");",
+        "color": "rgb(225, 228, 232)"
+       }
+      ],
+      [],
+      [
+       {
+        "text": "if",
+        "color": "rgb(249, 117, 131)"
+       },
+       {
+        "text": " (",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": "!",
+        "color": "rgb(249, 117, 131)"
+       },
+       {
+        "text": "app) ",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": "throw",
+        "color": "rgb(249, 117, 131)"
+       },
+       {
+        "text": " new",
+        "color": "rgb(249, 117, 131)"
+       },
+       {
+        "text": " Error",
+        "color": "rgb(179, 146, 240)"
+       },
+       {
+        "text": "(",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": "\"No #app element found in the DOM.\"",
+        "color": "rgb(158, 203, 255)"
+       },
+       {
+        "text": ");",
+        "color": "rgb(225, 228, 232)"
+       }
+      ],
+      [],
+      [
+       {
+        "text": "render",
+        "color": "rgb(179, 146, 240)"
+       },
+       {
+        "text": "(() ",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": "=>",
+        "color": "rgb(249, 117, 131)"
+       },
+       {
+        "text": " <",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": "App",
+        "color": "rgb(121, 184, 255)"
+       },
+       {
+        "text": " />, app)",
+        "color": "rgb(225, 228, 232)"
+       }
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "svelte",
+   "docsUrl": "https://docs.sentry.io/platforms/javascript/guides/svelte/",
+   "blocks": [
+    {
+     "type": "html",
+     "tag": "p",
+     "html": "To use the SDK, initialize Sentry in your Svelte entry point main.js before you bootstrap your Svelte app:"
+    },
+    {
+     "type": "code",
+     "lang": "JSX",
+     "lines": [
+      [
+       {
+        "text": "// main.js / main.ts",
+        "color": "rgb(106, 115, 125)"
+       }
+      ],
+      [],
+      [
+       {
+        "text": "import",
+        "color": "rgb(249, 117, 131)"
+       },
+       {
+        "text": " App ",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": "from",
+        "color": "rgb(249, 117, 131)"
+       },
+       {
+        "text": " \"./App.svelte\"",
+        "color": "rgb(158, 203, 255)"
+       },
+       {
+        "text": ";",
+        "color": "rgb(225, 228, 232)"
+       }
+      ],
+      [],
+      [
+       {
+        "text": "import",
+        "color": "rgb(249, 117, 131)"
+       },
+       {
+        "text": " *",
+        "color": "rgb(121, 184, 255)"
+       },
+       {
+        "text": " as",
+        "color": "rgb(249, 117, 131)"
+       },
+       {
+        "text": " Sentry ",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": "from",
+        "color": "rgb(249, 117, 131)"
+       },
+       {
+        "text": " \"@sentry/svelte\"",
+        "color": "rgb(158, 203, 255)"
+       },
+       {
+        "text": ";",
+        "color": "rgb(225, 228, 232)"
+       }
+      ],
+      [
+       {
+        "text": "import",
+        "color": "rgb(249, 117, 131)"
+       },
+       {
+        "text": " { BrowserTracing } ",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": "from",
+        "color": "rgb(249, 117, 131)"
+       },
+       {
+        "text": " \"@sentry/tracing\"",
+        "color": "rgb(158, 203, 255)"
+       },
+       {
+        "text": ";",
+        "color": "rgb(225, 228, 232)"
+       }
+      ],
+      [],
+      [
+       {
+        "text": "// Initialize the Sentry SDK here",
+        "color": "rgb(106, 115, 125)"
+       }
+      ],
+      [
+       {
+        "text": "Sentry.",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": "init",
+        "color": "rgb(179, 146, 240)"
+       },
+       {
+        "text": "({",
+        "color": "rgb(225, 228, 232)"
+       }
+      ],
+      [
+       {
+        "text": "  dsn: ",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": "\"__DSN__\"",
+        "color": "rgb(158, 203, 255)"
+       },
+       {
+        "text": ",",
+        "color": "rgb(225, 228, 232)"
+       }
+      ],
+      [
+       {
+        "text": "  release: ",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": "\"my-project-name@2.3.12\"",
+        "color": "rgb(158, 203, 255)"
+       },
+       {
+        "text": ",",
+        "color": "rgb(225, 228, 232)"
+       }
+      ],
+      [
+       {
+        "text": "  integrations: [",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": "new",
+        "color": "rgb(249, 117, 131)"
+       },
+       {
+        "text": " BrowserTracing",
+        "color": "rgb(179, 146, 240)"
+       },
+       {
+        "text": "()],",
+        "color": "rgb(225, 228, 232)"
+       }
+      ],
+      [],
+      [
+       {
+        "text": "  // This enables automatic instrumentation (highly recommended),",
+        "color": "rgb(106, 115, 125)"
+       }
+      ],
+      [
+       {
+        "text": "  // but is not necessary for purely manual usage",
+        "color": "rgb(106, 115, 125)"
+       }
+      ],
+      [
+       {
+        "text": "  // If you only want to use custom instrumentation:",
+        "color": "rgb(106, 115, 125)"
+       }
+      ],
+      [
+       {
+        "text": "  // * Remove the BrowserTracing integration",
+        "color": "rgb(106, 115, 125)"
+       }
+      ],
+      [
+       {
+        "text": "  // * add Sentry.addTracingExtensions() above your Sentry.init() call",
+        "color": "rgb(106, 115, 125)"
+       }
+      ],
+      [
+       {
+        "text": "  integrations: [Sentry.",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": "browserTracingIntegration",
+        "color": "rgb(179, 146, 240)"
+       },
+       {
+        "text": "()],",
+        "color": "rgb(225, 228, 232)"
+       }
+      ],
+      [],
+      [
+       {
+        "text": "  // We recommend adjusting this value in production, or using tracesSampler",
+        "color": "rgb(106, 115, 125)"
+       }
+      ],
+      [
+       {
+        "text": "  // for finer control",
+        "color": "rgb(106, 115, 125)"
+       }
+      ],
+      [
+       {
+        "text": "  tracesSampleRate: ",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": "1.0",
+        "color": "rgb(121, 184, 255)"
+       },
+       {
+        "text": ",",
+        "color": "rgb(225, 228, 232)"
+       }
+      ],
+      [],
+      [
+       {
+        "text": "  // Set tracePropagationTargets to control for which URLs distributed tracing should be enabled",
+        "color": "rgb(106, 115, 125)"
+       }
+      ],
+      [
+       {
+        "text": "  tracePropagationTargets: [",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": "'localhost'",
+        "color": "rgb(158, 203, 255)"
+       },
+       {
+        "text": ", ",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": "/^",
+        "color": "rgb(249, 117, 131)"
+       },
+       {
+        "text": "https:",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": "//yourserver.io/api/],",
+        "color": "rgb(106, 115, 125)"
+       }
+      ],
+      [
+       {
+        "text": "});",
+        "color": "rgb(225, 228, 232)"
+       }
+      ],
+      [],
+      [
+       {
+        "text": "// Then bootstrap your Svelte app",
+        "color": "rgb(106, 115, 125)"
+       }
+      ],
+      [
+       {
+        "text": "const app ",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": "=",
+        "color": "rgb(249, 117, 131)"
+       },
+       {
+        "text": " new",
+        "color": "rgb(249, 117, 131)"
+       },
+       {
+        "text": " App",
+        "color": "rgb(179, 146, 240)"
+       },
+       {
+        "text": "({",
+        "color": "rgb(225, 228, 232)"
+       }
+      ],
+      [
+       {
+        "text": "  target: document.",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": "getElementById",
+        "color": "rgb(179, 146, 240)"
+       },
+       {
+        "text": "(",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": "\"app\"",
+        "color": "rgb(158, 203, 255)"
+       },
+       {
+        "text": "),",
+        "color": "rgb(225, 228, 232)"
+       }
+      ],
+      [
+       {
+        "text": "});",
+        "color": "rgb(225, 228, 232)"
+       }
+      ],
+      [],
+      [
+       {
+        "text": "export default app;",
+        "color": "rgb(225, 228, 232)"
+       }
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "astro",
+   "docsUrl": "https://docs.sentry.io/platforms/javascript/guides/astro/",
+   "blocks": [
+    {
+     "type": "html",
+     "tag": "p",
+     "html": "Just run this command to install and register Sentry's Astro integration."
+    },
+    {
+     "type": "code",
+     "lang": "Bash",
+     "lines": [
+      [
+       {
+        "text": "npx",
+        "color": "rgb(179, 146, 240)"
+       },
+       {
+        "text": " astro",
+        "color": "rgb(158, 203, 255)"
+       },
+       {
+        "text": " add",
+        "color": "rgb(158, 203, 255)"
+       },
+       {
+        "text": " @sentry/astro",
+        "color": "rgb(158, 203, 255)"
+       }
+      ]
+     ]
+    },
+    {
+     "type": "html",
+     "tag": "p",
+     "html": "And add your DSN and project config to your <code>astro.config.mjs</code> file:"
+    },
+    {
+     "type": "code",
+     "lang": "JavaScript",
+     "lines": [
+      [
+       {
+        "text": "import",
+        "color": "rgb(249, 117, 131)"
+       },
+       {
+        "text": " { defineConfig } ",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": "from",
+        "color": "rgb(249, 117, 131)"
+       },
+       {
+        "text": " \"astro/config\"",
+        "color": "rgb(158, 203, 255)"
+       },
+       {
+        "text": ";",
+        "color": "rgb(225, 228, 232)"
+       }
+      ],
+      [
+       {
+        "text": "import",
+        "color": "rgb(249, 117, 131)"
+       },
+       {
+        "text": " sentry ",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": "from",
+        "color": "rgb(249, 117, 131)"
+       },
+       {
+        "text": " \"@sentry/astro\"",
+        "color": "rgb(158, 203, 255)"
+       },
+       {
+        "text": ";",
+        "color": "rgb(225, 228, 232)"
+       }
+      ],
+      [],
+      [
+       {
+        "text": "export",
+        "color": "rgb(249, 117, 131)"
+       },
+       {
+        "text": " default",
+        "color": "rgb(249, 117, 131)"
+       },
+       {
+        "text": " defineConfig",
+        "color": "rgb(179, 146, 240)"
+       },
+       {
+        "text": "({",
+        "color": "rgb(225, 228, 232)"
+       }
+      ],
+      [
+       {
+        "text": "  integrations: [",
+        "color": "rgb(225, 228, 232)"
+       }
+      ],
+      [
+       {
+        "text": "    sentry",
+        "color": "rgb(179, 146, 240)"
+       },
+       {
+        "text": "({",
+        "color": "rgb(225, 228, 232)"
+       }
+      ],
+      [
+       {
+        "text": "      dsn: ",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": "\"__DSN__\"",
+        "color": "rgb(158, 203, 255)"
+       },
+       {
+        "text": ",",
+        "color": "rgb(225, 228, 232)"
+       }
+      ],
+      [
+       {
+        "text": "      sourceMapsUploadOptions: {",
+        "color": "rgb(225, 228, 232)"
+       }
+      ],
+      [
+       {
+        "text": "        project: ",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": "\"your-project-slug\"",
+        "color": "rgb(158, 203, 255)"
+       },
+       {
+        "text": ",",
+        "color": "rgb(225, 228, 232)"
+       }
+      ],
+      [
+       {
+        "text": "        authToken: process.env.",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": "SENTRY_AUTH_TOKEN",
+        "color": "rgb(121, 184, 255)"
+       },
+       {
+        "text": ",",
+        "color": "rgb(225, 228, 232)"
+       }
+      ],
+      [
+       {
+        "text": "      },",
+        "color": "rgb(225, 228, 232)"
+       }
+      ],
+      [
+       {
+        "text": "      tracesSampleRate: ",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": "1.0",
+        "color": "rgb(121, 184, 255)"
+       },
+       {
+        "text": ",",
+        "color": "rgb(225, 228, 232)"
+       }
+      ],
+      [
+       {
+        "text": "    }),",
+        "color": "rgb(225, 228, 232)"
+       }
+      ],
+      [
+       {
+        "text": "  ],",
+        "color": "rgb(225, 228, 232)"
+       }
+      ],
+      [
+       {
+        "text": "});",
+        "color": "rgb(225, 228, 232)"
+       }
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "javascript",
+   "docsUrl": "https://docs.sentry.io/platforms/javascript/",
+   "blocks": [
+    {
+     "type": "html",
+     "tag": "p",
+     "html": "Grab the <a href=\"https://github.com/getsentry/sentry-javascript/\">Sentry JavaScript SDK</a>:"
+    },
+    {
+     "type": "code",
+     "lang": "HTML",
+     "lines": [
+      [
+       {
+        "text": "<",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": "script",
+        "color": "rgb(133, 232, 157)"
+       },
+       {
+        "text": " src",
+        "color": "rgb(179, 146, 240)"
+       },
+       {
+        "text": "=",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": "\"https://browser.sentry-cdn.com/<VERSION>/bundle.min.js\"",
+        "color": "rgb(158, 203, 255)"
+       },
+       {
+        "text": "></",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": "script",
+        "color": "rgb(133, 232, 157)"
+       },
+       {
+        "text": ">",
+        "color": "rgb(225, 228, 232)"
+       }
+      ]
+     ]
+    },
+    {
+     "type": "html",
+     "tag": "p",
+     "html": "Configure your DSN:"
+    },
+    {
+     "type": "code",
+     "lang": "JavaScript",
+     "lines": [
+      [
+       {
+        "text": "Sentry.",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": "init",
+        "color": "rgb(179, 146, 240)"
+       },
+       {
+        "text": "({ dsn: ",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": "'https://<key>@sentry.io/<project>'",
+        "color": "rgb(158, 203, 255)"
+       },
+       {
+        "text": ",",
+        "color": "rgb(225, 228, 232)"
+       }
+      ],
+      [
+       {
+        "text": "  // This enables automatic instrumentation (highly recommended),",
+        "color": "rgb(106, 115, 125)"
+       }
+      ],
+      [
+       {
+        "text": "  // but is not necessary for purely manual usage",
+        "color": "rgb(106, 115, 125)"
+       }
+      ],
+      [
+       {
+        "text": "  // If you only want to use custom instrumentation:",
+        "color": "rgb(106, 115, 125)"
+       }
+      ],
+      [
+       {
+        "text": "  // * Remove the BrowserTracing integration",
+        "color": "rgb(106, 115, 125)"
+       }
+      ],
+      [
+       {
+        "text": "  // * add Sentry.addTracingExtensions() above your Sentry.init() call",
+        "color": "rgb(106, 115, 125)"
+       }
+      ],
+      [
+       {
+        "text": "  integrations: [Sentry.",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": "browserTracingIntegration",
+        "color": "rgb(179, 146, 240)"
+       },
+       {
+        "text": "()],",
+        "color": "rgb(225, 228, 232)"
+       }
+      ],
+      [],
+      [
+       {
+        "text": "  // We recommend adjusting this value in production, or using tracesSampler",
+        "color": "rgb(106, 115, 125)"
+       }
+      ],
+      [
+       {
+        "text": "  // for finer control",
+        "color": "rgb(106, 115, 125)"
+       }
+      ],
+      [
+       {
+        "text": "  tracesSampleRate: ",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": "1.0",
+        "color": "rgb(121, 184, 255)"
+       },
+       {
+        "text": ",",
+        "color": "rgb(225, 228, 232)"
+       }
+      ],
+      [],
+      [
+       {
+        "text": "  // Set tracePropagationTargets to control for which URLs distributed tracing should be enabled",
+        "color": "rgb(106, 115, 125)"
+       }
+      ],
+      [
+       {
+        "text": "  tracePropagationTargets: [",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": "'localhost'",
+        "color": "rgb(158, 203, 255)"
+       },
+       {
+        "text": ", ",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": "/^",
+        "color": "rgb(249, 117, 131)"
+       },
+       {
+        "text": "https:",
+        "color": "rgb(225, 228, 232)"
+       },
+       {
+        "text": "//yourserver.io/api/],",
+        "color": "rgb(106, 115, 125)"
+       }
+      ],
+      [
+       {
+        "text": "});",
+        "color": "rgb(225, 228, 232)"
+       }
+      ]
+     ]
+    }
+   ]
+  }
+ ],
+ "footerCta": null,
+ "styles": {
+  "select": {
+   "bg": "rgb(66, 32, 130)",
+   "color": "rgb(255, 255, 255)",
+   "font": "500 16px/24px Rubik",
+   "padding": "8px 16px",
+   "radius": "8px",
+   "border": "0px solid rgb(255, 255, 255)",
+   "maxW": "none",
+   "rect": {
+    "x": 545.5,
+    "y": 5767.703125,
+    "width": 349,
+    "height": 40,
+    "top": 5767.703125,
+    "right": 894.5,
+    "bottom": 5807.703125,
+    "left": 545.5
+   }
+  },
+  "snippet": {
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(255, 255, 255)",
+   "font": "400 16px/32px Rubik",
+   "padding": "0px",
+   "radius": "0px",
+   "border": "0px solid rgb(255, 255, 255)",
+   "maxW": "949px",
+   "rect": {
+    "x": 245.5,
+    "y": 5880.703125,
+    "width": 949,
+    "height": 185,
+    "top": 5880.703125,
+    "right": 1194.5,
+    "bottom": 6065.703125,
+    "left": 245.5
+   }
+  },
+  "snippetP": {
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(255, 255, 255)",
+   "font": "400 16px/32px Rubik",
+   "padding": "0px",
+   "radius": "0px",
+   "border": "0px solid rgb(255, 255, 255)",
+   "maxW": "none",
+   "rect": {
+    "x": 245.5,
+    "y": 5880.703125,
+    "width": 949,
+    "height": 32,
+    "top": 5880.703125,
+    "right": 1194.5,
+    "bottom": 5912.703125,
+    "left": 245.5
+   }
+  },
+  "codeWrapper": {
+   "bg": "rgb(21, 15, 35)",
+   "color": "rgb(255, 255, 255)",
+   "font": "400 16px/32px Rubik",
+   "padding": "0px",
+   "radius": "0px",
+   "border": "0px solid rgb(255, 255, 255)",
+   "maxW": "none",
+   "rect": {
+    "x": 245.5,
+    "y": 5944.703125,
+    "width": 949,
+    "height": 121,
+    "top": 5944.703125,
+    "right": 1194.5,
+    "bottom": 6065.703125,
+    "left": 245.5
+   }
+  },
+  "codeHeader": {
+   "bg": "rgb(21, 15, 35)",
+   "color": "rgb(255, 255, 255)",
+   "font": "400 16px/32px Rubik",
+   "padding": "8px 12px",
+   "radius": "0px",
+   "border": "",
+   "maxW": "none",
+   "rect": {
+    "x": 245.5,
+    "y": 5944.703125,
+    "width": 949,
+    "height": 41,
+    "top": 5944.703125,
+    "right": 1194.5,
+    "bottom": 5985.703125,
+    "left": 245.5
+   }
+  },
+  "codeLang": {
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgba(255, 255, 255, 0.7)",
+   "font": "400 12px/24px -apple-system",
+   "padding": "0px",
+   "radius": "0px",
+   "border": "0px solid rgba(255, 255, 255, 0.7)",
+   "maxW": "none",
+   "rect": {
+    "x": 257.5,
+    "y": 5952.703125,
+    "width": 24.875,
+    "height": 24,
+    "top": 5952.703125,
+    "right": 282.375,
+    "bottom": 5976.703125,
+    "left": 257.5
+   }
+  },
+  "pre": {
+   "bg": "rgb(21, 15, 35)",
+   "color": "rgb(255, 255, 255)",
+   "font": "400 16px/32px \"IBM Plex Mono\"",
+   "padding": "24px 24px 24px 44px",
+   "radius": "0px",
+   "border": "0px solid rgb(255, 255, 255)",
+   "maxW": "none",
+   "rect": {
+    "x": 245.5,
+    "y": 5985.703125,
+    "width": 949,
+    "height": 80,
+    "top": 5985.703125,
+    "right": 1194.5,
+    "bottom": 6065.703125,
+    "left": 245.5
+   }
+  },
+  "code": {
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(212, 212, 212)",
+   "font": "400 16px/24px Monaco",
+   "padding": "0px",
+   "radius": "0px",
+   "border": "0px solid rgb(212, 212, 212)",
+   "maxW": "none",
+   "rect": {
+    "x": 289.5,
+    "y": 6015.703125,
+    "width": 313.640625,
+    "height": 18,
+    "top": 6015.703125,
+    "right": 603.140625,
+    "bottom": 6033.703125,
+    "left": 289.5
+   }
+  },
+  "copyBtn": {
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(255, 255, 255)",
+   "font": "400 16px/normal Rubik",
+   "padding": "0px",
+   "radius": "0px",
+   "border": "0px none rgb(255, 255, 255)",
+   "maxW": "none",
+   "rect": {
+    "x": 1166.5,
+    "y": 5956.703125,
+    "width": 16,
+    "height": 16,
+    "top": 5956.703125,
+    "right": 1182.5,
+    "bottom": 5972.703125,
+    "left": 1166.5
+   }
+  },
+  "imgLeft": {
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(255, 255, 255)",
+   "font": "400 16px/32px Rubik",
+   "padding": "0px",
+   "radius": "0px",
+   "border": "0px solid rgb(255, 255, 255)",
+   "maxW": "100%",
+   "rect": {
+    "x": 16,
+    "y": 5927.703125,
+    "width": 248,
+    "height": 218.1875,
+    "top": 5927.703125,
+    "right": 264,
+    "bottom": 6145.890625,
+    "left": 16
+   }
+  },
+  "imgRight": {
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(255, 255, 255)",
+   "font": "400 16px/32px Rubik",
+   "padding": "0px",
+   "radius": "0px",
+   "border": "0px solid rgb(255, 255, 255)",
+   "maxW": "100%",
+   "rect": {
+    "x": 1185,
+    "y": 5927.703125,
+    "width": 231,
+    "height": 198.578125,
+    "top": 5927.703125,
+    "right": 1416,
+    "bottom": 6126.28125,
+    "left": 1185
+   }
+  }
+ },
+ "imgClasses": [
+  {
+   "src": "/_astro/getting-started-img-left.CRIbD4_5.webp",
+   "cls": "md:hidden mx-auto mb-[2.9375rem] pointer-events-none w-[15.5rem]",
+   "parentCls": "getting-started-container"
+  },
+  {
+   "src": "/_astro/getting-started-img-left.CRIbD4_5.webp",
+   "cls": "hidden md:block md:absolute pointer-events-none top-[10rem] w-[15.5rem] z-10 md:-left-[14rem] xl:-left-[10rem]",
+   "parentCls": "flex flex-col items-center mb-[3.25rem] md:mb-[4.5rem] mt-12 md:mt-16 md:min-h-[21rem] overflow-visible relative"
+  },
+  {
+   "src": "/_astro/getting-started-img-right.uCQ8m_KR.webp",
+   "cls": "relative md:absolute mt-[2.9375rem] md:mt-0 pointer-events-none top-0 md:top-[10rem] w-[14.4375rem] z-10 md:-right-[13.5rem] xl:-right-[9.5rem]",
+   "parentCls": "flex flex-col items-center mb-[3.25rem] md:mb-[4.5rem] mt-12 md:mt-16 md:min-h-[21rem] overflow-visible relative"
+  }
+ ]
+}

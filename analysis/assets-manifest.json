@@ -1,0 +1,306 @@
+[
+ {
+  "source": "https://sentry.io/astro-assets/fonts/rubik-latin-italic.woff2",
+  "fetchedFrom": "https://sentry.io/astro-assets/fonts/rubik-latin-italic.woff2",
+  "local": "/media/fonts/rubik-latin-italic.woff2",
+  "mime": "font/woff2",
+  "bytes": 18080,
+  "sha256": "9e78a1722e2d5cb4"
+ },
+ {
+  "source": "https://sentry.io/_astro/welcome-bg.BcYKCM6C.webp",
+  "fetchedFrom": "https://sentry.io/_astro/welcome-bg.BcYKCM6C.webp",
+  "local": "/media/images/welcome-bg.webp",
+  "mime": "image/webp",
+  "bytes": 383738,
+  "sha256": "389ba8035dfa9aab"
+ },
+ {
+  "source": "https://sentry.io/astro-assets/nav-icons/github.png",
+  "fetchedFrom": "https://sentry.io/astro-assets/nav-icons/github.png",
+  "local": "/media/images/github.png",
+  "mime": "image/png",
+  "bytes": 1457,
+  "sha256": "bf67624c1833f668"
+ },
+ {
+  "source": "https://sentry.io/astro-assets/nav-icons/automated-debugging.webp",
+  "fetchedFrom": "https://sentry.io/astro-assets/nav-icons/automated-debugging.webp",
+  "local": "/media/images/automated-debugging.webp",
+  "mime": "image/webp",
+  "bytes": 38882,
+  "sha256": "ff32c03f7951d827"
+ },
+ {
+  "source": "https://sentry.io/_astro/quotemark.CdOBjrOr.png",
+  "fetchedFrom": "https://sentry.io/_astro/quotemark.CdOBjrOr.png",
+  "local": "/media/images/quotemark.png",
+  "mime": "image/png",
+  "bytes": 1884,
+  "sha256": "cefcfe6d8464d333"
+ },
+ {
+  "source": "https://sentry.io/astro-assets/nav-icons/x-twitter.png",
+  "fetchedFrom": "https://sentry.io/astro-assets/nav-icons/x-twitter.png",
+  "local": "/media/images/x-twitter.png",
+  "mime": "image/png",
+  "bytes": 1368,
+  "sha256": "4d1612b3f76752eb"
+ },
+ {
+  "source": "https://sentry.io/astro-assets/nav-icons/slack.png",
+  "fetchedFrom": "https://sentry.io/astro-assets/nav-icons/slack.png",
+  "local": "/media/images/slack.png",
+  "mime": "image/png",
+  "bytes": 577,
+  "sha256": "2476f3009fde0d9c"
+ },
+ {
+  "source": "https://sentry.io/_astro/getting-started-img-left.CRIbD4_5.webp",
+  "fetchedFrom": "https://sentry.io/_astro/getting-started-img-left.CRIbD4_5.webp",
+  "local": "/media/images/getting-started-img-left.webp",
+  "mime": "image/webp",
+  "bytes": 37566,
+  "sha256": "ce3bd64b4f5bd6a2"
+ },
+ {
+  "source": "https://sentry.io/astro-assets/fonts/dammitsansv0.3-bold.otf",
+  "fetchedFrom": "https://sentry.io/astro-assets/fonts/dammitsansv0.3-bold.otf",
+  "local": "/media/fonts/dammitsansv0.3-bold.otf",
+  "mime": "font/otf",
+  "bytes": 8572,
+  "sha256": "7dd897dda5e2d26e"
+ },
+ {
+  "source": "https://sentry.io/_astro/getting-started-img-right.uCQ8m_KR.webp",
+  "fetchedFrom": "https://sentry.io/_astro/getting-started-img-right.uCQ8m_KR.webp",
+  "local": "/media/images/getting-started-img-right.webp",
+  "mime": "image/webp",
+  "bytes": 28028,
+  "sha256": "b6c2432a2b502249"
+ },
+ {
+  "source": "https://sentry.io/astro-assets/nav-icons/linkedin.png",
+  "fetchedFrom": "https://sentry.io/astro-assets/nav-icons/linkedin.png",
+  "local": "/media/images/linkedin.png",
+  "mime": "image/png",
+  "bytes": 755,
+  "sha256": "78dbaeb75e2d19a1"
+ },
+ {
+  "source": "https://sentry.io/_astro/hero-animation-poster.lNyp05dq.webp",
+  "fetchedFrom": "https://sentry.io/_astro/hero-animation-poster.lNyp05dq.webp",
+  "local": "/media/images/hero-animation-poster.webp",
+  "mime": "image/webp",
+  "bytes": 70648,
+  "sha256": "dd9423059e1f5a59"
+ },
+ {
+  "source": "https://sentry.io/astro-assets/fonts/rubik-latin-regular.woff",
+  "fetchedFrom": "https://sentry.io/astro-assets/fonts/rubik-latin-regular.woff",
+  "local": "/media/fonts/rubik-latin-regular.woff",
+  "mime": "font/woff",
+  "bytes": 23916,
+  "sha256": "39d685e924a2fb89"
+ },
+ {
+  "source": "https://sentry.io/astro-assets/nav-icons/discord.png",
+  "fetchedFrom": "https://sentry.io/astro-assets/nav-icons/discord.png",
+  "local": "/media/images/discord.png",
+  "mime": "image/png",
+  "bytes": 1072,
+  "sha256": "d6b786f2101788cc"
+ },
+ {
+  "source": "https://sentry.io/_astro/middle-bg-texture.Bj4JNsdD.webp",
+  "fetchedFrom": "https://sentry.io/_astro/middle-bg-texture.Bj4JNsdD.webp",
+  "local": "/media/images/middle-bg-texture.webp",
+  "mime": "image/webp",
+  "bytes": 14834,
+  "sha256": "3f192e0d8a776464"
+ },
+ {
+  "source": "https://sentry.io/_astro/ufo-abduction-image.CCCweOzA.webp",
+  "fetchedFrom": "https://sentry.io/_astro/ufo-abduction-image.CCCweOzA.webp",
+  "local": "/media/images/ufo-abduction-image.webp",
+  "mime": "image/webp",
+  "bytes": 11874,
+  "sha256": "6cbd5de9b8ccaef1"
+ },
+ {
+  "source": "https://sentry.io/astro-assets/fonts/rubik-latin-regular.woff2",
+  "fetchedFrom": "https://sentry.io/astro-assets/fonts/rubik-latin-regular.woff2",
+  "local": "/media/fonts/rubik-latin-regular.woff2",
+  "mime": "font/woff2",
+  "bytes": 18692,
+  "sha256": "6283c8f5d8a8035b"
+ },
+ {
+  "source": "https://sentry.io/astro-assets/fonts/rubik-latin-500.woff2",
+  "fetchedFrom": "https://sentry.io/astro-assets/fonts/rubik-latin-500.woff2",
+  "local": "/media/fonts/rubik-latin-500.woff2",
+  "mime": "font/woff2",
+  "bytes": 18792,
+  "sha256": "8d8d537f48a4bbdf"
+ },
+ {
+  "source": "https://sentry.io/astro-assets/fonts/rubik-latin-500italic.woff2",
+  "fetchedFrom": "https://sentry.io/astro-assets/fonts/rubik-latin-500italic.woff2",
+  "local": "/media/fonts/rubik-latin-500italic.woff2",
+  "mime": "font/woff2",
+  "bytes": 18196,
+  "sha256": "4fbb32fe2a8f5eb2"
+ },
+ {
+  "source": "https://sentry.io/_vercel/image?url=_astro%2Finstall-1-line.CStr0HQx.webp&w=828&q=100",
+  "fetchedFrom": "https://sentry.io/_astro/install-1-line.CStr0HQx.webp",
+  "local": "/media/images/install-1-line.webp",
+  "mime": "image/webp",
+  "bytes": 28490,
+  "sha256": "f33ea0bb467a6350"
+ },
+ {
+  "source": "https://sentry.io/_vercel/image?url=_astro%2Fautomatic-rca.CGAenFBp.webp&w=828&q=100",
+  "fetchedFrom": "https://sentry.io/_astro/automatic-rca.CGAenFBp.webp",
+  "local": "/media/images/automatic-rca.webp",
+  "mime": "image/webp",
+  "bytes": 15780,
+  "sha256": "658f49a992a9171b"
+ },
+ {
+  "source": "https://sentry.io/_vercel/image?url=_astro%2Fagent-tracing.wxxP5JHl.webp&w=828&q=100",
+  "fetchedFrom": "https://sentry.io/_astro/agent-tracing.wxxP5JHl.webp",
+  "local": "/media/images/agent-tracing.webp",
+  "mime": "image/webp",
+  "bytes": 14750,
+  "sha256": "c2f4599b2dc78ebc"
+ },
+ {
+  "source": "https://sentry.io/_vercel/image?url=_astro%2Fmcp-integration.BsYvoh98.webp&w=828&q=100",
+  "fetchedFrom": "https://sentry.io/_astro/mcp-integration.BsYvoh98.webp",
+  "local": "/media/images/mcp-integration.webp",
+  "mime": "image/webp",
+  "bytes": 16246,
+  "sha256": "8c7d6c15f87bb944"
+ },
+ {
+  "source": "https://sentry.io/_vercel/image?url=_astro%2Ftabs-a-1.3EhRDHX9.webp&w=640&q=100",
+  "fetchedFrom": "https://sentry.io/_astro/tabs-a-1.3EhRDHX9.webp",
+  "local": "/media/images/tabs-a-1.webp",
+  "mime": "image/webp",
+  "bytes": 47902,
+  "sha256": "4444a25141871dbf"
+ },
+ {
+  "source": "https://sentry.io/_vercel/image?url=_astro%2Ftabs-a-3.BH8DXd6a.webp&w=640&q=100",
+  "fetchedFrom": "https://sentry.io/_astro/tabs-a-3.BH8DXd6a.webp",
+  "local": "/media/images/tabs-a-3.webp",
+  "mime": "image/webp",
+  "bytes": 41146,
+  "sha256": "c02c1c2575a68a86"
+ },
+ {
+  "source": "https://sentry.io/_vercel/image?url=_astro%2Ftabs-a-2.BeO7Y7Ee.webp&w=640&q=100",
+  "fetchedFrom": "https://sentry.io/_astro/tabs-a-2.BeO7Y7Ee.webp",
+  "local": "/media/images/tabs-a-2.webp",
+  "mime": "image/webp",
+  "bytes": 61830,
+  "sha256": "fcabb643805cf31a"
+ },
+ {
+  "source": "https://sentry.io/_vercel/image?url=_astro%2Ftabs-b-1.CxQnCdrJ.webp&w=640&q=100",
+  "fetchedFrom": "https://sentry.io/_astro/tabs-b-1.CxQnCdrJ.webp",
+  "local": "/media/images/tabs-b-1.webp",
+  "mime": "image/webp",
+  "bytes": 50552,
+  "sha256": "54fe31b0ad56100c"
+ },
+ {
+  "source": "https://sentry.io/_vercel/image?url=_astro%2Ftabs-b-3.DBuDJxCL.webp&w=640&q=100",
+  "fetchedFrom": "https://sentry.io/_astro/tabs-b-3.DBuDJxCL.webp",
+  "local": "/media/images/tabs-b-3.webp",
+  "mime": "image/webp",
+  "bytes": 66250,
+  "sha256": "cfdf81bd8357668c"
+ },
+ {
+  "source": "https://sentry.io/_vercel/image?url=_astro%2Ftabs-b-2.Bc7JV4Tp.webp&w=640&q=100",
+  "fetchedFrom": "https://sentry.io/_astro/tabs-b-2.Bc7JV4Tp.webp",
+  "local": "/media/images/tabs-b-2.webp",
+  "mime": "image/webp",
+  "bytes": 43738,
+  "sha256": "c085e2b24a4a6a2a"
+ },
+ {
+  "source": "https://sentry.io/astro-assets/rive-files/home-hero-scanner-animation.riv",
+  "fetchedFrom": "https://sentry.io/astro-assets/rive-files/home-hero-scanner-animation.riv",
+  "local": "/media/rive/home-hero-scanner-animation.riv",
+  "mime": "application/octet-stream",
+  "bytes": 136908,
+  "sha256": "e61e401d71a2700a"
+ },
+ {
+  "source": "https://sentry.io/_vercel/image?url=_astro%2Flogo-instacart.DZ7svSOB.webp&w=640&q=100",
+  "fetchedFrom": "https://sentry.io/_astro/logo-instacart.DZ7svSOB.webp",
+  "local": "/media/images/logo-instacart.webp",
+  "mime": "image/webp",
+  "bytes": 12234,
+  "sha256": "bf3ba4c62cd08f54"
+ },
+ {
+  "source": "https://sentry.io/_vercel/image?url=_astro%2FFrame_1__2_.VGxeHlP1.webp&w=640&q=100",
+  "fetchedFrom": "https://sentry.io/_astro/Frame_1__2_.VGxeHlP1.webp",
+  "local": "/media/images/Frame_1__2_.webp",
+  "mime": "image/webp",
+  "bytes": 34370,
+  "sha256": "8fcc431b91d3f3a6"
+ },
+ {
+  "source": "https://sentry.io/_vercel/image?url=_astro%2Flogo.Bb9Pljse.png&w=640&q=100",
+  "fetchedFrom": "https://sentry.io/_astro/logo.Bb9Pljse.png",
+  "local": "/media/images/logo.png",
+  "mime": "image/png",
+  "bytes": 2112,
+  "sha256": "771bd9ebc9ad0c22"
+ },
+ {
+  "source": "https://sentry.io/_vercel/image?url=_astro%2Fhome-spot-404.C766tHib.webp&w=640&q=100",
+  "fetchedFrom": "https://sentry.io/_astro/home-spot-404.C766tHib.webp",
+  "local": "/media/images/home-spot-404.webp",
+  "mime": "image/webp",
+  "bytes": 95970,
+  "sha256": "502f3c1ce51be484"
+ },
+ {
+  "source": "https://sentry.io/_astro/home-hero-meta.DJDejDMD.webp",
+  "fetchedFrom": "https://sentry.io/_astro/home-hero-meta.DJDejDMD.webp",
+  "local": "/media/images/home-hero-meta.webp",
+  "mime": "image/webp",
+  "bytes": 34636,
+  "sha256": "38f4d8e0b7dc9f7b"
+ },
+ {
+  "source": "https://sentry.io/astro-assets/fonts/rubik-latin-500.woff",
+  "fetchedFrom": "https://sentry.io/astro-assets/fonts/rubik-latin-500.woff",
+  "local": "/media/fonts/rubik-latin-500.woff",
+  "mime": "font/woff",
+  "bytes": 24112,
+  "sha256": "9296cd28000f3a15"
+ },
+ {
+  "source": "https://sentry.io/astro-assets/fonts/rubik-latin-500italic.woff",
+  "fetchedFrom": "https://sentry.io/astro-assets/fonts/rubik-latin-500italic.woff",
+  "local": "/media/fonts/rubik-latin-500italic.woff",
+  "mime": "font/woff",
+  "bytes": 22876,
+  "sha256": "91f7739e0e5121a5"
+ },
+ {
+  "source": "https://sentry.io/astro-assets/fonts/rubik-latin-italic.woff",
+  "fetchedFrom": "https://sentry.io/astro-assets/fonts/rubik-latin-italic.woff",
+  "local": "/media/fonts/rubik-latin-italic.woff",
+  "mime": "font/woff",
+  "bytes": 22656,
+  "sha256": "6c4e99088da1cea2"
+ }
+]

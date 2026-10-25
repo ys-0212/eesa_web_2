@@ -1,0 +1,1242 @@
+{
+ "390": {
+  "ref": {
+   "docHeight": 10798,
+   "header": {
+    "y": 0,
+    "x": 0,
+    "w": 390,
+    "h": 72
+   },
+   "footer": {
+    "y": 8831,
+    "x": 0,
+    "w": 390,
+    "h": 1967
+   },
+   "headings": [
+    {
+     "text": "Code breaks, fix it fast",
+     "y": 220,
+     "x": 32,
+     "w": 326,
+     "h": 120
+    },
+    {
+     "text": "Developer first. Always.",
+     "y": 1332,
+     "x": 32,
+     "w": 326,
+     "h": 104
+    },
+    {
+     "text": "Everything’s connected",
+     "y": 1844,
+     "x": 32,
+     "w": 326,
+     "h": 104
+    },
+    {
+     "text": "Debugging needs context—",
+     "y": 3061,
+     "x": 32,
+     "w": 326,
+     "h": 259
+    },
+    {
+     "text": "Loved by developers worl",
+     "y": 4433,
+     "x": 32,
+     "w": 326,
+     "h": 155
+    },
+    {
+     "text": "Get started in minutes",
+     "y": 5844,
+     "x": 32,
+     "w": 326,
+     "h": 104
+    },
+    {
+     "text": "Built to be secure, Desi",
+     "y": 6735,
+     "x": 32,
+     "w": 326,
+     "h": 259
+    },
+    {
+     "text": "Get monthly product upda",
+     "y": 7505,
+     "x": 32,
+     "w": 326,
+     "h": 259
+    },
+    {
+     "text": "Fix It",
+     "y": 8380,
+     "x": 32,
+     "w": 326,
+     "h": 52
+    }
+   ],
+   "probes": {
+    "heroCanvas": {
+     "y": 624,
+     "x": -32,
+     "w": 454,
+     "h": 179
+    },
+    "ufo": {
+     "y": 908,
+     "x": 75,
+     "w": 240,
+     "h": 307
+    },
+    "firstCardImg": {
+     "y": 1472,
+     "x": 34,
+     "w": 322,
+     "h": 107
+    },
+    "tabsImgA": {
+     "y": 2441,
+     "x": 48,
+     "w": 294,
+     "h": 196
+    },
+    "tabsImgB": {
+     "y": 3781,
+     "x": 48,
+     "w": 294,
+     "h": 196
+    },
+    "firstQuote": {
+     "y": 4623,
+     "x": 32,
+     "w": 326,
+     "h": 908
+    },
+    "select": {
+     "y": 6140,
+     "x": 32,
+     "w": 326,
+     "h": 36
+    },
+    "codeBlock": {
+     "y": 6268,
+     "x": 32,
+     "w": 326,
+     "h": 121
+    },
+    "badges": {
+     "y": 7225,
+     "x": 32,
+     "w": 69,
+     "h": 100
+    },
+    "emailInput": {
+     "y": 7849,
+     "x": 56,
+     "w": 278,
+     "h": 42
+    },
+    "img404": {
+     "y": 8188,
+     "x": 154,
+     "w": 300,
+     "h": 160
+    },
+    "footerWave": {
+     "y": 10527,
+     "x": 32,
+     "w": 326,
+     "h": 8
+    }
+   }
+  },
+  "loc": {
+   "docHeight": 10798,
+   "header": {
+    "y": 0,
+    "x": 0,
+    "w": 390,
+    "h": 72
+   },
+   "footer": {
+    "y": 8831,
+    "x": 0,
+    "w": 390,
+    "h": 1967
+   },
+   "headings": [
+    {
+     "text": "Code breaks, fix it fast",
+     "y": 220,
+     "x": 32,
+     "w": 326,
+     "h": 120
+    },
+    {
+     "text": "Developer first. Always.",
+     "y": 1332,
+     "x": 32,
+     "w": 326,
+     "h": 104
+    },
+    {
+     "text": "Everything’s connected",
+     "y": 1844,
+     "x": 32,
+     "w": 326,
+     "h": 104
+    },
+    {
+     "text": "Debugging needs context—",
+     "y": 3061,
+     "x": 32,
+     "w": 326,
+     "h": 259
+    },
+    {
+     "text": "Loved by developers worl",
+     "y": 4433,
+     "x": 32,
+     "w": 326,
+     "h": 155
+    },
+    {
+     "text": "Get started in minutes",
+     "y": 5844,
+     "x": 32,
+     "w": 326,
+     "h": 104
+    },
+    {
+     "text": "Built to be secure, Desi",
+     "y": 6735,
+     "x": 32,
+     "w": 326,
+     "h": 259
+    },
+    {
+     "text": "Get monthly product upda",
+     "y": 7505,
+     "x": 32,
+     "w": 326,
+     "h": 259
+    },
+    {
+     "text": "Fix It",
+     "y": 8380,
+     "x": 32,
+     "w": 326,
+     "h": 52
+    }
+   ],
+   "probes": {
+    "heroCanvas": {
+     "y": 624,
+     "x": -32,
+     "w": 454,
+     "h": 179
+    },
+    "ufo": {
+     "y": 908,
+     "x": 75,
+     "w": 240,
+     "h": 307
+    },
+    "firstCardImg": {
+     "y": 1472,
+     "x": 34,
+     "w": 322,
+     "h": 107
+    },
+    "tabsImgA": {
+     "y": 2441,
+     "x": 48,
+     "w": 294,
+     "h": 196
+    },
+    "tabsImgB": {
+     "y": 3781,
+     "x": 48,
+     "w": 294,
+     "h": 196
+    },
+    "firstQuote": {
+     "y": 4623,
+     "x": 32,
+     "w": 326,
+     "h": 908
+    },
+    "select": {
+     "y": 6140,
+     "x": 32,
+     "w": 326,
+     "h": 36
+    },
+    "codeBlock": {
+     "y": 6268,
+     "x": 32,
+     "w": 326,
+     "h": 121
+    },
+    "badges": {
+     "y": 7225,
+     "x": 32,
+     "w": 69,
+     "h": 100
+    },
+    "emailInput": {
+     "y": 7849,
+     "x": 56,
+     "w": 278,
+     "h": 42
+    },
+    "img404": {
+     "y": 8189,
+     "x": 154,
+     "w": 300,
+     "h": 160
+    },
+    "footerWave": {
+     "y": 10527,
+     "x": 32,
+     "w": 326,
+     "h": 8
+    }
+   }
+  }
+ },
+ "768": {
+  "ref": {
+   "docHeight": 8897,
+   "header": {
+    "y": 0,
+    "x": 0,
+    "w": 768,
+    "h": 72
+   },
+   "footer": {
+    "y": 8088,
+    "x": 0,
+    "w": 768,
+    "h": 809
+   },
+   "headings": [
+    {
+     "text": "Code breaks, fix it fast",
+     "y": 220,
+     "x": 32,
+     "w": 704,
+     "h": 211
+    },
+    {
+     "text": "Developer first. Always.",
+     "y": 1665,
+     "x": 32,
+     "w": 704,
+     "h": 132
+    },
+    {
+     "text": "Everything’s connected",
+     "y": 2297,
+     "x": 32,
+     "w": 704,
+     "h": 132
+    },
+    {
+     "text": "Debugging needs context—",
+     "y": 3422,
+     "x": 32,
+     "w": 704,
+     "h": 198
+    },
+    {
+     "text": "Loved by developers worl",
+     "y": 4577,
+     "x": 32,
+     "w": 704,
+     "h": 132
+    },
+    {
+     "text": "Get started in minutes",
+     "y": 5484,
+     "x": 32,
+     "w": 704,
+     "h": 132
+    },
+    {
+     "text": "Built to be secure, Desi",
+     "y": 6337,
+     "x": 32,
+     "w": 704,
+     "h": 198
+    },
+    {
+     "text": "Get monthly product upda",
+     "y": 6958,
+     "x": 32,
+     "w": 704,
+     "h": 198
+    },
+    {
+     "text": "Fix It",
+     "y": 7726,
+     "x": 32,
+     "w": 704,
+     "h": 66
+    }
+   ],
+   "probes": {
+    "heroCanvas": {
+     "y": 744,
+     "x": -32,
+     "w": 832,
+     "h": 329
+    },
+    "ufo": {
+     "y": 1209,
+     "x": 264,
+     "w": 240,
+     "h": 307
+    },
+    "firstCardImg": {
+     "y": 1834,
+     "x": 34,
+     "w": 340,
+     "h": 113
+    },
+    "tabsImgA": {
+     "y": 2682,
+     "x": 363,
+     "w": 373,
+     "h": 249
+    },
+    "tabsImgB": {
+     "y": 3873,
+     "x": 363,
+     "w": 373,
+     "h": 249
+    },
+    "firstQuote": {
+     "y": 4744,
+     "x": 32,
+     "w": 704,
+     "h": 660
+    },
+    "select": {
+     "y": 5849,
+     "x": 210,
+     "w": 349,
+     "h": 40
+    },
+    "codeBlock": {
+     "y": 6026,
+     "x": 32,
+     "w": 704,
+     "h": 121
+    },
+    "badges": {
+     "y": 6702,
+     "x": 32,
+     "w": 69,
+     "h": 100
+    },
+    "emailInput": {
+     "y": 7242,
+     "x": 56,
+     "w": 656,
+     "h": 42
+    },
+    "img404": {
+     "y": 7502,
+     "x": 532,
+     "w": 300,
+     "h": 160
+    },
+    "footerWave": {
+     "y": 8676,
+     "x": 32,
+     "w": 704,
+     "h": 8
+    }
+   }
+  },
+  "loc": {
+   "docHeight": 8897,
+   "header": {
+    "y": 0,
+    "x": 0,
+    "w": 768,
+    "h": 72
+   },
+   "footer": {
+    "y": 8088,
+    "x": 0,
+    "w": 768,
+    "h": 809
+   },
+   "headings": [
+    {
+     "text": "Code breaks, fix it fast",
+     "y": 220,
+     "x": 32,
+     "w": 704,
+     "h": 211
+    },
+    {
+     "text": "Developer first. Always.",
+     "y": 1665,
+     "x": 32,
+     "w": 704,
+     "h": 132
+    },
+    {
+     "text": "Everything’s connected",
+     "y": 2297,
+     "x": 32,
+     "w": 704,
+     "h": 132
+    },
+    {
+     "text": "Debugging needs context—",
+     "y": 3422,
+     "x": 32,
+     "w": 704,
+     "h": 198
+    },
+    {
+     "text": "Loved by developers worl",
+     "y": 4577,
+     "x": 32,
+     "w": 704,
+     "h": 132
+    },
+    {
+     "text": "Get started in minutes",
+     "y": 5484,
+     "x": 32,
+     "w": 704,
+     "h": 132
+    },
+    {
+     "text": "Built to be secure, Desi",
+     "y": 6337,
+     "x": 32,
+     "w": 704,
+     "h": 198
+    },
+    {
+     "text": "Get monthly product upda",
+     "y": 6958,
+     "x": 32,
+     "w": 704,
+     "h": 198
+    },
+    {
+     "text": "Fix It",
+     "y": 7726,
+     "x": 32,
+     "w": 704,
+     "h": 66
+    }
+   ],
+   "probes": {
+    "heroCanvas": {
+     "y": 744,
+     "x": -32,
+     "w": 832,
+     "h": 329
+    },
+    "ufo": {
+     "y": 1209,
+     "x": 264,
+     "w": 240,
+     "h": 307
+    },
+    "firstCardImg": {
+     "y": 1834,
+     "x": 34,
+     "w": 340,
+     "h": 113
+    },
+    "tabsImgA": {
+     "y": 2682,
+     "x": 363,
+     "w": 373,
+     "h": 249
+    },
+    "tabsImgB": {
+     "y": 3873,
+     "x": 363,
+     "w": 373,
+     "h": 249
+    },
+    "firstQuote": {
+     "y": 4744,
+     "x": 32,
+     "w": 704,
+     "h": 660
+    },
+    "select": {
+     "y": 5849,
+     "x": 210,
+     "w": 349,
+     "h": 40
+    },
+    "codeBlock": {
+     "y": 6026,
+     "x": 32,
+     "w": 704,
+     "h": 121
+    },
+    "badges": {
+     "y": 6702,
+     "x": 32,
+     "w": 69,
+     "h": 100
+    },
+    "emailInput": {
+     "y": 7242,
+     "x": 56,
+     "w": 656,
+     "h": 42
+    },
+    "img404": {
+     "y": 7502,
+     "x": 532,
+     "w": 300,
+     "h": 160
+    },
+    "footerWave": {
+     "y": 8676,
+     "x": 32,
+     "w": 704,
+     "h": 8
+    }
+   }
+  }
+ },
+ "1024": {
+  "ref": {
+   "docHeight": 9312,
+   "header": {
+    "y": 0,
+    "x": 0,
+    "w": 1024,
+    "h": 72
+   },
+   "footer": {
+    "y": 8569,
+    "x": 0,
+    "w": 1024,
+    "h": 743
+   },
+   "headings": [
+    {
+     "text": "Code breaks, fix it fast",
+     "y": 220,
+     "x": 48,
+     "w": 928,
+     "h": 211
+    },
+    {
+     "text": "Developer first. Always.",
+     "y": 1910,
+     "x": 48,
+     "w": 928,
+     "h": 132
+    },
+    {
+     "text": "Everything’s connected",
+     "y": 2852,
+     "x": 48,
+     "w": 928,
+     "h": 132
+    },
+    {
+     "text": "Debugging needs context—",
+     "y": 3919,
+     "x": 48,
+     "w": 928,
+     "h": 132
+    },
+    {
+     "text": "Loved by developers worl",
+     "y": 4950,
+     "x": 48,
+     "w": 928,
+     "h": 132
+    },
+    {
+     "text": "Get started in minutes",
+     "y": 5905,
+     "x": 48,
+     "w": 928,
+     "h": 132
+    },
+    {
+     "text": "Built to be secure, Desi",
+     "y": 6773,
+     "x": 48,
+     "w": 928,
+     "h": 132
+    },
+    {
+     "text": "Get monthly product upda",
+     "y": 7376,
+     "x": 48,
+     "w": 928,
+     "h": 132
+    },
+    {
+     "text": "Fix It",
+     "y": 8125,
+     "x": 213,
+     "w": 597,
+     "h": 66
+    }
+   ],
+   "probes": {
+    "heroCanvas": {
+     "y": 744,
+     "x": -32,
+     "w": 1088,
+     "h": 430
+    },
+    "ufo": {
+     "y": 1406,
+     "x": 392,
+     "w": 240,
+     "h": 307
+    },
+    "firstCardImg": {
+     "y": 2079,
+     "x": 50,
+     "w": 436,
+     "h": 145
+    },
+    "tabsImgA": {
+     "y": 3203,
+     "x": 472,
+     "w": 504,
+     "h": 336
+    },
+    "tabsImgB": {
+     "y": 4270,
+     "x": 472,
+     "w": 504,
+     "h": 336
+    },
+    "firstQuote": {
+     "y": 5117,
+     "x": 48,
+     "w": 960,
+     "h": 660
+    },
+    "select": {
+     "y": 6237,
+     "x": 338,
+     "w": 349,
+     "h": 40
+    },
+    "codeBlock": {
+     "y": 6414,
+     "x": 48,
+     "w": 928,
+     "h": 121
+    },
+    "badges": {
+     "y": 7072,
+     "x": 48,
+     "w": 69,
+     "h": 100
+    },
+    "emailInput": {
+     "y": 7593,
+     "x": 72,
+     "w": 608,
+     "h": 42
+    },
+    "img404": {
+     "y": 7709,
+     "x": 580,
+     "w": 600,
+     "h": 320
+    },
+    "footerWave": {
+     "y": 9157,
+     "x": 48,
+     "w": 928,
+     "h": 8
+    }
+   }
+  },
+  "loc": {
+   "docHeight": 9312,
+   "header": {
+    "y": 0,
+    "x": 0,
+    "w": 1024,
+    "h": 72
+   },
+   "footer": {
+    "y": 8569,
+    "x": 0,
+    "w": 1024,
+    "h": 743
+   },
+   "headings": [
+    {
+     "text": "Code breaks, fix it fast",
+     "y": 220,
+     "x": 48,
+     "w": 928,
+     "h": 211
+    },
+    {
+     "text": "Developer first. Always.",
+     "y": 1910,
+     "x": 48,
+     "w": 928,
+     "h": 132
+    },
+    {
+     "text": "Everything’s connected",
+     "y": 2852,
+     "x": 48,
+     "w": 928,
+     "h": 132
+    },
+    {
+     "text": "Debugging needs context—",
+     "y": 3919,
+     "x": 48,
+     "w": 928,
+     "h": 132
+    },
+    {
+     "text": "Loved by developers worl",
+     "y": 4950,
+     "x": 48,
+     "w": 928,
+     "h": 132
+    },
+    {
+     "text": "Get started in minutes",
+     "y": 5905,
+     "x": 48,
+     "w": 928,
+     "h": 132
+    },
+    {
+     "text": "Built to be secure, Desi",
+     "y": 6773,
+     "x": 48,
+     "w": 928,
+     "h": 132
+    },
+    {
+     "text": "Get monthly product upda",
+     "y": 7376,
+     "x": 48,
+     "w": 928,
+     "h": 132
+    },
+    {
+     "text": "Fix It",
+     "y": 8125,
+     "x": 213,
+     "w": 597,
+     "h": 66
+    }
+   ],
+   "probes": {
+    "heroCanvas": {
+     "y": 744,
+     "x": -32,
+     "w": 1088,
+     "h": 430
+    },
+    "ufo": {
+     "y": 1406,
+     "x": 392,
+     "w": 240,
+     "h": 307
+    },
+    "firstCardImg": {
+     "y": 2079,
+     "x": 50,
+     "w": 436,
+     "h": 145
+    },
+    "tabsImgA": {
+     "y": 3203,
+     "x": 472,
+     "w": 504,
+     "h": 336
+    },
+    "tabsImgB": {
+     "y": 4270,
+     "x": 472,
+     "w": 504,
+     "h": 336
+    },
+    "firstQuote": {
+     "y": 5117,
+     "x": 48,
+     "w": 960,
+     "h": 660
+    },
+    "select": {
+     "y": 6237,
+     "x": 338,
+     "w": 349,
+     "h": 40
+    },
+    "codeBlock": {
+     "y": 6414,
+     "x": 48,
+     "w": 928,
+     "h": 121
+    },
+    "badges": {
+     "y": 7072,
+     "x": 48,
+     "w": 69,
+     "h": 100
+    },
+    "emailInput": {
+     "y": 7593,
+     "x": 72,
+     "w": 608,
+     "h": 42
+    },
+    "img404": {
+     "y": 7709,
+     "x": 580,
+     "w": 600,
+     "h": 320
+    },
+    "footerWave": {
+     "y": 9157,
+     "x": 48,
+     "w": 928,
+     "h": 8
+    }
+   }
+  }
+ },
+ "1440": {
+  "ref": {
+   "docHeight": 8809,
+   "header": {
+    "y": 0,
+    "x": 0,
+    "w": 1440,
+    "h": 72
+   },
+   "footer": {
+    "y": 8066,
+    "x": 0,
+    "w": 1440,
+    "h": 743
+   },
+   "headings": [
+    {
+     "text": "Code breaks, fix it fast",
+     "y": 220,
+     "x": 218,
+     "w": 1004,
+     "h": 106
+    },
+    {
+     "text": "Developer first. Always.",
+     "y": 1879,
+     "x": 176,
+     "w": 1088,
+     "h": 132
+    },
+    {
+     "text": "Everything’s connected",
+     "y": 2826,
+     "x": 176,
+     "w": 1088,
+     "h": 132
+    },
+    {
+     "text": "Debugging needs context—",
+     "y": 3825,
+     "x": 176,
+     "w": 1088,
+     "h": 132
+    },
+    {
+     "text": "Loved by developers worl",
+     "y": 4814,
+     "x": 176,
+     "w": 1088,
+     "h": 132
+    },
+    {
+     "text": "Get started in minutes",
+     "y": 5469,
+     "x": 176,
+     "w": 1088,
+     "h": 132
+    },
+    {
+     "text": "Built to be secure, Desi",
+     "y": 6304,
+     "x": 176,
+     "w": 1088,
+     "h": 132
+    },
+    {
+     "text": "Get monthly product upda",
+     "y": 6907,
+     "x": 176,
+     "w": 1088,
+     "h": 132
+    },
+    {
+     "text": "Fix It",
+     "y": 7656,
+     "x": 368,
+     "w": 704,
+     "h": 66
+    }
+   ],
+   "probes": {
+    "heroCanvas": {
+     "y": 603,
+     "x": 37,
+     "w": 1366,
+     "h": 540
+    },
+    "ufo": {
+     "y": 1375,
+     "x": 600,
+     "w": 240,
+     "h": 307
+    },
+    "firstCardImg": {
+     "y": 2048,
+     "x": 178,
+     "w": 516,
+     "h": 172
+    },
+    "tabsImgA": {
+     "y": 3177,
+     "x": 667,
+     "w": 597,
+     "h": 398
+    },
+    "tabsImgB": {
+     "y": 4176,
+     "x": 667,
+     "w": 597,
+     "h": 398
+    },
+    "firstQuote": {
+     "y": 4981,
+     "x": 176,
+     "w": 1120,
+     "h": 361
+    },
+    "select": {
+     "y": 5768,
+     "x": 546,
+     "w": 349,
+     "h": 40
+    },
+    "codeBlock": {
+     "y": 5945,
+     "x": 246,
+     "w": 949,
+     "h": 121
+    },
+    "badges": {
+     "y": 6603,
+     "x": 176,
+     "w": 69,
+     "h": 100
+    },
+    "emailInput": {
+     "y": 7124,
+     "x": 200,
+     "w": 608,
+     "h": 42
+    },
+    "img404": {
+     "y": 7288,
+     "x": 708,
+     "w": 600,
+     "h": 320
+    },
+    "footerWave": {
+     "y": 8654,
+     "x": 176,
+     "w": 1088,
+     "h": 8
+    }
+   }
+  },
+  "loc": {
+   "docHeight": 8809,
+   "header": {
+    "y": 0,
+    "x": 0,
+    "w": 1440,
+    "h": 72
+   },
+   "footer": {
+    "y": 8066,
+    "x": 0,
+    "w": 1440,
+    "h": 743
+   },
+   "headings": [
+    {
+     "text": "Code breaks, fix it fast",
+     "y": 220,
+     "x": 218,
+     "w": 1004,
+     "h": 106
+    },
+    {
+     "text": "Developer first. Always.",
+     "y": 1879,
+     "x": 176,
+     "w": 1088,
+     "h": 132
+    },
+    {
+     "text": "Everything’s connected",
+     "y": 2826,
+     "x": 176,
+     "w": 1088,
+     "h": 132
+    },
+    {
+     "text": "Debugging needs context—",
+     "y": 3825,
+     "x": 176,
+     "w": 1088,
+     "h": 132
+    },
+    {
+     "text": "Loved by developers worl",
+     "y": 4814,
+     "x": 176,
+     "w": 1088,
+     "h": 132
+    },
+    {
+     "text": "Get started in minutes",
+     "y": 5469,
+     "x": 176,
+     "w": 1088,
+     "h": 132
+    },
+    {
+     "text": "Built to be secure, Desi",
+     "y": 6304,
+     "x": 176,
+     "w": 1088,
+     "h": 132
+    },
+    {
+     "text": "Get monthly product upda",
+     "y": 6907,
+     "x": 176,
+     "w": 1088,
+     "h": 132
+    },
+    {
+     "text": "Fix It",
+     "y": 7656,
+     "x": 368,
+     "w": 704,
+     "h": 66
+    }
+   ],
+   "probes": {
+    "heroCanvas": {
+     "y": 603,
+     "x": 37,
+     "w": 1366,
+     "h": 540
+    },
+    "ufo": {
+     "y": 1375,
+     "x": 600,
+     "w": 240,
+     "h": 307
+    },
+    "firstCardImg": {
+     "y": 2048,
+     "x": 178,
+     "w": 516,
+     "h": 172
+    },
+    "tabsImgA": {
+     "y": 3177,
+     "x": 667,
+     "w": 597,
+     "h": 398
+    },
+    "tabsImgB": {
+     "y": 4176,
+     "x": 667,
+     "w": 597,
+     "h": 398
+    },
+    "firstQuote": {
+     "y": 4981,
+     "x": 176,
+     "w": 1120,
+     "h": 361
+    },
+    "select": {
+     "y": 5768,
+     "x": 546,
+     "w": 349,
+     "h": 40
+    },
+    "codeBlock": {
+     "y": 5945,
+     "x": 246,
+     "w": 949,
+     "h": 121
+    },
+    "badges": {
+     "y": 6603,
+     "x": 176,
+     "w": 69,
+     "h": 100
+    },
+    "emailInput": {
+     "y": 7124,
+     "x": 200,
+     "w": 608,
+     "h": 42
+    },
+    "img404": {
+     "y": 7288,
+     "x": 708,
+     "w": 600,
+     "h": 320
+    },
+    "footerWave": {
+     "y": 8654,
+     "x": 176,
+     "w": 1088,
+     "h": 8
+    }
+   }
+  }
+ }
+}

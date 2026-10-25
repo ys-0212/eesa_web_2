@@ -1,0 +1,159 @@
+[
+ {
+  "tag": "div",
+  "y": 72,
+  "h": 1807,
+  "firstHeading": "Code breaks, fix it faster",
+  "wrapperStyle": "--gradientHeight: 30%;--fadeColor: #181225;--edgeGradientWidth: 5%;--edgeGradientInset: calc(50% - 65rem / 2);--edgeGradientValue: #181225 0%, transparent 100%;",
+  "wrapperData": {
+   "fadeTop": "false",
+   "fadeBottom": "true",
+   "fadeEdges": "false",
+   "astroCid-3td42xuh": ""
+  },
+  "layer": {
+   "style": "background:url(/_astro/welcome-bg.BcYKCM6C.webp) top left 50% no-repeat;background-size:65rem;opacity:1;--gradientHeight: 30%;--fadeColor: #181225;--edgeGradientWidth: 5%;--edgeGradientInset: calc(50% - 65rem / 2);--edgeGradientValue: #181225 0%, transparent 100%;",
+   "data": {
+    "astroCid-3td42xuh": ""
+   },
+   "bgImage": "url(\"https://sentry.io/_astro/welcome-bg.BcYKCM6C.webp\")",
+   "bgSize": "1040px auto",
+   "bgPos": "50% 0%",
+   "bgRepeat": "no-repeat",
+   "bgColor": "rgba(0, 0, 0, 0)",
+   "opacity": "1",
+   "before": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+   "beforeH": "auto",
+   "after": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+   "afterH": "auto",
+   "children": []
+  }
+ },
+ {
+  "tag": "div",
+  "y": 1879,
+  "h": 947,
+  "firstHeading": "Developer first. Always.",
+  "wrapperStyle": "--gradientHeight: 30%;--fadeColor: #181225;--edgeGradientWidth: 5%;--edgeGradientInset: 0;--edgeGradientValue: #181225 0%, transparent 100%;",
+  "wrapperData": {
+   "fadeTop": "true",
+   "fadeBottom": "true",
+   "fadeEdges": "false",
+   "astroCid-3td42xuh": ""
+  },
+  "layer": {
+   "style": "background:linear-gradient(#1F1633 0%, #30145F 52.4%, #30145F 75%, #30145F 100%), url(/_astro/middle-bg-texture.Bj4JNsdD.webp) 0% 0% / 200px 200px repeat;background-blend-mode:darken;--gradientHeight: 30%;--fadeColor: #181225;--edgeGradientWidth: 5%;--edgeGradientInset: 0;--edgeGradientValue: #181225 0%, transparent 100%;",
+   "data": {
+    "astroCid-3td42xuh": ""
+   },
+   "bgImage": "linear-gradient(rgb(31, 22, 51) 0%, rgb(48, 20, 95) 52.4%, rgb(48, 20, 95) 75%, rgb(48, 20, 95) 100%), url(\"https://sentry.io/_astro/middle-bg-texture.Bj4JNsdD.webp\")",
+   "bgSize": "auto, 200px 200px",
+   "bgPos": "0% 0%, 0% 0%",
+   "bgRepeat": "repeat, repeat",
+   "bgColor": "rgba(0, 0, 0, 0)",
+   "opacity": "1",
+   "before": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+   "beforeH": "auto",
+   "after": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+   "afterH": "auto",
+   "children": []
+  }
+ },
+ {
+  "tag": "div",
+  "y": 2826,
+  "h": 1988,
+  "firstHeading": "Everything’s connected",
+  "wrapperStyle": "--gradientHeight: 25%;--fadeColor: #181225;--edgeGradientWidth: 5%;--edgeGradientInset: calc(50% - 65rem / 2);--edgeGradientValue: #181225 0%, transparent 100%;",
+  "wrapperData": {
+   "fadeTop": "true",
+   "fadeBottom": "true",
+   "fadeEdges": "false",
+   "astroCid-3td42xuh": ""
+  },
+  "layer": {
+   "style": "background:url(/_astro/welcome-bg.BcYKCM6C.webp) top left 50% no-repeat;background-size:65rem;opacity:1;--gradientHeight: 25%;--fadeColor: #181225;--edgeGradientWidth: 5%;--edgeGradientInset: calc(50% - 65rem / 2);--edgeGradientValue: #181225 0%, transparent 100%;",
+   "data": {
+    "astroCid-3td42xuh": ""
+   },
+   "bgImage": "url(\"https://sentry.io/_astro/welcome-bg.BcYKCM6C.webp\")",
+   "bgSize": "1040px auto",
+   "bgPos": "50% 0%",
+   "bgRepeat": "no-repeat",
+   "bgColor": "rgba(0, 0, 0, 0)",
+   "opacity": "1",
+   "before": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+   "beforeH": "auto",
+   "after": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+   "afterH": "auto",
+   "children": []
+  }
+ },
+ {
+  "tag": "div",
+  "y": 4814,
+  "h": 655,
+  "firstHeading": "Loved by developers worldwide",
+  "wrapperStyle": "--gradientHeight: 30%;--fadeColor: #181225;--edgeGradientWidth: 5%;--edgeGradientInset: 0;--edgeGradientValue: #181225 0%, transparent 100%;",
+  "wrapperData": {
+   "fadeTop": "true",
+   "fadeBottom": "false",
+   "fadeEdges": "false",
+   "astroCid-3td42xuh": ""
+  }
+ },
+ {
+  "tag": "div",
+  "y": 5469,
+  "h": 834,
+  "firstHeading": "Get started in minutes",
+  "wrapperStyle": "--gradientHeight: 30%;--fadeColor: #181225;--edgeGradientWidth: 5%;--edgeGradientInset: 0;--edgeGradientValue: #181225 0%, transparent 100%;",
+  "wrapperData": {
+   "fadeTop": "false",
+   "fadeBottom": "false",
+   "fadeEdges": "false",
+   "astroCid-3td42xuh": ""
+  },
+  "layer": {
+   "style": "background:radial-gradient(ellipse 50% 50% at 50% 50%, rgba(173, 108, 170, 0.15) 0%, #1F1633 65%);--gradientHeight: 30%;--fadeColor: #181225;--edgeGradientWidth: 5%;--edgeGradientInset: 0;--edgeGradientValue: #181225 0%, transparent 100%;",
+   "data": {
+    "astroCid-3td42xuh": ""
+   },
+   "bgImage": "radial-gradient(50% 50%, rgba(173, 108, 170, 0.15) 0%, rgb(31, 22, 51) 65%)",
+   "bgSize": "auto",
+   "bgPos": "0% 0%",
+   "bgRepeat": "repeat",
+   "bgColor": "rgba(0, 0, 0, 0)",
+   "opacity": "1",
+   "before": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+   "beforeH": "auto",
+   "after": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+   "afterH": "auto",
+   "children": []
+  }
+ },
+ {
+  "tag": "section",
+  "y": 6304,
+  "h": 603,
+  "firstHeading": "Built to be secure, Designed to not get ",
+  "wrapperStyle": "",
+  "wrapperData": {}
+ },
+ {
+  "tag": "section",
+  "y": 6907,
+  "h": 461,
+  "firstHeading": "Get monthly product updates from our new",
+  "wrapperStyle": "",
+  "wrapperData": {}
+ },
+ {
+  "tag": "section",
+  "y": 7528,
+  "h": 538,
+  "firstHeading": "Fix It",
+  "wrapperStyle": "",
+  "wrapperData": {}
+ }
+]

@@ -1,0 +1,38 @@
+# Dependencies
+node_modules/
+
+# Next.js build output
+.next/
+out/
+build/
+
+# Environment files
+.env*
+
+# Logs and debug
+npm-debug.log*
+*.log
+
+# Playwright
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+
+# Dedicated CDP browser profile used for REA captures
+.rea-browser/
+
+# Bulky research captures (videos, raw full-page screenshots, raw HTML/network dumps)
+analysis/videos/
+analysis/screenshots/
+analysis/diffs/
+analysis/raw/
+
+# TypeScript build info
+*.tsbuildinfo
+next-env.d.ts
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+.vscode/

@@ -1,0 +1,38 @@
+{
+  "name": "sentry-welcome-clone",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Local study recreation of the sentry.io/welcome landing page (Next.js App Router + Tailwind).",
+  "scripts": {
+    "dev": "next dev -p 3300",
+    "build": "next build",
+    "start": "next start -p 3400",
+    "lint": "eslint .",
+    "typecheck": "tsc --noEmit",
+    "cdp:host": "node scripts/recon/cdp-host.mjs",
+    "capture:reference": "node scripts/shared/capture.mjs https://sentry.io/welcome/ analysis/screenshots/reference",
+    "capture:local": "node scripts/shared/capture.mjs http://localhost:3400/ analysis/screenshots/local",
+    "diff": "node scripts/compare/diff.mjs",
+    "test:e2e": "playwright test"
+  },
+  "dependencies": {
+    "@rive-app/canvas": "2.38.5",
+    "next": "16.4.3",
+    "react": "19.2.0",
+    "react-dom": "19.2.0"
+  },
+  "devDependencies": {
+    "@playwright/test": "1.64.1",
+    "@tailwindcss/postcss": "4.3.3",
+    "@types/node": "^24",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "eslint": "^9",
+    "eslint-config-next": "16.4.3",
+    "pixelmatch": "8.0.0",
+    "playwright": "1.64.1",
+    "pngjs": "7.0.0",
+    "tailwindcss": "4.3.3",
+    "typescript": "^5"
+  }
+}

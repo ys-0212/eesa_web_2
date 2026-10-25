@@ -1,0 +1,106 @@
+{
+ "url": "http://localhost:3400/",
+ "label": "local",
+ "steps": [
+  {
+   "name": "loaded",
+   "t": 1792930953666
+  },
+  {
+   "name": "hero-cursor",
+   "t": 1792930958461
+  },
+  {
+   "name": "breaks-hover",
+   "t": 1792930960267
+  },
+  {
+   "name": "hero-Get Started-hover",
+   "t": 1792930961252,
+   "bg": "2% 0px"
+  },
+  {
+   "name": "hero-Get Demo-hover",
+   "t": 1792930962514,
+   "bg": "2% 0px"
+  },
+  {
+   "name": "menu-open",
+   "t": 1792930963583,
+   "expanded": "true"
+  },
+  {
+   "name": "menu-escape",
+   "t": 1792930963924,
+   "expanded": "false"
+  },
+  {
+   "name": "logos",
+   "t": 1792930971988
+  },
+  {
+   "name": "features",
+   "t": 1792930974567
+  },
+  {
+   "name": "tabs0-0",
+   "t": 1792930977782
+  },
+  {
+   "name": "tabs0-1",
+   "t": 1792930979148
+  },
+  {
+   "name": "tabs0-2",
+   "t": 1792930980526
+  },
+  {
+   "name": "tabs1-0",
+   "t": 1792930983881
+  },
+  {
+   "name": "tabs1-1",
+   "t": 1792930985343
+  },
+  {
+   "name": "tabs1-2",
+   "t": 1792930986920
+  },
+  {
+   "name": "snippet-python",
+   "t": 1792930991450
+  },
+  {
+   "name": "copied",
+   "t": 1792930991920,
+   "clipboard": "pip install --upgrade sentry-sdk"
+  },
+  {
+   "name": "newsletter-focus",
+   "t": 1792930996375
+  },
+  {
+   "name": "footer-hover",
+   "t": 1792930998624
+  },
+  {
+   "name": "m-menu-open",
+   "t": 1792931021212,
+   "expanded": "true"
+  },
+  {
+   "name": "m-carousel",
+   "t": 1792931025270,
+   "prevDisabled": false
+  },
+  {
+   "name": "m-tabs",
+   "t": 1792931028268
+  },
+  {
+   "name": "m-badges",
+   "t": 1792931030750
+  }
+ ],
+ "desktopErrors": []
+}
